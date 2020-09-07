@@ -1,6 +1,5 @@
 const { completePayTable } = require('./facility_info.js');
 const { db, Pay } = require('./connect.js');
-
 const facilityList = [
   'A11',
   'A80',
@@ -323,7 +322,48 @@ function insertToDb(list) {
   for (let i = 0, len = list.length; i < len; i++) {
     let fac = list[i];
     let facData = completePayTable(fac);
-    const doc = { fac_id: fac, data: facData };
+    const [COLACPCMAX, COLACPC, COLAD3, COLAD2, COLAD1, COLAAG] = facData.COLA;
+    const [CPCMAX, CPC, D3, D2, D1, AG] = facData.PayTable;
+    const differentialType = facData.differentialType || null;
+
+    let [DIFCPCMAX, DIFCPC, DIFD3, DIFD2, DIFD1, DIFAG] = [null, null, null, null, null, null];
+
+    if (facData.differentialType) {
+      [DIFCPCMAX, DIFCPC, DIFD3, DIFD2, DIFD1, DIFAG] = facData.differentialAmount;
+    }
+    const differentialPercentage = facData.differentialPercentage;
+
+    const doc = {
+      fac_id: fac,
+      CPCMAX: CPCMAX,
+      CPC: CPC,
+      CPCD3: D3,
+      CPCD2: D2,
+      CPCD1: D1,
+      CPCAG: AG,
+      'CIP%': facData['CIP%'],
+      CIPCPCMAX: facData.CIP[0],
+      CIPCPC: facData.CIP[1],
+      CIPD3: facData.CIP[2],
+      CIPD2: facData.CIP[3],
+      CIPD1: facData.CIP[4],
+      CIPAG: facData.CIP[5],
+      'COLA%': facData['COLA%'],
+      COLACPCMAX: COLACPCMAX,
+      COLACPC: COLACPC,
+      COLAD3: COLAD3,
+      COLAD2: COLAD2,
+      COLAD1: COLAD1,
+      COLAAG: COLAAG,
+      differentialType: differentialType,
+      DIFCPCMAX: DIFCPCMAX,
+      DIFCPC: DIFCPC,
+      DIFD3: DIFD3,
+      DIFD2: DIFD2,
+      DIFD1: DIFD1,
+      DIFAG: DIFAG,
+      differentialPercentage: differentialPercentage,
+    };
     docs.push(doc);
   }
 

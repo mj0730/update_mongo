@@ -4854,7 +4854,7 @@ function completePayTable(facility) {
     COLA: colaAmounts,
     differentialType: differentialType,
     differentialAmount: differentialAmount.amount,
-    differntialPercentage: differentialAmount.percentage,
+    differentialPercentage: differentialAmount.percentage,
   };
 }
 
