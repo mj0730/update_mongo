@@ -324,6 +324,7 @@ function insertToDb(list) {
     let facData = completePayTable(fac);
     const [COLACPCMAX, COLACPC, COLAD3, COLAD2, COLAD1, COLAAG] = facData.COLA;
     const [CPCMAX, CPC, D3, D2, D1, AG] = facData.PayTable;
+    const [CIPCPCMAX, CIPCPC, CIPD3, CIPD2, CIPD1, CIPAG] = facData.CIP;
     const differentialType = facData.differentialType || null;
 
     let [DIFCPCMAX, DIFCPC, DIFD3, DIFD2, DIFD1, DIFAG] = [null, null, null, null, null, null];
@@ -342,12 +343,12 @@ function insertToDb(list) {
       D1: D1,
       AG: AG,
       'CIP%': facData['CIP%'],
-      CIPCPCMAX: facData.CIP[0],
-      CIPCPC: facData.CIP[1],
-      CIPD3: facData.CIP[2],
-      CIPD2: facData.CIP[3],
-      CIPD1: facData.CIP[4],
-      CIPAG: facData.CIP[5],
+      CIPCPCMAX: CIPCPCMAX,
+      CIPCPC: CIPCPC,
+      CIPD3: CIPD3,
+      CIPD2: CIPD2,
+      CIPD1: CIPD1,
+      CIPAG: CIPAG,
       'COLA%': facData['COLA%'],
       COLACPCMAX: COLACPCMAX,
       COLACPC: COLACPC,
