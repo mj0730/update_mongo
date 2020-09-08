@@ -4731,6 +4731,12 @@ function getBasePay(callback, facility) {
   return basePayTable;
 }
 
+//this is only to return the rate to keep all pay information available for the database. otherwise, it is not available via the complete pay table function
+function getLocPercent(facility) {
+  const localityResult = getLocality(facility);
+  return localityResult[1] * 100;
+}
+
 //Find CIP or return 0
 function getCip(facility) {
   //edge case for N90 handled in final table function
@@ -4805,6 +4811,8 @@ function completePayTable(facility) {
 
   facility = facility.toUpperCase();
 
+  const locPercent = getLocPercent(facility);
+
   const basePayTable = getBasePay(getBasicPay, facility);
 
   let cipPercentage = getCip(facility) * 100 || 0;
@@ -4855,6 +4863,7 @@ function completePayTable(facility) {
     differentialType: differentialType,
     differentialAmount: differentialAmount.amount,
     differentialPercentage: differentialAmount.percentage,
+    'LOC%': locPercent,
   };
 }
 
