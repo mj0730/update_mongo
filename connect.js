@@ -27,6 +27,7 @@ const paySchema = new mongoose.Schema(
     D1: Number,
     AG: Number,
     'LOC%': String,
+    locArea: String,
     'CIP%': String,
     CIPCPCMAX: Number,
     CIPCPC: Number,

@@ -4715,7 +4715,6 @@ function getLocality(fac) {
 //Create BASE PAY scale
 function getBasePay(callback, facility) {
   const localityResult = getLocality(facility);
-  // let locName = locality[0]; //not used for now. Used to display the text on the front end
   let locRate = 1 + localityResult[1];
 
   //multiply locality with the basic pay
@@ -4812,6 +4811,7 @@ function completePayTable(facility) {
   facility = facility.toUpperCase();
 
   const locPercent = getLocPercent(facility);
+  const locArea = getLocality(facility);
 
   const basePayTable = getBasePay(getBasicPay, facility);
 
@@ -4864,6 +4864,7 @@ function completePayTable(facility) {
     differentialAmount: differentialAmount.amount,
     differentialPercentage: differentialAmount.percentage,
     'LOC%': locPercent,
+    locArea: locArea[0],
   };
 }
 

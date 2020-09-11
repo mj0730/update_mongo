@@ -343,6 +343,7 @@ function insertToDb(list) {
       D1: D1,
       AG: AG,
       'LOC%': facData['LOC%'],
+      locArea: facData.locArea,
       'CIP%': facData['CIP%'],
       CIPCPCMAX: CIPCPCMAX,
       CIPCPC: CIPCPC,
