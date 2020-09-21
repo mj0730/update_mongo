@@ -4,11 +4,13 @@
   "description": "Compile data for FAA Facility App",
   "main": "index.js",
   "dependencies": {
-    "mongoose": "^5.10.3"
+    "csv-parser": "^2.3.3",
+    "mongoose": "^5.10.6"
   },
   "devDependencies": {},
   "scripts": {
-    "run": "node update.js"
+    "run": "node update.js",
+    "json": "node readcsv.js"
   },
   "author": "MJ",
   "license": "ISC"
