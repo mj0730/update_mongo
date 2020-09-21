@@ -51,7 +51,8 @@ const paySchema = new mongoose.Schema(
     DIFAG: Number,
     differentialPercentage: Number,
   },
-  { collection: 'pay' }
+  { collection: 'pay' },
+  { timestamps: true }
 );
 
 const Pay = mongoose.model('Pay', paySchema);
