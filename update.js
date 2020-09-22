@@ -2,17 +2,17 @@ const { completePayTable } = require('./facility_info.js');
 const { db, Pay } = require('./connect.js');
 const jsonData = require('./json/facilityData.json');
 
-function createFacilityList(data) {
+function createFacilityList(data, key) {
   const storage = [];
 
   for (let i = 0; i < data.length; i++) {
-    storage.push(data[i].facId);
+    storage.push(data[i][key]);
   }
 
   return storage;
 }
 
-const facilityList = createFacilityList(jsonData);
+const facilityList = createFacilityList(jsonData, 'facId');
 
 function insertToDb(list) {
   const docs = [];
