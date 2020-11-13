@@ -22,7 +22,12 @@ function updateAll(array) {
     const results = [];
 
     fs.createReadStream(file)
-      .pipe(csv())
+      .pipe(
+        csv({
+          mapHeaders: ({ header }) => header.trim(),
+          mapValues: ({ value }) => value.trim(),
+        })
+      )
       .on('data', (data) => results.push(data))
       .on('end', () => {
         console.log(`Reading... ${file}`);

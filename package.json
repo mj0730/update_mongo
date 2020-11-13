@@ -9,7 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "run": "node update.js",
+    "run": "node readcsv.js && node update.js",
+    "update": "node update.js",
     "json": "node readcsv.js"
   },
   "author": "MJ",
