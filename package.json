@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "run": "node readcsv.js && node update.js",
+    "run-all": "node readcsv.js && node update.js",
     "update": "node update.js",
     "json": "node readcsv.js"
   }

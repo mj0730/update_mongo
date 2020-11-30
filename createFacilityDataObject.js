@@ -7,6 +7,6 @@ jsonData.forEach((x) => {
   data[x['facId']].travelDays = Number.parseInt(x.travelDays) || 'X';
   data[x['facId']].level = Number.parseInt(x.level);
 });
-console.log(data);
+//console.log(data);
 
 module.exports = data;
