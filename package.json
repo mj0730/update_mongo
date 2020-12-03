@@ -1,13 +1,13 @@
 {
   "name": "mongodatabuild",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compile data for FAA Facility App",
   "author": "MJ",
   "license": "ISC",
   "main": "index.js",
   "dependencies": {
-    "csv-parser": "^2.3.3",
-    "mongoose": "^5.11.0"
+    "csv-parser": "^2.3.4",
+    "mongoose": "^5.11.2"
   },
   "devDependencies": {
     "eslint": "^7.14.0"

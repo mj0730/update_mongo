@@ -1,6 +1,6 @@
 const { completePayTable } = require('./facility_info.js');
 const { Pay } = require('./db/connect.js');
-const jsonData = require('./json/facilityData.json');
+const payData = require('./json/facilityData.json');
 
 function createFacilityList(data, key) {
   const storage = [];
@@ -12,7 +12,7 @@ function createFacilityList(data, key) {
   return storage;
 }
 
-const facilityList = createFacilityList(jsonData, 'facId');
+const facilityList = createFacilityList(payData, 'facId');
 
 (async function writePayToDb(list) {
   const docs = [];
@@ -68,15 +68,18 @@ const facilityList = createFacilityList(jsonData, 'facId');
     docs.push(doc);
   }
 
-  await Pay.bulkWrite(
-    docs.map((doc) => ({
-      updateOne: {
-        filter: { fac_id: doc.fac_id },
-        update: { $set: doc },
-        upsert: true,
-      },
-    }))
-  );
-
-  console.log('** Pay write complete **');
+  try {
+    await Pay.bulkWrite(
+      docs.map((doc) => ({
+        updateOne: {
+          filter: { fac_id: doc.fac_id },
+          update: { $set: doc },
+          upsert: true,
+        },
+      }))
+    );
+    console.log('** Pay write complete **');
+  } catch (error) {
+    console.error(error);
+  }
 })(facilityList);
