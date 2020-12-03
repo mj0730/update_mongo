@@ -3,7 +3,7 @@ const uri = require('../secret.js');
 const paySchema = require('./paySchema');
 const facilitydataSchema = require('./facilitydataSchema');
 const pptdataSchema = require('./pptdataSchema');
-const localhost = 'mongodb://localhost:27017/p65';
+// const localhost = 'mongodb://localhost:27017/p65';
 
 mongoose.connect(uri, {
   useNewUrlParser: true,
