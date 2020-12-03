@@ -20,4 +20,4 @@ const Fac = mongoose.model('Facilitydata', facilitydataSchema);
 const Pay = mongoose.model('Pay', paySchema);
 const Ppt = mongoose.model('Pptdata', pptdataSchema);
 
-module.exports = { db, Fac, Pay, Ppt };
+module.exports = { Fac, Pay, Ppt };

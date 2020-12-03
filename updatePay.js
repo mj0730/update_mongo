@@ -14,7 +14,7 @@ function createFacilityList(data, key) {
 
 const facilityList = createFacilityList(jsonData, 'facId');
 
-function insertToDb(list) {
+(async function writePayToDb(list) {
   const docs = [];
 
   for (let i = 0, len = list.length; i < len; i++) {
@@ -68,7 +68,7 @@ function insertToDb(list) {
     docs.push(doc);
   }
 
-  Pay.bulkWrite(
+  await Pay.bulkWrite(
     docs.map((doc) => ({
       updateOne: {
         filter: { fac_id: doc.fac_id },
@@ -77,7 +77,6 @@ function insertToDb(list) {
       },
     }))
   );
-  console.log('** Job Complete **');
-}
 
-insertToDb(facilityList);
+  console.log('** Pay write complete **');
+})(facilityList);
