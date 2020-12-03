@@ -1,5 +1,5 @@
 const { completePayTable } = require('./facility_info.js');
-const { db, Pay } = require('./connect.js');
+const { Pay } = require('./db/connect.js');
 const jsonData = require('./json/facilityData.json');
 
 function createFacilityList(data, key) {
