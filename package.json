@@ -6,11 +6,11 @@
   "license": "ISC",
   "main": "index.js",
   "dependencies": {
-    "csv-parser": "^2.3.4",
-    "mongoose": "^5.11.2"
+    "csv-parser": "^2.3.5",
+    "mongoose": "^5.11.9"
   },
   "devDependencies": {
-    "eslint": "^7.14.0"
+    "eslint": "^7.16.0"
   },
   "scripts": {
     "run-all": "node readcsv.js && node update.js",
