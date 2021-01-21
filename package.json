@@ -1,7 +1,7 @@
 {
-  "name": "mongodatabuild",
-  "version": "1.0.2",
-  "description": "Compile data for FAA Facility App",
+  "name": "mongo-data-build",
+  "version": "1.0.3",
+  "description": "Update data for pointsixtyfive databases",
   "author": "MJ",
   "license": "ISC",
   "main": "index.js",

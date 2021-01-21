@@ -1,6 +1,7 @@
-const { completePayTable } = require('./facility_info.js');
+const facilityInfo = require('@pointsixtyfive/paycharts/facility_info.js');
+const { completePayTable } = facilityInfo;
 const { Pay } = require('./db/connect.js');
-const payData = require('./json/facilityData.json');
+const facilityData = require('./json/facilityData.json');
 
 function createFacilityList(data, key) {
   const storage = [];
@@ -12,7 +13,7 @@ function createFacilityList(data, key) {
   return storage;
 }
 
-const facilityList = createFacilityList(payData, 'facId');
+const facilityList = createFacilityList(facilityData, 'facId');
 
 (async function writePayToDb(list) {
   const docs = [];
@@ -23,11 +24,11 @@ const facilityList = createFacilityList(payData, 'facId');
     const [COLACPCMAX, COLACPC, COLAD3, COLAD2, COLAD1, COLAAG] = facData.COLA;
     const [CPCMAX, CPC, D3, D2, D1, AG] = facData.PayTable;
     const [CIPCPCMAX, CIPCPC, CIPD3, CIPD2, CIPD1, CIPAG] = facData.CIP;
-    const differentialType = facData.differentialType || null;
+    const differentialType = facData.differentialType;
 
     let [DIFCPCMAX, DIFCPC, DIFD3, DIFD2, DIFD1, DIFAG] = [null, null, null, null, null, null];
 
-    if (facData.differentialType) {
+    if (facData.differentialType != 'none') {
       [DIFCPCMAX, DIFCPC, DIFD3, DIFD2, DIFD1, DIFAG] = facData.differentialAmount;
     }
     const differentialPercentage = facData.differentialPercentage;
