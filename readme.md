@@ -13,6 +13,6 @@ Copy the csv files being used to input data into the `/csv` directory. JSON outp
 
 ## Use
 
-`npm run-all`: Creates new json files from the csv inputs, then updates the database.  
+`npm run all`: Creates new json files from the csv inputs, then updates the database.  
 `npm run update`: Updates the database with the current json data.  
 `npm run json`: Creates new json files from the csv inputs only.
