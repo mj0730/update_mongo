@@ -8,10 +8,10 @@
   "dependencies": {
     "@pointsixtyfive/paycharts": "^1.1.2",
     "csv-parser": "^3.0.0",
-    "mongoose": "^5.11.14"
+    "mongoose": "^5.11.18"
   },
   "devDependencies": {
-    "eslint": "^7.19.0"
+    "eslint": "^7.21.0"
   },
   "scripts": {
     "all": "node readcsv.js && node update.js",
