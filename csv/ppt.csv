@@ -1,316 +1,316 @@
 Service Area,District,Facility Type,Level,Facility ID,Facility Name,CPC Target,Current # of CPC On-Board,CPC on Temp,CPC on Long Term Hold,Current # of CPC On-Board minus Temps minus LTH,Current % CPC to Target,Training Time Years,ATCS in Training,ATCS in Training on Long Term Hold,ATCS in Training minus LTH,Training Success Rate,Current ATCS in Training Expected to Cert,Committed ATCS Inbound,Placement List Inbounds,Temps Inbound,Inbounds Expected to Cert + Temps Inbound,Committed ATCS Outbound,Placement List Outbounds,Temps Outbound,Projected Retirements and Other Losses,Projected % to Target,Possible Gains to National Average,Possible Gains to Target,ERR Category,Possible Losses,Current % CPC to Trainees,TNE,AG,Dev1,Dev2,Dev3,Dev Total,CPCIT0,CPCIT1,CPCIT2,CPCIT3,CPCIT Total,EnRoute or Terminal,HRRegion,CoreAirport,Type
-Western,Alaska,Approach Control,8,A11,Anchorage TRACON,24,18,0,0,18,75.0%,1.42,5,0,5,87.1%,4.4,1,0,0,0.9,0,0,0,1.3,91.3%,0,3,None,0,21.7%,0,3,0,0,0,3,1,0,1,0,2,TR,AL,No,2
-Eastern,Atlanta ,Approach Control,12,A80,Atlanta TRACON,102,81,2,0,79,77.5%,1.33,17,0,17,41.4%,7.0,6,1,2,4.9,1,0,0,6.6,81.7%,22,46,None,0,17.7%,0,1,0,0,0,1,10,1,4,1,16,TR,SO,No,2
-Eastern,Boston ,Approach Control,11,A90,Boston TRACON,77,64,0,0,64,83.1%,0.79,10,0,10,94.1%,9.4,0,0,0,0.0,0,0,0,5.1,88.7%,2,10,None,0,13.5%,0,0,0,0,0,0,5,1,0,4,10,TR,NE,No,2
-Eastern,New York ,Tower and Approach Control,7,ABE,Allentown Tower,30,27,0,0,27,90.0%,2.54,8,0,8,79.3%,6.3,0,0,0,0.0,2,0,0,1.7,98.9%,0,1,Category 2,2,22.9%,0,4,0,2,1,7,0,0,0,1,1,TR,EA,No,3
-Central,Fort Worth,Tower and Approach Control,6,ABI,Abilene Tower,20,16,0,0,16,80.0%,2.01,8,0,8,85.0%,6.8,1,0,0,0.9,0,0,0,2.6,105.5%,0,0,None,0,33.3%,0,5,0,2,0,7,1,0,0,0,1,TR,SW,No,3
-Central,Albuquerque ,Tower and Approach Control,8,ABQ,Albuquerque Tower,32,21,0,0,21,65.6%,1.65,15,0,15,73.3%,11.0,0,0,0,0.0,0,0,0,1.3,96.0%,0,2,None,0,41.7%,0,2,0,6,3,11,4,0,0,0,4,TR,WP,No,3
-Eastern,Boston ,Tower,5,ACK,Nantucket Tower,11,8,0,0,8,72.7%,0.85,5,0,5,80.0%,4.0,0,0,0,0.0,0,0,0,1.0,100.0%,0,0,None,0,38.5%,0,5,0,0,0,5,0,0,0,0,0,TR,NE,No,7
-Central,Fort Worth,Tower and Approach Control,6,ACT,Waco Tower,22,20,0,0,20,90.9%,1.79,3,0,3,80.0%,2.4,0,0,0,0.0,0,0,0,0.6,99.3%,0,1,Category 1,2,13.0%,0,0,0,1,0,1,0,0,1,1,2,TR,SW,No,3
-Eastern,Washington ,Tower and Approach Control,6,ACY,Atlantic City Tower,26,20,0,0,20,76.9%,2.68,9,0,9,80.6%,7.3,0,0,0,0.0,1,0,0,2.7,90.7%,0,4,None,0,31.0%,0,5,0,3,0,8,0,0,1,0,1,TR,EA,No,3
-Central,Fort Worth,Tower,6,ADS,Addison Tower,11,10,0,0,10,90.9%,0.44,1,0,1,92.3%,0.9,0,0,0,0.0,0,0,0,0.2,97.7%,0,1,Category 1,1,9.1%,0,0,0,0,0,0,1,0,0,0,1,TR,SW,No,7
-Eastern,Washington ,Tower,5,ADW,Andrews Tower,15,15,0,0,15,100.0%,0.76,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,1,0.3,98.1%,0,1,Category 1,2,6.3%,0,0,0,0,1,1,0,0,0,0,0,TR,EA,No,7
-Central,Fort Worth,Tower,6,AFW,Alliance Tower,15,14,0,0,14,93.3%,0.76,4,0,4,88.2%,3.5,0,0,0,0.0,2,0,0,0.5,100.0%,0,0,Category 1,2,22.2%,0,2,0,0,1,3,0,0,0,1,1,TR,SW,No,7
-Central,Cleveland ,Tower,4,AGC,Allegheny Tower,15,13,0,0,13,86.7%,1.20,4,0,4,92.9%,3.7,0,0,0,0.0,1,0,0,0.3,103.0%,0,0,Category 2,1,23.5%,0,1,0,0,2,3,1,0,0,0,1,TR,EA,No,7
+Western,Alaska,Approach Control,8,A11,Anchorage TRACON,24,18,0,0,18,75.0%,1.42,5,0,5,87.1%,4.4,1,0,0,0.9,0,0,0,1.3,91.3%,5,3,None,0,21.7%,0,3,0,0,0,3,1,0,1,0,2,TR,AL,No,2
+Eastern,Atlanta ,Approach Control,12,A80,Atlanta TRACON,102,83,2,0,81,79.4%,1.33,13,0,13,41.4%,5.4,6,1,2,4.9,1,0,0,6.6,82.0%,60,45,None,0,13.8%,0,1,0,0,0,1,8,1,3,0,12,TR,SO,No,2
+Eastern,Boston ,Approach Control,11,A90,Boston TRACON,77,61,0,0,61,79.2%,0.79,12,0,12,94.1%,11.3,0,0,0,0.0,0,0,0,5.1,87.2%,16,11,None,0,16.4%,0,0,0,0,0,0,5,1,0,6,12,TR,NE,No,2
+Eastern,New York ,Tower and Approach Control,7,ABE,Allentown Tower,30,27,0,0,27,90.0%,2.54,8,0,8,79.3%,6.3,0,0,0,0.0,3,0,0,1.7,95.5%,5,2,Category 2,2,22.9%,0,4,0,2,1,7,0,0,0,1,1,TR,EA,No,3
+Central,Fort Worth,Tower and Approach Control,6,ABI,Abilene Tower,20,17,0,0,17,85.0%,2.01,8,0,8,85.0%,6.8,0,0,0,0.0,0,0,0,2.6,106.2%,1,0,None,0,32.0%,0,6,0,2,0,8,0,0,0,0,0,TR,SW,No,3
+Central,Albuquerque ,Tower and Approach Control,8,ABQ,Albuquerque Tower,32,21,0,0,21,65.6%,1.65,15,0,15,73.3%,11.0,0,0,0,0.0,0,0,0,1.3,96.0%,5,2,None,0,41.7%,0,2,0,6,3,11,4,0,0,0,4,TR,WP,No,3
+Eastern,Boston ,Tower,5,ACK,Nantucket Tower,11,8,0,0,8,72.7%,0.85,5,0,5,80.0%,4.0,0,0,0,0.0,1,0,0,1.0,90.9%,3,2,None,0,38.5%,0,5,0,0,0,5,0,0,0,0,0,TR,NE,No,7
+Central,Fort Worth,Tower and Approach Control,6,ACT,Waco Tower,22,20,0,0,20,90.9%,1.88,3,0,3,84.0%,2.5,0,0,0,0.0,0,0,0,0.6,99.8%,2,1,Category 1,2,13.0%,0,0,0,1,0,1,0,0,1,1,2,TR,SW,No,3
+Eastern,Washington ,Tower and Approach Control,6,ACY,Atlantic City Tower,26,20,0,0,20,76.9%,2.68,11,0,11,80.6%,8.9,0,0,0,0.0,1,0,0,2.7,96.9%,4,2,None,0,35.5%,0,7,0,3,0,10,0,0,1,0,1,TR,EA,No,3
+Central,Fort Worth,Tower,6,ADS,Addison Tower,11,10,0,0,10,90.9%,0.44,1,0,1,92.3%,0.9,0,1,0,0.9,0,0,0,0.2,106.1%,1,0,Category 1,1,9.1%,0,0,0,0,0,0,1,0,0,0,1,TR,SW,No,7
+Eastern,Washington ,Tower,5,ADW,Andrews Tower,15,15,0,0,15,100.0%,0.76,1,0,1,100.0%,1.0,0,0,0,0.0,1,0,1,0.3,91.5%,3,2,Category 1,1,6.3%,0,0,0,0,1,1,0,0,0,0,0,TR,EA,No,7
+Central,Fort Worth,Tower,6,AFW,Alliance Tower,15,12,0,0,12,80.0%,0.76,4,0,4,88.2%,3.5,0,1,0,0.9,0,0,0,0.5,105.9%,1,0,None,0,25.0%,0,2,0,0,1,3,0,0,0,1,1,TR,SW,No,7
+Central,Cleveland ,Tower,4,AGC,Allegheny Tower,15,13,0,0,13,86.7%,1.20,4,0,4,92.9%,3.7,0,0,0,0.0,1,0,0,0.3,103.0%,1,0,Category 2,1,23.5%,0,1,0,0,2,3,1,0,0,0,1,TR,EA,No,7
 Eastern,Atlanta ,Tower and Approach Control,5,AGS,Augusta Tower,15,9,0,0,9,60.0%,2.37,10,0,10,90.9%,9.1,0,0,0,0.0,0,0,0,1.6,109.7%,0,0,None,0,52.6%,0,5,0,0,5,10,0,0,0,0,0,TR,SO,No,3
-Eastern,Boston ,Tower and Approach Control,6,ALB,Albany Tower,28,22,0,0,22,78.6%,2.57,12,0,12,60.0%,7.2,1,0,0,0.6,0,0,0,3.2,94.9%,0,3,None,0,35.3%,0,1,0,10,1,12,0,0,0,0,0,TR,NE,No,3
-Central,Chicago ,Tower and Approach Control,5,ALO,Waterloo Tower,13,7,0,0,7,53.8%,1.66,8,0,8,73.3%,5.9,0,0,0,0.0,0,0,0,0.6,94.7%,0,1,None,0,53.3%,0,5,0,0,3,8,0,0,0,0,0,TR,CE,No,3
-Central,Albuquerque ,Tower and Approach Control,6,AMA,Amarillo Tower,22,21,0,0,21,95.5%,2.36,4,0,4,73.7%,2.9,0,0,0,0.0,1,0,0,1.3,98.2%,0,1,Category 1,3,16.0%,0,4,0,0,0,4,0,0,0,0,0,TR,WP,No,3
-Western,Alaska,Tower,8,ANC,Anchorage Tower,26,18,0,0,18,69.2%,0.60,3,0,3,77.4%,2.3,0,0,0,0.0,0,0,0,0.3,77.0%,5,8,None,0,14.3%,0,2,0,0,0,2,1,0,0,0,1,TR,AL,No,7
-Western,Denver,Tower,8,APA,Centennial Tower,22,16,0,0,16,72.7%,0.70,6,0,6,86.4%,5.2,0,0,0,0.0,0,0,0,0.4,94.3%,0,2,None,0,27.3%,0,0,0,4,0,4,1,0,1,0,2,TR,NM,No,7
-Western,Oakland,Tower,4,APC,Napa Tower,9,6,0,0,6,66.7%,1.20,7,2,5,85.7%,4.3,0,0,0,0.0,1,0,0,0.5,98.1%,0,1,None,0,45.5%,0,3,2,0,2,7,0,0,0,0,0,TR,WP,No,7
-Central,Cleveland ,Tower,5,ARB,Ann Arbor Tower,9,9,0,0,9,100.0%,0.88,1,0,1,82.4%,0.8,0,0,0,0.0,0,1,0,0.5,92.8%,0,1,Category 1,1,10.0%,0,0,0,0,0,0,0,0,0,1,1,TR,GL,No,7
-Central,Chicago ,Tower,4,ARR,Aurora Tower,11,10,0,0,10,90.9%,1.20,2,0,2,91.7%,1.8,1,0,0,0.9,1,0,0,1.1,97.0%,0,1,Category 1,1,16.7%,0,1,0,0,1,2,0,0,0,0,0,TR,GL,No,7
-Western,Denver,Tower and Approach Control,5,ASE,Aspen TRACAB,15,8,0,0,8,53.3%,1.57,9,0,9,78.3%,7.0,0,0,0,0.0,0,0,0,0.2,98.8%,0,1,None,0,52.9%,0,3,0,0,6,9,0,0,0,0,0,TR,NM,No,3
-Eastern,Atlanta ,Tower,12,ATL,Atlanta Tower,47,41,2,0,39,83.0%,0.82,3,0,3,54.5%,1.6,1,0,2,2.5,0,0,0,2.6,86.4%,4,12,None,0,7.1%,0,0,0,0,0,0,1,0,2,0,3,TR,SO,Yes,7
-Central,Houston ,Tower and Approach Control,9,AUS,Austin Tower,38,35,0,1,34,89.5%,1.37,8,0,8,67.5%,5.4,0,0,0,0.0,1,0,0,1.8,96.3%,0,3,Category 2,2,19.0%,0,0,0,0,0,0,1,2,4,1,8,TR,SW,No,3
-Eastern,Atlanta ,Tower and Approach Control,6,AVL,Asheville Tower,17,16,0,0,16,94.1%,1.08,3,0,3,90.5%,2.7,0,0,0,0.0,1,0,0,0.7,99.8%,0,1,Category 1,2,15.8%,0,2,0,0,0,2,1,0,0,0,1,TR,SO,No,3
-Eastern,New York ,Tower and Approach Control,6,AVP,Wilkes-Barre Tower,20,15,0,0,15,75.0%,1.70,8,0,8,85.7%,6.9,0,0,0,0.0,0,0,0,1.2,103.1%,0,0,None,0,34.8%,0,4,0,1,3,8,0,0,0,0,0,TR,EA,No,3
-Central,Chicago ,Tower and Approach Control,7,AZO,Kalamazoo Tower,58,51,0,0,51,87.9%,1.68,10,0,10,88.9%,8.9,0,0,0,0.0,0,0,0,3.4,97.4%,0,2,Category 2,2,16.4%,0,8,0,0,0,8,1,0,1,0,2,TR,GL,No,3
-Eastern,Boston ,Tower,5,BDL,Bradley Tower,17,17,1,0,16,94.1%,0.83,1,0,1,73.3%,0.7,0,0,1,1.0,1,0,0,0.6,95.0%,0,2,Category 1,2,5.9%,0,0,0,0,1,1,0,0,0,0,0,TR,NE,No,7
-Eastern,Boston ,Tower,6,BED,Hanscom Tower,17,12,0,0,12,70.6%,0.75,7,0,7,86.7%,6.1,0,0,0,0.0,0,0,0,0.6,102.8%,0,0,None,0,36.8%,0,3,0,0,3,6,1,0,0,0,1,TR,NE,No,7
-Western,Seattle,Tower,7,BFI,Boeing Tower,19,17,0,0,17,89.5%,1.04,5,0,5,80.0%,4.0,0,0,0,0.0,0,0,0,1.2,104.3%,0,0,Category 2,1,22.7%,0,4,0,0,0,4,1,0,0,0,1,TR,NM,No,7
-Western,Los Angeles ,Tower and Approach Control,6,BFL,Bakersfield Tower,22,19,0,0,19,86.4%,1.71,5,0,5,79.4%,4.0,0,0,0,0.0,2,0,0,1.1,90.2%,1,3,Category 2,1,20.8%,0,2,0,1,2,5,0,0,0,0,0,TR,WP,No,3
-Eastern,New York ,Tower and Approach Control,5,BGM,Binghamton Tower,15,12,0,1,11,73.3%,1.55,3,0,3,94.7%,2.8,0,0,1,1.0,0,0,0,0.6,95.3%,0,1,None,0,21.4%,0,2,0,0,1,3,0,0,0,0,0,TR,EA,No,3
-Eastern,Boston ,Tower and Approach Control,5,BGR,Bangor Tower,22,14,0,0,14,63.6%,1.69,11,0,11,68.4%,7.5,0,0,0,0.0,0,0,0,1.4,91.6%,0,3,None,0,44.0%,0,5,0,0,6,11,0,0,0,0,0,TR,NE,No,3
-Eastern,Atlanta ,Tower and Approach Control,8,BHM,Birmingham Tower,30,20,0,0,20,66.7%,1.52,12,0,12,84.6%,10.2,0,0,0,0.0,0,0,0,1.4,95.7%,0,2,None,0,37.5%,0,3,0,5,2,10,1,0,1,0,2,TR,SO,No,3
-Western,Salt Lake,Tower and Approach Control,6,BIL,Billings Tower,22,17,0,0,17,77.3%,2.57,7,0,7,79.2%,5.5,0,0,0,0.0,0,0,0,1.3,96.3%,0,2,None,0,29.2%,0,6,0,1,0,7,0,0,0,0,0,TR,NM,No,3
-Central,Minneapolis ,Tower and Approach Control,5,BIS,Bismarck TRACAB,13,10,1,0,9,69.2%,1.65,4,0,4,100.0%,4.0,0,0,1,1.0,0,0,0,1.0,100.0%,0,0,None,0,30.8%,0,2,0,0,2,4,0,0,0,0,0,TR,GL,No,3
-Western,Denver,Tower,7,BJC,Broomfield Tower,11,9,0,0,9,81.8%,0.79,2,0,2,100.0%,2.0,1,0,0,1.0,0,0,0,0.5,104.6%,0,0,None,0,18.2%,0,0,0,0,0,0,1,0,0,1,2,TR,NM,No,7
-Eastern,Memphis ,Tower and Approach Control,9,BNA,Nashville Tower,39,32,0,0,32,82.1%,1.42,8,0,8,80.0%,6.4,0,0,0,0.0,0,0,0,1.9,93.6%,0,4,None,0,20.0%,0,2,0,0,1,3,0,4,1,0,5,TR,SO,No,3
-Western,Salt Lake,Tower and Approach Control,8,BOI,Boise Tower,30,24,0,1,23,76.7%,1.78,5,0,5,81.5%,4.1,0,0,0,0.0,0,0,0,2.3,82.5%,3,7,None,0,17.9%,0,0,1,0,1,2,2,0,1,0,3,TR,NM,No,3
-Eastern,Boston ,Tower,10,BOS,Boston Tower,34,23,0,1,22,64.7%,1.09,8,0,8,82.6%,6.6,0,0,0,0.0,0,0,0,2.9,75.7%,7,10,None,0,26.7%,0,0,0,0,0,0,5,0,3,0,8,TR,NE,Yes,7
-Central,Houston ,Tower,4,BPT,Beaumont Tower,11,12,0,0,12,109.1%,0.43,1,0,1,92.3%,0.9,0,0,0,0.0,1,0,0,1.0,99.3%,0,1,Category 1,2,7.7%,0,1,0,0,0,1,0,0,0,0,0,TR,SO,No,7
-Central,Houston ,Tower and Approach Control,6,BTR,Baton Rouge Tower,22,16,0,0,16,72.7%,1.82,9,0,9,87.1%,7.8,0,0,0,0.0,0,1,0,1.1,98.7%,0,1,None,0,36.0%,0,3,0,2,3,8,0,0,1,0,1,TR,SO,No,3
-Eastern,Boston ,Tower and Approach Control,6,BTV,Burlington Tower,22,20,0,0,20,90.9%,2.10,7,0,7,87.5%,6.1,0,0,0,0.0,0,0,0,1.7,111.1%,0,0,Category 1,2,25.9%,0,0,0,4,3,7,0,0,0,0,0,TR,NE,No,3
-Central,Cleveland ,Tower and Approach Control,7,BUF,Buffalo Tower,37,31,0,0,31,83.8%,1.48,8,0,8,87.5%,7.0,0,0,0,0.0,0,0,0,1.7,98.1%,0,1,None,0,20.5%,0,2,0,4,0,6,1,0,1,0,2,TR,EA,No,3
-Western,Los Angeles ,Tower,7,BUR,Burbank Tower,22,16,0,0,16,72.7%,1.14,7,0,7,74.1%,5.2,0,0,0,0.0,0,0,0,0.4,94.6%,0,2,None,0,30.4%,0,7,0,0,0,7,0,0,0,0,0,TR,WP,No,7
-Eastern,Washington ,Tower,8,BWI,Baltimore Tower,22,21,0,2,19,86.4%,0.83,2,0,2,100.0%,2.0,0,1,0,1.0,0,0,0,2.0,90.9%,0,2,Category 2,1,9.5%,0,0,0,0,0,0,0,0,0,2,2,TR,EA,Yes,7
-Central,Chicago ,Approach Control,12,C90,Chicago TRACON,100,73,0,0,73,73.0%,1.76,24,0,24,52.6%,12.6,0,0,0,0.0,0,0,0,11.9,73.8%,32,50,None,0,24.7%,0,1,0,0,1,2,15,0,0,7,22,TR,GL,No,2
-Eastern,Jacksonville ,Tower and Approach Control,6,CAE,Columbia Tower,22,18,0,0,18,81.8%,1.47,7,0,7,100.0%,7.0,0,0,0,0.0,0,0,0,2.2,103.8%,0,0,None,0,28.0%,0,4,0,1,0,5,1,0,1,0,2,TR,SO,No,3
-Central,Cleveland ,Tower,7,CAK,Akron-Canton Tower,15,16,0,0,16,106.7%,1.38,3,0,3,72.2%,2.2,0,0,0,0.0,2,0,0,1.1,100.3%,0,0,Category 1,3,15.8%,0,3,0,0,0,3,0,0,0,0,0,TR,GL,No,7
-Western,Oakland,Tower,5,CCR,Concord Tower,11,8,0,0,8,72.7%,0.82,4,0,4,91.7%,3.7,0,0,0,0.0,0,0,0,0.3,103.8%,0,0,None,0,33.3%,0,1,0,0,3,4,0,0,0,0,0,TR,WP,No,7
-Eastern,New York ,Tower,5,CDW,Caldwell Tower,11,11,0,0,11,100.0%,1.17,1,0,1,72.7%,0.7,0,0,0,0.0,1,0,0,0.3,94.4%,0,1,Category 1,2,8.3%,0,0,1,0,0,1,0,0,0,0,0,TR,EA,No,7
-Eastern,Atlanta ,Tower and Approach Control,6,CHA,Chattanooga Tower,20,16,0,0,16,80.0%,1.58,5,0,5,100.0%,5.0,0,0,0,0.0,0,0,0,0.5,102.4%,0,0,None,0,23.8%,0,1,0,2,0,3,2,0,0,0,2,TR,SO,No,3
-Eastern,Jacksonville ,Tower and Approach Control,8,CHS,Charleston Tower,22,21,1,1,19,86.4%,1.89,4,0,4,75.0%,3.0,0,0,2,2.0,1,0,0,3.3,89.5%,1,4,Category 2,1,17.4%,0,1,0,1,0,2,2,0,0,0,2,TR,SO,No,3
-Central,Chicago ,Tower and Approach Control,5,CID,Cedar Rapids Tower,17,15,0,0,15,88.2%,1.03,4,0,4,88.0%,3.5,1,0,0,0.9,1,1,0,0.7,98.3%,0,1,Category 2,1,21.1%,0,2,0,0,2,4,0,0,0,0,0,TR,CE,No,3
-Central,Cleveland ,Tower and Approach Control,5,CKB,Clarksburg Tower,17,13,0,0,13,76.5%,1.57,6,1,5,80.0%,4.0,0,0,0,0.0,0,0,0,0.7,96.2%,0,1,None,0,27.8%,0,3,0,0,3,6,0,0,0,0,0,TR,EA,No,3
+Eastern,Boston ,Tower and Approach Control,6,ALB,Albany Tower,28,22,0,0,22,78.6%,2.57,12,0,12,60.0%,7.2,1,0,0,0.6,0,0,0,3.2,94.9%,6,3,None,0,35.3%,0,1,0,10,1,12,0,0,0,0,0,TR,NE,No,3
+Central,Chicago ,Tower and Approach Control,5,ALO,Waterloo Tower,13,8,0,0,8,61.5%,1.66,6,0,6,73.3%,4.4,0,0,0,0.0,0,0,0,0.6,91.1%,3,2,None,0,42.9%,0,4,0,0,2,6,0,0,0,0,0,TR,CE,No,3
+Central,Albuquerque ,Tower and Approach Control,6,AMA,Amarillo Tower,22,22,0,0,22,100.0%,2.36,4,0,4,73.7%,2.9,0,0,0,0.0,2,0,0,1.3,98.2%,3,1,Category 1,3,15.4%,0,4,0,0,0,4,0,0,0,0,0,TR,WP,No,3
+Western,Alaska,Tower,8,ANC,Anchorage Tower,26,18,0,0,18,69.2%,0.60,3,0,3,77.4%,2.3,0,0,0,0.0,0,0,0,0.3,77.0%,10,8,None,0,14.3%,0,2,0,0,0,2,1,0,0,0,1,TR,AL,No,7
+Western,Denver,Tower,8,APA,Centennial Tower,22,16,0,0,16,72.7%,0.70,6,0,6,86.4%,5.2,0,0,0,0.0,0,0,0,0.4,94.3%,4,2,None,0,27.3%,0,0,0,4,0,4,1,0,1,0,2,TR,NM,No,7
+Western,Oakland,Tower,4,APC,Napa Tower,9,6,0,0,6,66.7%,1.20,8,2,6,85.7%,5.1,0,0,0,0.0,1,0,0,0.5,107.6%,0,0,None,0,50.0%,0,3,2,0,3,8,0,0,0,0,0,TR,WP,No,7
+Central,Cleveland ,Tower,5,ARB,Ann Arbor Tower,9,9,0,0,9,100.0%,0.89,2,0,2,82.1%,1.6,0,0,0,0.0,1,0,0,0.5,101.9%,1,0,Category 1,2,18.2%,0,1,0,0,0,1,0,0,0,1,1,TR,GL,No,7
+Central,Chicago ,Tower,4,ARR,Aurora Tower,11,10,0,0,10,90.9%,1.20,2,0,2,91.7%,1.8,1,0,0,0.9,1,0,0,1.1,97.0%,2,1,Category 1,1,16.7%,0,1,0,0,1,2,0,0,0,0,0,TR,GL,No,7
+Western,Denver,Tower and Approach Control,5,ASE,Aspen TRACAB,15,8,0,0,8,53.3%,1.57,9,0,9,78.3%,7.0,0,0,0,0.0,0,0,0,0.2,98.8%,2,1,None,0,52.9%,0,3,0,0,6,9,0,0,0,0,0,TR,NM,No,3
+Eastern,Atlanta ,Tower,12,ATL,Atlanta Tower,47,41,2,0,39,83.0%,0.82,3,0,3,54.5%,1.6,1,0,2,2.5,0,0,0,2.6,86.4%,18,12,None,0,7.1%,0,0,0,0,0,0,1,0,2,0,3,TR,SO,Yes,7
+Central,Houston ,Tower and Approach Control,9,AUS,Austin Tower,38,35,0,1,34,89.5%,1.37,8,0,8,67.5%,5.4,0,0,0,0.0,1,0,0,1.8,96.3%,6,3,Category 2,2,19.0%,0,0,0,0,0,0,1,2,4,1,8,TR,SW,No,3
+Eastern,Atlanta ,Tower and Approach Control,6,AVL,Asheville Tower,17,16,0,0,16,94.1%,1.08,3,0,3,90.5%,2.7,0,1,0,0.9,1,0,0,0.7,105.1%,1,0,Category 1,2,15.8%,0,2,0,0,0,2,1,0,0,0,1,TR,SO,No,3
+Eastern,New York ,Tower and Approach Control,6,AVP,Wilkes-Barre Tower,20,15,0,0,15,75.0%,1.70,8,1,7,85.7%,6.0,0,0,0,0.0,0,0,0,1.2,98.8%,2,1,None,0,31.8%,0,4,0,1,3,8,0,0,0,0,0,TR,EA,No,3
+Central,Chicago ,Tower and Approach Control,7,AZO,Kalamazoo Tower,58,51,0,0,51,87.9%,1.68,10,0,10,88.9%,8.9,0,0,0,0.0,0,0,0,3.4,97.4%,6,2,Category 2,2,16.4%,0,7,0,0,1,8,1,0,1,0,2,TR,GL,No,3
+Eastern,Boston ,Tower,5,BDL,Bradley Tower,17,16,0,0,16,94.1%,0.83,1,0,1,73.3%,0.7,1,0,0,0.7,0,0,0,0.6,99.3%,2,1,Category 1,2,5.9%,0,0,0,0,1,1,0,0,0,0,0,TR,NE,No,7
+Eastern,Boston ,Tower,6,BED,Hanscom Tower,17,13,0,0,13,76.5%,0.75,6,0,6,86.7%,5.2,0,0,0,0.0,0,0,0,0.6,103.5%,1,0,None,0,31.6%,0,3,0,0,3,6,0,0,0,0,0,TR,NE,No,7
+Western,Seattle,Tower,7,BFI,Boeing Tower,19,17,0,0,17,89.5%,1.04,4,0,4,80.0%,3.2,0,0,0,0.0,0,0,0,1.2,100.1%,2,0,Category 2,1,19.0%,0,4,0,0,0,4,0,0,0,0,0,TR,NM,No,7
+Western,Los Angeles ,Tower and Approach Control,6,BFL,Bakersfield Tower,22,17,0,0,17,77.3%,1.71,7,0,7,79.4%,5.6,0,0,0,0.0,1,0,0,1.1,92.9%,4,2,None,0,29.2%,0,4,0,1,2,7,0,0,0,0,0,TR,WP,No,3
+Eastern,New York ,Tower and Approach Control,5,BGM,Binghamton Tower,15,12,0,1,11,73.3%,1.55,4,0,4,94.7%,3.8,0,0,0,0.0,0,0,0,0.6,94.9%,2,1,None,0,26.7%,0,3,0,0,1,4,0,0,0,0,0,TR,EA,No,3
+Eastern,Boston ,Tower and Approach Control,5,BGR,Bangor Tower,22,14,0,0,14,63.6%,1.69,11,0,11,68.4%,7.5,0,0,0,0.0,0,0,0,1.4,91.6%,5,3,None,0,44.0%,0,5,0,0,6,11,0,0,0,0,0,TR,NE,No,3
+Eastern,Atlanta ,Tower and Approach Control,8,BHM,Birmingham Tower,30,20,0,0,20,66.7%,1.52,12,0,12,84.6%,10.2,0,0,0,0.0,0,0,0,1.4,95.7%,4,2,None,0,37.5%,0,3,0,5,2,10,1,0,1,0,2,TR,SO,No,3
+Western,Salt Lake,Tower and Approach Control,6,BIL,Billings Tower,22,17,0,0,17,77.3%,2.57,7,0,7,79.2%,5.5,0,0,0,0.0,0,0,0,1.3,96.3%,3,2,None,0,29.2%,0,6,0,1,0,7,0,0,0,0,0,TR,NM,No,3
+Central,Minneapolis ,Tower and Approach Control,5,BIS,Bismarck TRACAB,13,10,1,0,9,69.2%,1.65,4,0,4,100.0%,4.0,0,0,1,1.0,0,0,0,1.0,100.0%,1,0,None,0,30.8%,0,2,0,0,2,4,0,0,0,0,0,TR,GL,No,3
+Western,Denver,Tower,7,BJC,Broomfield Tower,11,10,0,0,10,90.9%,0.79,1,0,1,100.0%,1.0,1,0,0,1.0,0,0,0,0.5,104.6%,1,0,Category 1,1,9.1%,0,0,0,0,0,0,0,0,0,1,1,TR,NM,No,7
+Eastern,Memphis ,Tower and Approach Control,9,BNA,Nashville Tower,39,33,0,1,32,82.1%,1.42,7,0,7,80.0%,5.6,0,1,0,0.8,0,0,0,1.9,93.6%,7,4,None,0,17.9%,0,2,0,0,0,2,0,4,1,0,5,TR,SO,No,3
+Western,Salt Lake,Tower and Approach Control,8,BOI,Boise Tower,30,24,0,1,23,76.7%,1.78,5,0,5,81.5%,4.1,0,0,0,0.0,0,0,0,2.3,82.5%,9,7,None,0,17.9%,0,0,1,0,1,2,2,0,1,0,3,TR,NM,No,3
+Eastern,Boston ,Tower,10,BOS,Boston Tower,34,23,0,1,22,64.7%,1.09,8,0,8,82.6%,6.6,0,0,0,0.0,0,0,0,2.9,75.7%,13,10,None,0,26.7%,0,0,0,0,0,0,4,1,3,0,8,TR,NE,Yes,7
+Central,Houston ,Tower,4,BPT,Beaumont Tower,11,12,0,0,12,109.1%,0.43,2,0,2,92.3%,1.8,0,0,0,0.0,1,1,0,1.0,98.6%,1,1,Category 1,2,14.3%,0,2,0,0,0,2,0,0,0,0,0,TR,SO,No,7
+Central,Houston ,Tower and Approach Control,6,BTR,Baton Rouge Tower,22,16,0,0,16,72.7%,1.82,8,0,8,87.1%,7.0,0,0,0,0.0,0,1,0,1.1,94.8%,3,2,None,0,33.3%,0,3,0,0,4,7,0,0,1,0,1,TR,SO,No,3
+Eastern,Boston ,Tower and Approach Control,6,BTV,Burlington Tower,22,20,0,0,20,90.9%,2.10,7,0,7,87.5%,6.1,0,0,0,0.0,0,0,0,1.7,111.1%,0,0,Category 1,2,25.9%,0,0,0,3,4,7,0,0,0,0,0,TR,NE,No,3
+Central,Cleveland ,Tower and Approach Control,7,BUF,Buffalo Tower,37,31,0,0,31,83.8%,1.48,8,0,8,87.5%,7.0,0,0,0,0.0,0,0,0,1.7,98.1%,4,1,None,0,20.5%,0,1,0,5,0,6,1,0,1,0,2,TR,EA,No,3
+Western,Los Angeles ,Tower,7,BUR,Burbank Tower,22,16,0,0,16,72.7%,1.14,9,0,9,74.1%,6.7,0,0,0,0.0,0,0,0,0.4,101.3%,2,0,None,0,36.0%,0,9,0,0,0,9,0,0,0,0,0,TR,WP,No,7
+Eastern,Washington ,Tower,8,BWI,Baltimore Tower,22,20,0,2,18,81.8%,0.83,2,1,1,100.0%,1.0,0,1,0,1.0,0,0,0,2.0,81.8%,6,4,None,0,5.3%,0,0,0,0,0,0,0,0,0,2,2,TR,EA,Yes,7
+Central,Chicago ,Approach Control,12,C90,Chicago TRACON,100,73,1,0,72,72.0%,1.76,24,0,24,52.6%,12.6,0,0,1,1.0,0,0,0,11.9,73.8%,62,50,None,0,25.0%,0,1,0,0,1,2,15,0,0,7,22,TR,GL,No,2
+Eastern,Jacksonville ,Tower and Approach Control,6,CAE,Columbia Tower,22,17,0,0,17,77.3%,1.47,8,0,8,100.0%,8.0,1,0,0,1.0,0,0,0,2.2,108.3%,0,0,None,0,32.0%,0,4,0,1,0,5,1,1,1,0,3,TR,SO,No,3
+Central,Cleveland ,Tower,7,CAK,Akron-Canton Tower,15,16,0,0,16,106.7%,1.38,3,0,3,72.2%,2.2,0,0,0,0.0,2,0,0,1.1,100.3%,2,0,Category 1,3,15.8%,0,3,0,0,0,3,0,0,0,0,0,TR,GL,No,7
+Western,Oakland,Tower,5,CCR,Concord Tower,11,8,0,0,8,72.7%,0.82,4,0,4,91.7%,3.7,0,0,0,0.0,0,0,0,0.3,103.8%,1,0,None,0,33.3%,0,1,0,0,3,4,0,0,0,0,0,TR,WP,No,7
+Eastern,New York ,Tower,5,CDW,Caldwell Tower,11,11,0,0,11,100.0%,1.17,1,0,1,72.7%,0.7,0,0,0,0.0,1,0,0,0.3,94.4%,2,1,Category 1,2,8.3%,0,0,1,0,0,1,0,0,0,0,0,TR,EA,No,7
+Eastern,Atlanta ,Tower and Approach Control,6,CHA,Chattanooga Tower,20,16,0,0,16,80.0%,1.58,5,0,5,100.0%,5.0,0,0,0,0.0,0,0,0,0.5,102.4%,1,0,None,0,23.8%,0,1,0,2,0,3,2,0,0,0,2,TR,SO,No,3
+Eastern,Jacksonville ,Tower and Approach Control,8,CHS,Charleston Tower,22,21,1,1,19,86.4%,1.89,4,0,4,75.0%,3.0,0,0,2,2.0,0,0,0,3.3,94.1%,4,2,Category 2,1,17.4%,0,1,0,1,0,2,2,0,0,0,2,TR,SO,No,3
+Central,Chicago ,Tower and Approach Control,5,CID,Cedar Rapids Tower,17,15,0,0,15,88.2%,1.03,4,0,4,88.0%,3.5,1,0,0,0.9,1,1,0,0.7,98.3%,2,1,Category 2,1,21.1%,0,2,0,0,2,4,0,0,0,0,0,TR,CE,No,3
+Central,Cleveland ,Tower and Approach Control,5,CKB,Clarksburg Tower,17,13,0,0,13,76.5%,1.57,6,0,6,80.0%,4.8,0,0,0,0.0,0,0,0,0.7,100.9%,2,0,None,0,31.6%,0,3,0,0,3,6,0,0,0,0,0,TR,EA,No,3
 Central,Cleveland ,Tower and Approach Control,8,CLE,Cleveland Tower,52,45,0,0,45,86.5%,2.49,20,0,20,80.0%,16.0,0,0,0,0.0,0,0,0,5.5,106.7%,0,0,Category 2,1,30.8%,0,1,0,1,0,2,3,0,11,4,18,TR,GL,No,3
-Eastern,Atlanta ,Tower and Approach Control,12,CLT,Charlotte Tower,94,83,0,0,83,88.3%,1.56,8,0,8,84.8%,6.8,1,0,0,0.8,1,0,0,7.2,87.7%,3,14,Category 2,3,8.8%,0,0,0,2,0,2,2,0,4,0,6,TR,SO,Yes,3
-Western,Los Angeles ,Tower,6,CMA,Camarillo Tower,11,11,0,0,11,100.0%,0.98,3,0,3,85.0%,2.6,0,0,0,0.0,2,0,0,0.3,101.9%,0,0,Category 1,2,21.4%,0,3,0,0,0,3,0,0,0,0,0,TR,WP,No,7
-Central,Indianapolis,Tower and Approach Control,8,CMH,Columbus Tower,41,33,1,1,31,75.6%,1.55,6,0,6,77.3%,4.6,0,0,1,1.0,0,0,0,1.9,84.8%,3,9,None,0,16.2%,0,0,1,0,0,1,3,1,0,1,5,TR,GL,No,3
-Central,Chicago ,Tower and Approach Control,5,CMI,Champaign Tower,17,12,0,1,11,64.7%,1.68,6,0,6,78.9%,4.7,0,0,1,1.0,0,0,0,0.8,94.0%,0,2,None,0,35.3%,0,2,0,0,3,5,1,0,0,0,1,TR,GL,No,3
-Western,Los Angeles ,Tower,7,CNO,Chino Tower,11,9,0,0,9,81.8%,1.39,5,0,5,83.3%,4.2,0,0,0,0.0,0,0,0,0.3,116.8%,0,0,None,0,35.7%,0,1,0,0,0,1,3,0,0,1,4,TR,WP,No,7
-Western,Denver,Tower and Approach Control,8,COS,Colorado Springs Tower,24,18,0,0,18,75.0%,1.69,7,0,7,91.7%,6.4,1,0,0,0.9,0,0,0,1.3,100.0%,0,1,None,0,28.0%,0,0,0,0,0,0,4,0,3,0,7,TR,NM,No,3
-Western,Denver,Tower and Approach Control,5,CPR,Casper Tower,13,8,0,0,8,61.5%,1.47,6,0,6,95.0%,5.7,0,0,0,0.0,0,0,0,0.6,100.9%,0,0,None,0,42.9%,0,2,0,0,4,6,0,0,0,0,0,TR,NM,No,3
-Central,Kansas City ,Tower,5,CPS,St. Louis Downtown Tower,11,10,0,0,10,90.9%,0.59,3,0,3,90.9%,2.7,0,0,0,0.0,1,0,0,0.5,102.1%,0,0,Category 1,1,23.1%,0,2,0,0,0,2,1,0,0,0,1,TR,GL,No,7
-Central,Houston ,Tower and Approach Control,9,CRP,Corpus Christi Tower,34,29,0,0,29,85.3%,2.10,11,0,11,88.0%,9.7,0,0,0,0.0,1,0,0,4.0,99.0%,0,1,Category 2,1,27.5%,0,0,3,1,2,6,0,2,1,2,5,TR,SW,No,3
-Western,Los Angeles ,Tower,6,CRQ,Palomar Tower,11,12,0,0,12,109.1%,0.92,0,0,0,79.4%,0.0,1,0,0,0.8,1,0,0,0.6,101.9%,0,0,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,WP,No,7
-Central,Indianapolis,Tower and Approach Control,5,CRW,Charleston Tower,22,17,0,0,17,77.3%,1.18,6,0,6,90.5%,5.4,0,0,0,0.0,0,0,0,1.2,96.7%,0,1,None,0,26.1%,0,3,0,0,2,5,1,0,0,0,1,TR,EA,No,3
-Eastern,Atlanta ,Tower,4,CSG,Columbus Tower,7,8,0,0,8,114.3%,0.83,0,0,0,100.0%,0.0,0,0,0,0.0,1,0,0,0.3,96.1%,0,1,Category 1,1,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,SO,No,7
-Central,Indianapolis,Tower and Approach Control,9,CVG,Cincinnati Tower,43,33,0,0,33,76.7%,2.02,14,0,14,63.6%,8.9,0,0,0,0.0,0,0,0,3.2,90.0%,1,7,None,0,29.8%,0,1,0,0,0,1,11,2,0,0,13,TR,SO,No,3
-Western,Denver,Approach Control,12,D01,Denver TRACON,89,66,0,0,66,74.2%,1.05,10,0,10,78.1%,7.8,7,0,0,5.5,0,1,0,4.3,83.1%,9,20,None,0,13.2%,0,1,0,0,0,1,7,2,0,0,9,TR,NM,No,2
-Central,Fort Worth,Approach Control,12,D10,Dallas-Fort Worth TRACON,93,72,1,1,70,75.3%,2.44,26,1,25,69.7%,17.4,6,2,2,7.6,1,0,0,12.8,87.3%,5,17,None,0,26.3%,0,0,0,0,1,1,9,11,3,2,25,TR,SW,No,2
-Central,Cleveland ,Approach Control,11,D21,Detroit TRACON,58,37,0,0,37,63.8%,2.01,20,0,20,58.5%,11.7,0,0,0,0.0,0,0,0,5.4,74.6%,16,26,None,0,35.1%,0,0,0,0,0,0,5,3,8,4,20,TR,GL,No,2
-Eastern,Jacksonville ,Tower and Approach Control,10,DAB,Daytona Beach Tower,58,45,0,0,45,77.6%,2.38,13,0,13,72.7%,9.5,0,0,0,0.0,0,0,0,5.1,85.1%,5,12,None,0,22.4%,0,1,0,1,0,2,2,5,4,0,11,TR,SO,No,3
-Central,Fort Worth,Tower,8,DAL,Dallas Love Tower,24,22,0,0,22,91.7%,0.96,3,0,3,100.0%,3.0,0,0,0,0.0,1,0,0,0.7,97.1%,0,1,Category 1,2,12.0%,0,0,0,1,0,1,1,0,1,0,2,TR,SW,No,7
-Central,Indianapolis,Tower,4,DAY,Dayton Tower,15,12,0,0,12,80.0%,0.18,4,0,4,100.0%,4.0,0,0,0,0.0,0,0,0,0.6,103.0%,0,0,None,0,25.0%,0,1,0,0,2,3,0,0,0,1,1,TR,GL,No,7
-Eastern,Washington ,Tower,9,DCA,Washington National Tower,28,23,0,0,23,82.1%,1.45,5,0,5,92.6%,4.6,0,0,0,0.0,0,0,0,1.6,93.0%,0,3,None,0,17.9%,0,0,1,0,0,1,3,0,1,0,4,TR,EA,Yes,7
-Western,Denver,Tower,12,DEN,Denver Tower,39,28,0,0,28,71.8%,0.86,8,0,8,92.3%,7.4,0,0,0,0.0,0,0,0,2.2,85.1%,3,7,None,0,22.2%,0,0,1,0,0,1,0,7,0,0,7,TR,NM,Yes,7
-Central,Fort Worth,Tower,12,DFW,Dallas-Fort Worth Tower,57,44,0,0,44,77.2%,1.02,11,0,11,91.7%,10.1,0,0,0,0.0,0,0,0,2.2,91.0%,0,6,None,0,20.0%,0,0,0,0,0,0,10,1,0,0,11,TR,SW,Yes,7
-Central,Minneapolis ,Tower and Approach Control,5,DLH,Duluth Tower,20,15,0,0,15,75.0%,2.24,10,0,10,75.0%,7.5,0,0,0,0.0,1,0,0,2.0,97.6%,0,1,None,0,40.0%,0,9,0,0,1,10,0,0,0,0,0,TR,GL,No,3
-Central,Chicago ,Tower,6,DPA,Dupage Tower,15,15,0,0,15,100.0%,0.99,3,0,3,77.8%,2.3,1,0,0,0.8,2,0,0,1.0,100.7%,0,0,Category 1,3,16.7%,0,2,0,0,0,2,0,0,0,1,1,TR,GL,No,7
-Central,Minneapolis ,Tower and Approach Control,7,DSM,Des Moines Tower,22,19,0,0,19,86.4%,1.63,6,0,6,86.4%,5.2,0,0,0,0.0,0,0,0,1.8,101.7%,0,0,Category 2,1,24.0%,0,1,0,3,1,5,0,0,0,1,1,TR,CE,No,3
-Central,Cleveland ,Tower,11,DTW,Detroit Tower,34,31,1,0,30,88.2%,1.42,1,0,1,73.3%,0.7,1,0,1,1.7,1,0,0,2.7,84.7%,3,8,None,0,3.2%,0,0,0,0,0,0,1,0,0,0,1,TR,GL,Yes,7
-Central,Albuquerque ,Tower,9,DVT,Deer Valley Tower,19,17,0,0,17,89.5%,0.79,3,0,3,54.5%,1.6,0,0,0,0.0,0,0,0,0.6,94.8%,0,2,Category 2,1,15.0%,0,1,0,0,0,1,1,0,0,1,2,TR,WP,No,7
-Central,Houston ,Tower,6,DWH,Houston Hooks Tower,13,13,0,0,13,100.0%,0.84,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.3,105.4%,0,0,Category 1,2,7.1%,0,0,0,0,0,0,0,0,0,1,1,TR,SO,No,7
-Eastern,New York ,Tower and Approach Control,5,ELM,Elmira TRACAB,13,13,0,0,13,100.0%,1.25,3,0,3,80.0%,2.4,0,0,0,0.0,0,0,0,0.2,116.6%,0,0,Category 1,2,18.8%,0,0,0,0,3,3,0,0,0,0,0,TR,EA,No,3
-Central,Albuquerque ,Tower and Approach Control,7,ELP,El Paso Tower,26,19,0,0,19,73.1%,1.77,10,0,10,77.4%,7.7,0,0,0,0.0,0,0,0,1.8,96.1%,0,2,None,0,34.5%,0,3,0,0,6,9,1,0,0,0,1,TR,WP,No,3
-Western,Los Angeles ,Tower,5,EMT,El Monte Tower,11,8,1,0,7,63.6%,0.55,3,0,3,93.8%,2.8,0,0,1,1.0,0,0,0,0.2,96.2%,0,1,None,0,30.0%,0,1,0,0,1,2,1,0,0,0,1,TR,WP,No,7
-Central,Cleveland ,Tower,4,ERI,Erie Tower,10,10,0,0,10,100.0%,1.06,2,0,2,84.0%,1.7,0,0,0,0.0,0,0,0,1.0,106.8%,0,0,Category 1,2,16.7%,0,1,0,0,1,2,0,0,0,0,0,TR,EA,No,7
-Western,Seattle,Tower and Approach Control,6,EUG,Eugene Tower,22,20,0,0,20,90.9%,1.05,2,0,2,90.5%,1.8,0,0,0,0.0,0,0,0,0.6,96.3%,0,1,Category 1,2,9.1%,0,0,0,1,0,1,0,0,1,0,1,TR,NM,No,3
-Central,Indianapolis,Tower and Approach Control,5,EVV,Evansville Tower,17,15,0,0,15,88.2%,1.84,4,0,4,54.2%,2.2,0,0,0,0.0,0,0,0,0.7,96.7%,0,2,Category 2,1,21.1%,0,3,0,0,1,4,0,0,0,0,0,TR,GL,No,3
-Eastern,New York ,Tower,11,EWR,Newark Tower,34,27,0,0,27,79.4%,1.83,11,0,11,65.0%,7.2,0,0,0,0.0,0,0,0,3.6,89.9%,1,6,None,0,28.9%,0,0,0,0,0,0,6,2,3,0,11,TR,EA,Yes,7
-Eastern,Jacksonville ,Approach Control,11,F11,Central Florida TRACON,48,37,0,0,37,77.1%,1.32,9,0,9,91.7%,8.3,1,0,0,0.9,0,0,0,2.8,90.4%,0,6,None,0,19.6%,0,0,0,1,0,1,6,1,1,0,8,TR,SO,No,2
-Western,Alaska,Tower and Approach Control,7,FAI,Fairbanks Tower,22,17,0,0,17,77.3%,1.68,8,0,8,48.5%,3.9,0,0,0,0.0,0,0,0,0.8,91.2%,0,5,None,0,32.0%,0,7,0,0,0,7,1,0,0,0,1,TR,AL,No,3
-Central,Minneapolis ,Tower and Approach Control,6,FAR,Fargo Tower,17,18,0,0,18,105.9%,1.35,2,0,2,71.4%,1.4,0,0,0,0.0,1,0,0,0.8,103.7%,0,0,Category 1,4,10.0%,0,0,0,1,1,2,0,0,0,0,0,TR,GL,No,3
-Western,Oakland,Tower and Approach Control,7,FAT,Fresno Tower,28,21,0,0,21,75.0%,1.72,10,0,10,82.1%,8.2,0,0,0,0.0,0,0,0,0.6,102.2%,0,0,None,0,32.3%,0,6,0,2,1,9,0,0,1,0,1,TR,WP,No,3
-Eastern,Washington ,Tower and Approach Control,6,FAY,Fayetteville Tower,22,14,0,0,14,63.6%,2.53,8,0,8,53.8%,4.3,0,0,0,0.0,0,0,0,1.5,76.2%,6,10,None,0,36.4%,0,4,0,3,0,7,1,0,0,0,1,TR,SO,No,3
-Central,Minneapolis ,Tower,5,FCM,Flying Cloud Tower,11,13,0,1,12,109.1%,0.88,4,0,4,82.4%,3.3,0,0,0,0.0,3,0,0,0.3,109.5%,0,0,Category 1,3,25.0%,0,4,0,0,0,4,0,0,0,0,0,TR,GL,No,7
-Central,Albuquerque ,Tower,8,FFZ,Falcon Tower,13,12,0,1,11,84.6%,0.40,1,0,1,100.0%,1.0,0,0,1,1.0,0,0,0,0.3,97.5%,0,1,None,0,8.3%,0,0,0,0,0,0,0,0,1,0,1,TR,WP,No,7
-Eastern,Miami ,Tower,8,FLL,Fort Lauderdale Tower,26,22,0,0,22,84.6%,0.66,1,0,1,80.0%,0.8,1,0,0,0.8,1,0,0,0.8,83.7%,3,6,None,0,4.3%,0,0,0,0,0,0,0,0,1,0,1,TR,SO,Yes,7
-Eastern,Jacksonville ,Tower and Approach Control,5,FLO,Florence Tower,13,11,0,0,11,84.6%,1.69,5,0,5,70.2%,3.5,0,1,0,0.7,1,0,0,1.6,97.0%,0,1,None,0,31.3%,0,2,0,0,3,5,0,0,0,0,0,TR,SO,No,3
-Central,Cleveland ,Tower,4,FNT,Flint Tower,9,10,0,0,10,111.1%,1.06,2,0,2,84.0%,1.7,0,0,0,0.0,1,0,0,1.0,107.5%,0,0,Category 1,3,16.7%,0,2,0,0,0,2,0,0,0,0,0,TR,GL,No,7
+Eastern,Atlanta ,Tower and Approach Control,12,CLT,Charlotte Tower,94,83,0,0,83,88.3%,1.56,8,0,8,84.8%,6.8,1,0,0,0.8,1,0,0,7.2,87.7%,21,14,Category 2,3,8.8%,0,0,0,2,0,2,2,0,3,1,6,TR,SO,Yes,3
+Western,Los Angeles ,Tower,6,CMA,Camarillo Tower,11,10,0,0,10,90.9%,0.98,3,0,3,85.0%,2.6,0,0,0,0.0,2,0,0,0.3,92.8%,2,1,Category 1,1,23.1%,0,2,0,0,1,3,0,0,0,0,0,TR,WP,No,7
+Central,Indianapolis,Tower and Approach Control,8,CMH,Columbus Tower,41,33,1,1,31,75.6%,1.55,6,0,6,77.3%,4.6,0,0,1,1.0,0,0,0,1.9,84.8%,12,9,None,0,16.2%,0,0,1,0,0,1,3,1,0,1,5,TR,GL,No,3
+Central,Chicago ,Tower and Approach Control,5,CMI,Champaign Tower,17,12,0,1,11,64.7%,1.68,5,0,5,78.9%,3.9,0,0,1,1.0,0,0,0,0.8,89.3%,4,3,None,0,31.3%,0,1,0,0,3,4,1,0,0,0,1,TR,GL,No,3
+Western,Los Angeles ,Tower,7,CNO,Chino Tower,11,9,0,0,9,81.8%,1.39,5,0,5,83.3%,4.2,0,0,0,0.0,0,0,0,0.3,116.8%,0,0,None,0,35.7%,0,1,0,0,0,1,2,0,0,2,4,TR,WP,No,7
+Western,Denver,Tower and Approach Control,8,COS,Colorado Springs Tower,24,18,0,0,18,75.0%,1.69,8,0,8,91.7%,7.3,0,0,0,0.0,0,0,0,1.3,100.0%,2,1,None,0,30.8%,0,0,0,0,0,0,5,0,3,0,8,TR,NM,No,3
+Western,Denver,Tower and Approach Control,5,CPR,Casper Tower,13,10,0,0,10,76.9%,1.47,4,0,4,95.0%,3.8,0,0,0,0.0,0,0,0,0.6,101.7%,1,0,None,0,28.6%,0,1,0,0,3,4,0,0,0,0,0,TR,NM,No,3
+Central,Kansas City ,Tower,5,CPS,St. Louis Downtown Tower,11,10,0,0,10,90.9%,0.59,4,0,4,90.9%,3.6,0,0,0,0.0,1,0,0,0.5,110.4%,0,0,Category 1,1,28.6%,0,2,0,0,1,3,0,0,0,1,1,TR,GL,No,7
+Central,Houston ,Tower and Approach Control,9,CRP,Corpus Christi Tower,34,30,0,0,30,88.2%,2.10,9,0,9,88.0%,7.9,0,0,0,0.0,1,0,0,4.0,96.8%,4,2,Category 2,2,23.1%,0,0,3,1,2,6,0,2,1,0,3,TR,SW,No,3
+Western,Los Angeles ,Tower,6,CRQ,Palomar Tower,11,12,0,0,12,109.1%,0.94,0,0,0,79.8%,0.0,1,0,0,0.8,1,0,0,0.6,102.0%,1,0,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,WP,No,7
+Central,Indianapolis,Tower and Approach Control,5,CRW,Charleston Tower,22,17,0,0,17,77.3%,1.18,6,0,6,90.5%,5.4,0,0,0,0.0,0,0,0,1.2,96.7%,3,1,None,0,26.1%,0,2,0,0,3,5,1,0,0,0,1,TR,EA,No,3
+Eastern,Atlanta ,Tower,4,CSG,Columbus Tower,7,8,0,0,8,114.3%,0.83,0,0,0,100.0%,0.0,0,0,0,0.0,1,0,0,0.3,96.1%,1,1,Category 1,1,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,SO,No,7
+Central,Indianapolis,Tower and Approach Control,9,CVG,Cincinnati Tower,43,33,0,0,33,76.7%,2.02,14,0,14,63.6%,8.9,0,0,0,0.0,0,0,0,3.2,90.0%,11,7,None,0,29.8%,0,1,0,0,0,1,11,2,0,0,13,TR,SO,No,3
+Western,Denver,Approach Control,12,D01,Denver TRACON,89,66,0,0,66,74.2%,1.05,11,0,11,78.1%,8.6,5,0,0,3.9,0,2,0,4.3,81.1%,29,22,None,0,14.3%,0,1,0,0,0,1,8,1,1,0,10,TR,NM,No,2
+Central,Fort Worth,Approach Control,12,D10,Dallas-Fort Worth TRACON,93,70,1,1,68,73.1%,2.44,31,1,30,69.7%,20.9,1,2,2,4.1,0,0,0,12.8,86.2%,27,19,None,0,30.6%,0,0,0,0,1,1,14,11,3,2,30,TR,SW,No,2
+Central,Cleveland ,Approach Control,11,D21,Detroit TRACON,58,37,0,0,37,63.8%,2.01,19,0,19,58.5%,11.1,0,0,0,0.0,0,0,0,5.4,73.6%,33,27,None,0,33.9%,0,0,0,0,0,0,4,3,4,8,19,TR,GL,No,2
+Eastern,Jacksonville ,Tower and Approach Control,10,DAB,Daytona Beach Tower,58,46,0,0,46,79.3%,2.45,12,0,12,75.0%,9.0,0,0,0,0.0,0,0,0,5.1,86.1%,16,11,None,0,20.7%,0,1,0,1,0,2,2,5,1,2,10,TR,SO,No,3
+Central,Fort Worth,Tower,8,DAL,Dallas Love Tower,24,21,0,0,21,87.5%,0.96,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,0.7,97.1%,3,1,Category 2,1,12.5%,0,0,0,1,0,1,1,0,1,0,2,TR,SW,No,7
+Central,Indianapolis,Tower,4,DAY,Dayton Tower,15,13,0,0,13,86.7%,0.18,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,0.6,103.0%,1,0,Category 2,1,18.8%,0,1,0,0,2,3,0,0,0,0,0,TR,GL,No,7
+Eastern,Washington ,Tower,9,DCA,Washington National Tower,28,23,0,0,23,82.1%,1.45,5,0,5,92.6%,4.6,0,0,0,0.0,0,0,0,1.6,93.0%,4,3,None,0,17.9%,0,0,1,0,0,1,2,0,2,0,4,TR,EA,Yes,7
+Western,Denver,Tower,12,DEN,Denver Tower,39,28,0,1,27,69.2%,0.86,8,0,8,92.3%,7.4,0,0,0,0.0,0,0,0,2.2,82.6%,11,8,None,0,22.9%,0,0,1,0,0,1,0,7,0,0,7,TR,NM,Yes,7
+Central,Fort Worth,Tower,12,DFW,Dallas-Fort Worth Tower,57,44,0,0,44,77.2%,1.02,11,0,11,91.7%,10.1,0,0,0,0.0,0,0,0,2.2,91.0%,10,6,None,0,20.0%,0,0,0,0,0,0,10,1,0,0,11,TR,SW,Yes,7
+Central,Minneapolis ,Tower and Approach Control,5,DLH,Duluth Tower,20,14,0,0,14,70.0%,2.24,10,0,10,75.0%,7.5,0,0,0,0.0,1,0,0,2.0,92.6%,4,2,None,0,41.7%,0,9,0,0,1,10,0,0,0,0,0,TR,GL,No,3
+Central,Chicago ,Tower,6,DPA,Dupage Tower,15,15,0,0,15,100.0%,0.99,3,0,3,77.8%,2.3,1,0,0,0.8,2,0,0,1.0,100.7%,2,0,Category 1,3,16.7%,0,2,0,0,0,2,0,0,0,1,1,TR,GL,No,7
+Central,Minneapolis ,Tower and Approach Control,7,DSM,Des Moines Tower,22,19,0,0,19,86.4%,1.63,6,0,6,86.4%,5.2,0,0,0,0.0,0,0,0,1.8,101.7%,2,0,Category 2,1,24.0%,0,1,0,3,1,5,0,0,0,1,1,TR,CE,No,3
+Central,Cleveland ,Tower,11,DTW,Detroit Tower,34,31,1,0,30,88.2%,1.42,1,0,1,73.3%,0.7,1,0,1,1.7,1,0,0,2.7,84.7%,10,8,None,0,3.2%,0,0,0,0,0,0,1,0,0,0,1,TR,GL,Yes,7
+Central,Albuquerque ,Tower,9,DVT,Deer Valley Tower,19,18,0,0,18,94.7%,0.79,2,0,2,54.5%,1.1,0,0,0,0.0,0,0,0,0.6,97.2%,4,1,Category 1,2,10.0%,0,1,0,0,0,1,1,0,0,0,1,TR,WP,No,7
+Central,Houston ,Tower,6,DWH,Houston Hooks Tower,13,12,1,0,11,84.6%,0.84,2,0,2,100.0%,2.0,1,0,0,1.0,0,0,0,0.3,105.4%,1,0,None,0,15.4%,0,0,0,0,0,0,1,0,0,1,2,TR,SO,No,7
+Eastern,New York ,Tower and Approach Control,5,ELM,Elmira TRACAB,13,13,0,0,13,100.0%,1.25,3,0,3,80.0%,2.4,0,0,0,0.0,1,0,0,0.2,109.0%,0,0,Category 1,2,18.8%,0,0,0,0,3,3,0,0,0,0,0,TR,EA,No,3
+Central,Albuquerque ,Tower and Approach Control,7,ELP,El Paso Tower,26,19,0,0,19,73.1%,1.77,10,0,10,77.4%,7.7,0,0,0,0.0,0,0,0,1.8,96.1%,4,2,None,0,34.5%,0,3,0,0,6,9,1,0,0,0,1,TR,WP,No,3
+Western,Los Angeles ,Tower,5,EMT,El Monte Tower,11,9,1,0,8,72.7%,0.55,2,0,2,93.8%,1.9,0,0,1,1.0,0,0,0,0.2,96.8%,2,1,None,0,20.0%,0,1,0,0,1,2,0,0,0,0,0,TR,WP,No,7
+Central,Cleveland ,Tower,4,ERI,Erie Tower,10,10,0,0,10,100.0%,1.05,2,0,2,83.3%,1.7,0,0,0,0.0,0,0,0,1.0,106.7%,0,0,Category 1,2,16.7%,0,1,0,0,1,2,0,0,0,0,0,TR,EA,No,7
+Western,Seattle,Tower and Approach Control,6,EUG,Eugene Tower,22,20,0,0,20,90.9%,1.05,2,0,2,90.5%,1.8,0,0,0,0.0,0,0,0,0.6,96.3%,3,1,Category 1,2,9.1%,0,0,0,1,0,1,0,0,1,0,1,TR,NM,No,3
+Central,Indianapolis,Tower and Approach Control,5,EVV,Evansville Tower,17,15,0,0,15,88.2%,1.84,4,0,4,54.2%,2.2,0,0,0,0.0,0,0,0,0.7,96.7%,3,2,Category 2,1,21.1%,0,3,0,0,1,4,0,0,0,0,0,TR,GL,No,3
+Eastern,New York ,Tower,11,EWR,Newark Tower,34,28,0,0,28,82.4%,1.83,10,0,10,65.0%,6.5,0,0,0,0.0,0,0,0,3.6,90.9%,9,5,None,0,26.3%,0,0,0,0,0,0,6,2,2,0,10,TR,EA,Yes,7
+Eastern,Jacksonville ,Approach Control,11,F11,Central Florida TRACON,48,37,0,0,37,77.1%,1.32,10,0,10,91.7%,9.2,0,1,0,0.9,0,0,0,2.8,92.3%,8,5,None,0,21.3%,0,1,0,1,0,2,6,1,1,0,8,TR,SO,No,2
+Western,Alaska,Tower and Approach Control,7,FAI,Fairbanks Tower,22,18,1,0,17,77.3%,1.68,7,0,7,48.5%,3.4,0,0,1,1.0,0,0,0,0.8,93.5%,6,3,None,0,29.2%,0,6,0,0,0,6,1,0,0,0,1,TR,AL,No,3
+Central,Minneapolis ,Tower and Approach Control,6,FAR,Fargo Tower,17,18,0,0,18,105.9%,1.35,2,0,2,71.4%,1.4,0,0,0,0.0,1,0,0,0.8,103.7%,1,0,Category 1,4,10.0%,0,0,0,1,1,2,0,0,0,0,0,TR,GL,No,3
+Western,Oakland,Tower and Approach Control,7,FAT,Fresno Tower,28,22,0,0,22,78.6%,1.72,9,0,9,82.1%,7.4,0,0,0,0.0,1,0,0,0.6,99.2%,3,1,None,0,29.0%,0,6,0,2,0,8,0,0,1,0,1,TR,WP,No,3
+Eastern,Washington ,Tower and Approach Control,6,FAY,Fayetteville Tower,22,15,0,0,15,68.2%,2.53,11,0,11,53.8%,5.9,0,0,0,0.0,0,0,0,1.5,88.1%,8,5,None,0,42.3%,0,7,0,3,0,10,1,0,0,0,1,TR,SO,No,3
+Central,Minneapolis ,Tower,5,FCM,Flying Cloud Tower,11,13,0,1,12,109.1%,0.89,4,0,4,82.1%,3.3,0,0,0,0.0,3,1,0,0.3,100.3%,1,0,Category 1,2,25.0%,0,4,0,0,0,4,0,0,0,0,0,TR,GL,No,7
+Central,Albuquerque ,Tower,8,FFZ,Falcon Tower,13,12,0,1,11,84.6%,0.40,1,0,1,100.0%,1.0,0,1,0,1.0,0,0,0,0.3,97.5%,2,1,None,0,8.3%,0,0,0,0,0,0,0,0,1,0,1,TR,WP,No,7
+Eastern,Miami ,Tower,8,FLL,Fort Lauderdale Tower,26,22,0,0,22,84.6%,0.66,1,0,1,80.0%,0.8,1,0,0,0.8,1,0,0,0.8,83.7%,8,6,None,0,4.3%,0,0,0,0,0,0,0,0,1,0,1,TR,SO,Yes,7
+Eastern,Jacksonville ,Tower and Approach Control,5,FLO,Florence Tower,13,12,0,0,12,92.3%,1.69,4,0,4,70.3%,2.8,0,0,0,0.0,1,0,0,1.6,93.9%,3,2,Category 1,1,25.0%,0,2,0,0,2,4,0,0,0,0,0,TR,SO,No,3
+Central,Cleveland ,Tower,4,FNT,Flint Tower,9,10,0,0,10,111.1%,1.05,2,0,2,83.3%,1.7,0,0,0,0.0,1,0,0,1.0,107.4%,0,0,Category 1,3,16.7%,0,2,0,0,0,2,0,0,0,0,0,TR,GL,No,7
 Eastern,Miami ,Tower,7,FPR,St. Lucie Tower,11,11,0,0,11,100.0%,0.62,1,0,1,88.9%,0.9,0,0,0,0.0,0,0,0,0.1,106.8%,0,0,Category 1,2,8.3%,0,0,0,0,0,0,0,0,0,1,1,TR,SO,No,7
-Eastern,New York ,Tower,7,FRG,Farmingdale Tower,13,13,0,0,13,100.0%,1.75,2,0,2,75.0%,1.5,0,0,0,0.0,1,0,0,0.5,100.1%,0,0,Category 1,2,13.3%,0,0,1,0,0,1,1,0,0,0,1,TR,EA,No,7
-Central,Minneapolis ,Tower and Approach Control,6,FSD,Sioux Falls Tower,17,14,0,0,14,82.4%,1.25,4,0,4,94.1%,3.8,0,1,0,0.9,0,0,0,1.3,102.5%,0,0,None,0,22.2%,0,1,0,3,0,4,0,0,0,0,0,TR,GL,No,3
-Eastern,Memphis ,Tower and Approach Control,7,FSM,Fort Smith Tower,30,24,0,0,24,80.0%,1.55,11,0,11,77.8%,8.6,0,0,0,0.0,0,0,0,1.6,103.0%,0,0,None,0,31.4%,0,5,0,6,0,11,0,0,0,0,0,TR,SO,No,3
-Central,Fort Worth,Tower,6,FTW,Meacham Tower,15,18,0,0,18,120.0%,0.81,1,0,1,85.7%,0.9,1,0,0,0.9,3,1,0,0.6,100.9%,0,0,Category 1,3,5.3%,0,0,0,0,1,1,0,0,0,0,0,TR,SW,No,7
-Central,Chicago ,Tower and Approach Control,5,FWA,Fort Wayne Tower,22,19,0,0,19,86.4%,1.64,7,0,7,66.7%,4.7,0,0,0,0.0,0,0,0,1.4,101.3%,0,0,Category 2,1,26.9%,0,3,0,0,4,7,0,0,0,0,0,TR,GL,No,3
-Eastern,Miami ,Tower,7,FXE,Fort Lauderdale Executive Tower,15,13,0,0,13,86.7%,1.15,4,0,4,90.0%,3.6,0,0,0,0.0,0,0,0,0.7,105.7%,0,0,Category 2,1,23.5%,0,2,0,0,1,3,1,0,0,0,1,TR,SO,No,7
-Western,Los Angeles ,Tower,5,GCN,Grand Canyon Tower,9,8,0,0,8,88.9%,0.54,3,0,3,100.0%,3.0,0,0,0,0.0,2,0,0,0.1,98.5%,0,1,Category 2,1,27.3%,0,3,0,0,0,3,0,0,0,0,0,TR,WP,No,7
-Western,Seattle,Tower and Approach Control,7,GEG,Spokane Tower,28,25,0,0,25,89.3%,1.86,7,0,7,81.8%,5.7,0,1,0,0.8,0,0,0,2.5,103.7%,0,0,Category 2,2,21.9%,0,5,0,1,0,6,1,0,0,0,1,TR,NM,No,3
-Central,Minneapolis ,Tower,9,GFK,Grand Forks Tower,22,22,0,0,22,100.0%,0.84,0,0,0,84.2%,0.0,0,0,0,0.0,0,1,0,0.7,92.1%,0,3,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,GL,No,7
-Central,Fort Worth,Tower and Approach Control,6,GGG,Longview Tower,22,18,0,0,18,81.8%,2.18,10,0,10,69.0%,6.9,0,0,0,0.0,1,0,0,1.0,104.3%,0,0,None,0,35.7%,0,7,0,2,1,10,0,0,0,0,0,TR,SW,No,3
-Central,Houston ,Tower and Approach Control,7,GPT,Gulfport Tower,17,14,0,0,14,82.4%,1.87,6,0,6,87.5%,5.3,0,0,0,0.0,1,0,0,0.7,103.0%,0,0,None,0,30.0%,0,2,0,3,0,5,1,0,0,0,1,TR,SO,No,3
-Central,Minneapolis ,Tower and Approach Control,6,GRB,Green Bay Tower,20,19,0,0,19,95.0%,1.09,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,0.8,105.8%,0,0,Category 1,2,13.6%,0,3,0,0,0,3,0,0,0,0,0,TR,GL,No,3
-Central,Chicago ,Tower,5,GRR,Grand Rapids Tower,11,12,0,0,12,109.1%,0.88,2,0,2,82.4%,1.6,0,0,0,0.0,0,0,0,1.0,115.0%,0,0,Category 1,3,14.3%,0,1,0,0,1,2,0,0,0,0,0,TR,GL,No,7
-Eastern,Atlanta ,Tower and Approach Control,7,GSO,Greensboro Tower,26,24,0,0,24,92.3%,1.93,8,0,8,74.1%,5.9,0,0,0,0.0,2,0,0,1.1,103.2%,0,0,Category 1,2,25.0%,0,7,0,0,0,7,1,0,0,0,1,TR,SO,No,3
+Eastern,New York ,Tower,7,FRG,Farmingdale Tower,13,13,0,0,13,100.0%,1.75,2,0,2,75.0%,1.5,0,0,0,0.0,1,0,0,0.5,100.1%,2,0,Category 1,2,13.3%,0,0,1,0,0,1,1,0,0,0,1,TR,EA,No,7
+Central,Minneapolis ,Tower and Approach Control,6,FSD,Sioux Falls Tower,17,14,0,0,14,82.4%,1.25,4,0,4,94.1%,3.8,0,1,0,0.9,0,0,0,1.3,102.5%,1,0,None,0,22.2%,0,1,0,2,1,4,0,0,0,0,0,TR,GL,No,3
+Eastern,Memphis ,Tower and Approach Control,7,FSM,Fort Smith Tower,30,23,0,1,22,73.3%,1.55,11,0,11,77.8%,8.6,0,0,0,0.0,0,0,0,1.6,96.4%,4,2,None,0,33.3%,0,5,0,6,0,11,0,0,0,0,0,TR,SO,No,3
+Central,Fort Worth,Tower,6,FTW,Meacham Tower,15,16,0,0,16,106.7%,0.81,1,0,1,85.7%,0.9,1,0,0,0.9,1,1,0,0.6,100.9%,1,0,Category 1,3,5.9%,0,0,0,0,1,1,0,0,0,0,0,TR,SW,No,7
+Central,Chicago ,Tower and Approach Control,5,FWA,Fort Wayne Tower,22,19,0,0,19,86.4%,1.64,7,0,7,66.7%,4.7,0,0,0,0.0,0,0,0,1.4,101.3%,2,0,Category 2,1,26.9%,0,3,0,0,4,7,0,0,0,0,0,TR,GL,No,3
+Eastern,Miami ,Tower,7,FXE,Fort Lauderdale Executive Tower,15,13,0,0,13,86.7%,1.15,4,0,4,90.0%,3.6,0,0,0,0.0,0,0,0,0.7,105.7%,1,0,Category 2,1,23.5%,0,2,0,0,1,3,1,0,0,0,1,TR,SO,No,7
+Western,Los Angeles ,Tower,5,GCN,Grand Canyon Tower,9,8,0,0,8,88.9%,0.54,3,0,3,100.0%,3.0,0,0,0,0.0,2,0,0,0.1,98.5%,1,1,Category 2,1,27.3%,0,3,0,0,0,3,0,0,0,0,0,TR,WP,No,7
+Western,Seattle,Tower and Approach Control,7,GEG,Spokane Tower,28,25,0,0,25,89.3%,1.86,7,0,7,81.8%,5.7,0,1,0,0.8,0,0,0,2.5,103.7%,1,0,Category 2,2,21.9%,0,5,0,1,0,6,1,0,0,0,1,TR,NM,No,3
+Central,Minneapolis ,Tower,9,GFK,Grand Forks Tower,22,22,0,0,22,100.0%,0.84,0,0,0,84.2%,0.0,0,0,0,0.0,0,1,0,0.7,92.1%,4,3,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,GL,No,7
+Central,Fort Worth,Tower and Approach Control,6,GGG,Longview Tower,22,19,0,0,19,86.4%,2.18,8,0,8,69.0%,5.5,0,0,0,0.0,1,0,0,1.0,102.5%,2,0,Category 2,1,29.6%,0,6,0,2,0,8,0,0,0,0,0,TR,SW,No,3
+Central,Houston ,Tower and Approach Control,7,GPT,Gulfport Tower,17,14,0,0,14,82.4%,1.87,6,0,6,87.5%,5.3,0,0,0,0.0,1,0,0,0.7,103.0%,1,0,None,0,30.0%,0,2,0,3,0,5,1,0,0,0,1,TR,SO,No,3
+Central,Minneapolis ,Tower and Approach Control,6,GRB,Green Bay Tower,20,19,0,0,19,95.0%,1.09,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,0.8,105.8%,1,0,Category 1,2,13.6%,0,3,0,0,0,3,0,0,0,0,0,TR,GL,No,3
+Central,Chicago ,Tower,5,GRR,Grand Rapids Tower,11,12,0,0,12,109.1%,0.89,2,0,2,82.1%,1.6,0,0,0,0.0,0,0,0,1.0,114.9%,0,0,Category 1,3,14.3%,0,1,0,0,1,2,0,0,0,0,0,TR,GL,No,7
+Eastern,Atlanta ,Tower and Approach Control,7,GSO,Greensboro Tower,26,24,0,0,24,92.3%,1.93,8,0,8,74.1%,5.9,0,0,0,0.0,2,0,0,1.1,103.2%,2,0,Category 1,2,25.0%,0,7,0,0,0,7,1,0,0,0,1,TR,SO,No,3
 Eastern,Atlanta ,Tower and Approach Control,7,GSP,Greer Tower,22,18,0,0,18,81.8%,1.87,11,0,11,90.0%,9.9,0,0,0,0.0,1,0,0,3.4,106.9%,0,0,None,0,37.9%,0,7,0,1,0,8,3,0,0,0,3,TR,SO,No,3
-Western,Salt Lake,Tower and Approach Control,5,GTF,Great Falls Tower,17,13,1,0,12,70.6%,2.02,7,0,7,66.7%,4.7,0,0,1,1.0,0,0,0,1.0,97.8%,0,1,None,0,36.8%,0,5,0,0,2,7,0,0,0,0,0,TR,NM,No,3
-Western,Hawaii/Guam,Combined Control Facilities,11,HCF,Honolulu Control Facility,83,77,0,0,77,92.8%,2.90,18,0,18,72.9%,13.1,0,0,0,0.0,2,0,0,14.8,88.4%,3,14,Category 2,3,18.9%,0,3,1,1,1,6,7,2,2,1,12,ER,WP,Yes,6
-Eastern,Washington ,Tower,5,HEF,Manassas Tower,11,8,0,0,8,72.7%,0.62,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,0.7,93.8%,0,1,None,0,27.3%,0,2,1,0,0,3,0,0,0,0,0,TR,EA,No,7
-Western,Seattle,Tower,7,HIO,Hillsboro Tower,17,13,1,1,11,64.7%,0.97,7,0,7,68.2%,4.8,0,0,1,1.0,0,0,0,0.3,96.8%,0,1,None,0,38.9%,0,5,1,0,1,7,0,0,0,0,0,TR,NM,No,7
-Western,Salt Lake,Tower and Approach Control,5,HLN,Helena Tower,10,8,0,0,8,80.0%,1.69,3,0,3,70.2%,2.1,0,0,0,0.0,0,0,0,0.4,97.0%,0,1,None,0,27.3%,0,3,0,0,0,3,0,0,0,0,0,TR,NM,No,4
-Central,Houston ,Tower,8,HOU,Hobby Tower,20,18,0,0,18,90.0%,1.00,4,0,4,91.7%,3.7,0,0,0,0.0,2,0,0,1.2,92.1%,0,2,Category 2,1,18.2%,0,1,0,0,0,1,2,0,1,0,3,TR,SW,No,7
-Eastern,New York ,Tower,7,HPN,Westchester Tower,15,11,0,0,11,73.3%,1.17,6,0,6,77.0%,4.6,1,0,0,0.8,1,0,0,0.7,97.8%,0,1,None,0,35.3%,0,2,1,2,1,6,0,0,0,0,0,TR,EA,No,7
-Eastern,Memphis ,Tower and Approach Control,7,HSV,Huntsville Tower,17,14,0,0,14,82.4%,1.91,6,0,6,70.6%,4.2,0,0,0,0.0,1,0,0,0.5,98.4%,0,1,None,0,30.0%,0,4,0,1,1,6,0,0,0,0,0,TR,SO,No,3
-Central,Indianapolis,Tower and Approach Control,5,HTS,Huntington Tower,20,16,0,0,16,80.0%,1.26,5,0,5,94.4%,4.7,1,0,0,0.9,1,0,0,0.7,99.9%,0,1,None,0,23.8%,0,2,0,0,2,4,0,0,0,1,1,TR,EA,No,3
-Central,Indianapolis,Tower and Approach Control,5,HUF,Terre Haute Tower,17,16,0,0,16,94.1%,2.28,4,0,4,70.6%,2.8,0,0,0,0.0,0,0,0,0.7,106.3%,0,0,Category 1,2,20.0%,0,0,0,1,2,3,1,0,0,0,1,TR,GL,No,3
-Western,Oakland,Tower,6,HWD,Hayward Tower,11,10,0,0,10,90.9%,1.11,2,0,2,100.0%,2.0,0,0,0,0.0,1,0,0,0.5,95.8%,0,1,Category 1,1,16.7%,0,0,1,0,1,2,0,0,0,0,0,TR,WP,No,7
-Central,Houston ,Approach Control,12,I90,Houston TRACON,93,81,4,0,77,82.8%,1.41,16,0,16,84.0%,13.4,2,1,3,5.5,5,0,0,9.0,88.1%,3,14,None,0,17.2%,0,0,0,0,0,0,9,1,0,6,16,TR,SW,No,2
-Eastern,Washington ,Tower,9,IAD,Dulles Tower,30,28,0,1,27,90.0%,1.46,6,0,6,86.4%,5.2,1,0,0,0.9,1,0,0,3.1,96.4%,0,2,Category 2,2,18.2%,0,0,0,1,0,1,2,0,3,0,5,TR,EA,Yes,7
-Central,Houston ,Tower,11,IAH,Houston Intercontinental Tower,34,27,1,0,26,76.5%,0.91,6,0,6,91.7%,5.5,1,0,0,0.9,0,0,0,2.6,87.8%,1,5,None,0,18.8%,0,0,0,0,0,0,6,0,0,0,6,TR,SW,Yes,7
-Central,Kansas City ,Tower and Approach Control,8,ICT,Wichita Tower,30,24,0,0,24,80.0%,2.86,7,0,7,57.7%,4.0,0,0,0,0.0,0,0,0,4.5,78.4%,7,12,None,0,22.6%,0,1,0,2,1,4,3,0,0,0,3,TR,CE,No,3
-Eastern,New York ,Tower,4,ILG,Wilmington Tower,11,11,0,0,11,100.0%,0.72,0,0,0,91.7%,0.0,0,0,0,0.0,0,0,0,0.3,97.1%,0,1,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,EA,No,7
-Eastern,Washington ,Tower and Approach Control,7,ILM,Wilmington Tower,21,16,0,0,16,76.2%,1.41,7,0,7,75.0%,5.3,2,0,0,1.5,1,0,0,0.8,99.7%,0,1,None,0,30.4%,0,5,0,0,1,6,1,0,0,0,1,TR,SO,No,3
-Central,Indianapolis,Tower and Approach Control,8,IND,Indianapolis Tower,42,32,0,0,32,76.2%,1.72,15,0,15,72.7%,10.9,1,0,0,0.7,0,0,0,5.0,92.0%,0,5,None,0,31.9%,0,1,0,3,1,5,5,0,4,1,10,TR,GL,No,3
-Eastern,New York ,Tower,6,ISP,Islip Tower,17,17,0,0,17,100.0%,1.98,6,0,6,77.3%,4.6,0,0,0,0.0,1,0,0,4.1,97.3%,0,1,Category 1,3,26.1%,0,1,0,0,1,2,3,0,0,1,4,TR,EA,No,7
-Western,Hawaii/Guam,Tower and Approach Control,6,ITO,Hilo TRACAB,13,11,0,0,11,84.6%,1.50,3,0,3,85.7%,2.6,0,0,0,0.0,0,0,0,1.1,95.7%,0,1,None,0,21.4%,0,1,0,0,1,2,1,0,0,0,1,TR,WP,No,3
-Eastern,Memphis ,Tower and Approach Control,6,JAN,Jackson Tower,17,14,0,0,14,82.4%,1.96,6,0,6,71.4%,4.3,0,0,0,0.0,0,0,0,1.8,97.2%,0,1,None,0,30.0%,0,3,0,1,2,6,0,0,0,0,0,TR,SO,No,3
-Eastern,Jacksonville ,Tower and Approach Control,9,JAX,Jacksonville Tower,47,35,0,0,35,74.5%,1.89,19,0,19,44.1%,8.4,0,0,0,0.0,0,0,0,3.0,85.8%,5,16,None,0,35.2%,0,0,6,4,2,12,1,5,0,1,7,TR,SO,No,3
-Western,Los Angeles ,Combined Control Facilities,8,JCF,Joshua TRACON,24,15,2,0,13,54.2%,1.57,6,0,6,79.3%,4.8,0,0,1,1.0,0,0,0,1.4,72.5%,6,9,None,0,31.6%,0,0,0,0,4,4,2,0,0,0,2,TR,WP,No,6
-Eastern,New York ,Tower,11,JFK,Kennedy Tower,34,26,0,0,26,76.5%,1.47,10,0,10,71.7%,7.2,1,0,0,0.7,0,0,0,4.7,85.9%,3,7,None,0,27.8%,0,0,0,0,0,0,5,3,1,1,10,TR,EA,Yes,7
-Western,Alaska,Tower,5,JNU,Juneau Tower,13,10,0,0,10,76.9%,0.71,4,0,4,94.4%,3.8,0,0,0,0.0,0,0,0,0.2,104.3%,0,0,None,0,28.6%,0,1,0,0,2,3,1,0,0,0,1,TR,AL,No,7
-Western,Los Angeles ,Approach Control,11,L30,Las Vegas TRACON,39,31,0,0,31,79.5%,1.76,8,0,8,90.9%,7.3,1,0,0,0.9,2,0,0,4.1,84.9%,3,7,None,0,20.5%,0,2,0,0,0,2,5,0,1,0,6,TR,WP,No,2
-Central,Chicago ,Tower,5,LAF,Lafayette Tower,9,8,0,0,8,88.9%,0.88,4,1,3,82.4%,2.5,0,0,0,0.0,1,0,0,0.6,98.8%,0,1,Category 2,1,27.3%,0,1,0,0,3,4,0,0,0,0,0,TR,GL,No,7
-Central,Cleveland ,Tower,4,LAN,Lansing Tower,13,12,0,0,12,92.3%,1.06,4,0,4,84.0%,3.4,0,0,0,0.0,1,0,0,1.2,101.6%,0,0,Category 1,1,25.0%,0,4,0,0,0,4,0,0,0,0,0,TR,GL,No,7
-Western,Los Angeles ,Tower,11,LAS,Las Vegas Tower,36,26,0,0,26,72.2%,0.67,7,0,7,66.7%,4.7,2,1,0,2.0,0,0,0,1.5,86.6%,2,8,None,0,21.2%,0,0,0,0,0,0,3,1,0,3,7,TR,WP,Yes,7
-Western,Los Angeles ,Tower,12,LAX,Los Angeles Tower,49,45,0,0,45,91.8%,1.72,8,0,8,58.3%,4.7,0,0,0,0.0,1,0,0,4.4,90.4%,0,9,Category 1,3,15.1%,0,0,0,0,0,0,0,4,3,1,8,TR,WP,Yes,7
-Central,Fort Worth,Tower and Approach Control,7,LBB,Lubbock Tower,17,15,0,0,15,88.2%,1.27,4,0,4,77.3%,3.1,0,0,0,0.0,1,0,0,0.7,96.2%,0,1,Category 2,1,21.1%,0,0,0,4,0,4,0,0,0,0,0,TR,SW,No,3
-Central,Houston ,Tower and Approach Control,5,LCH,Lake Charles Tower,17,15,0,1,14,82.4%,1.94,7,0,7,75.0%,5.3,0,0,0,0.0,1,0,0,1.2,100.2%,0,0,None,0,33.3%,0,1,1,1,4,7,0,0,0,0,0,TR,SW,No,3
-Central,Indianapolis,Tower and Approach Control,7,LEX,Lexington Tower,24,18,0,0,18,75.0%,1.35,9,0,9,85.7%,7.7,0,0,0,0.0,0,0,0,1.1,102.4%,0,0,None,0,33.3%,0,1,0,7,0,8,1,0,0,0,1,TR,SO,No,3
-Central,Houston ,Tower and Approach Control,5,LFT,Lafayette Tower,22,17,0,0,17,77.3%,1.72,6,0,6,91.3%,5.5,0,0,0,0.0,0,0,0,1.2,96.9%,0,1,None,0,26.1%,0,1,0,0,4,5,0,0,0,1,1,TR,SW,No,3
-Eastern,New York ,Tower,11,LGA,La Guardia Tower,34,31,0,0,31,91.2%,1.47,7,0,7,71.7%,5.0,2,0,0,1.4,0,0,0,5.1,95.3%,0,3,Category 1,3,18.4%,0,0,0,0,0,0,5,1,1,0,7,TR,EA,Yes,7
-Western,Los Angeles ,Tower,8,LGB,Long Beach Tower,22,21,0,0,21,95.5%,0.94,0,0,0,91.7%,0.0,0,0,0,0.0,0,0,0,0.8,91.8%,0,2,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,WP,No,7
-Eastern,Memphis ,Tower and Approach Control,7,LIT,Little Rock Tower,28,25,0,0,25,89.3%,1.51,6,0,6,88.0%,5.3,0,0,0,0.0,2,0,0,1.4,95.9%,0,2,Category 2,2,19.4%,0,5,0,1,0,6,0,0,0,0,0,TR,SW,No,3
-Central,Minneapolis ,Tower,5,LNK,Lincoln Tower,14,11,0,0,11,78.6%,0.90,5,0,5,80.0%,4.0,0,0,0,0.0,0,0,0,0.4,104.5%,0,0,None,0,31.3%,0,1,2,0,2,5,0,0,0,0,0,TR,CE,No,7
-Central,Indianapolis,Tower,5,LOU,Louisville Bowman Tower,11,11,0,1,10,90.9%,0.69,1,0,1,93.8%,0.9,0,0,0,0.0,0,0,0,0.3,97.0%,0,1,Category 1,1,9.1%,0,1,0,0,0,1,0,0,0,0,0,TR,SO,No,7
-Western,Oakland,Tower,6,LVK,Livermore Tower,11,10,0,0,10,90.9%,0.75,1,0,1,93.8%,0.9,1,0,0,0.9,0,0,0,0.5,103.7%,0,0,Category 1,1,9.1%,0,0,0,0,1,1,0,0,0,0,0,TR,WP,No,7
-Eastern,Memphis ,Approach Control,9,M03,Memphis TRACON,28,19,0,0,19,67.9%,1.05,8,0,8,97.7%,7.8,1,0,0,1.0,0,0,0,1.2,94.8%,0,2,None,0,29.6%,0,7,0,0,0,7,1,0,0,0,1,TR,SO,No,2
-Central,Minneapolis ,Approach Control,10,M98,Minneapolis TRACON,55,45,1,0,44,80.0%,2.07,16,0,16,69.0%,11.0,1,0,1,1.7,0,0,0,10.5,84.0%,6,13,None,0,26.7%,0,2,0,1,0,3,6,4,2,1,13,TR,GL,No,2
-Central,Fort Worth,Tower and Approach Control,7,MAF,Midland Tower,22,15,0,0,15,68.2%,2.07,10,0,10,77.8%,7.8,0,0,0,0.0,0,0,0,1.0,98.8%,0,1,None,0,40.0%,0,6,0,0,4,10,0,0,0,0,0,TR,SW,No,3
-Central,Cleveland ,Tower,4,MBS,Saginaw Tower,9,9,0,1,8,88.9%,1.06,4,0,4,84.0%,3.4,0,0,0,0.0,2,0,0,0.3,100.2%,0,0,Category 2,1,33.3%,0,4,0,0,0,4,0,0,0,0,0,TR,GL,No,7
-Central,Kansas City ,Tower and Approach Control,8,MCI,Kansas City International Tower,39,35,0,0,35,89.7%,1.29,4,0,4,89.3%,3.6,1,0,0,0.9,0,0,0,2.5,94.9%,0,3,Category 2,2,10.3%,0,0,0,1,0,1,2,0,1,0,3,TR,CE,No,3
-Eastern,Jacksonville ,Tower,9,MCO,Orlando Tower,22,22,0,0,22,100.0%,0.55,3,0,3,89.3%,2.7,0,0,0,0.0,1,0,0,0.7,104.6%,0,0,Category 1,4,12.0%,0,0,0,0,0,0,3,0,0,0,3,TR,SO,Yes,7
-Eastern,New York ,Tower and Approach Control,7,MDT,Harrisburg International Tower,26,19,0,0,19,73.1%,1.89,11,0,11,69.6%,7.7,0,0,0,0.0,0,0,0,1.6,96.4%,0,2,None,0,36.7%,0,5,0,6,0,11,0,0,0,0,0,TR,EA,No,3
-Central,Chicago ,Tower,8,MDW,Midway Tower,22,19,0,0,19,86.4%,1.34,2,0,2,88.5%,1.8,1,1,0,1.8,1,0,0,0.9,93.9%,0,2,Category 2,1,9.5%,0,0,0,1,0,1,0,0,1,0,1,TR,GL,Yes,7
-Eastern,Memphis ,Tower,8,MEM,Memphis Tower,28,23,1,0,22,78.6%,1.15,2,0,2,87.0%,1.7,3,0,1,3.6,1,0,0,1.5,88.7%,1,4,None,0,8.3%,0,0,0,0,0,0,2,0,0,0,2,TR,SO,Yes,7
-Central,Cleveland ,Tower,5,MFD,Mansfield Tower,10,10,0,0,10,100.0%,0.88,2,0,2,82.4%,1.6,0,0,0,0.0,1,0,0,0.4,102.4%,0,0,Category 1,2,16.7%,0,1,0,0,1,2,0,0,0,0,0,TR,GL,No,7
-Eastern,Atlanta ,Tower and Approach Control,7,MGM,Montgomery Tower,21,11,0,0,11,52.4%,1.50,13,0,13,80.8%,10.5,1,0,0,0.8,0,0,0,1.1,101.1%,0,0,None,0,54.2%,0,9,0,1,0,10,2,0,1,0,3,TR,SO,No,3
-Eastern,Boston ,Tower,4,MHT,Manchester Tower,15,15,0,0,15,100.0%,0.31,1,0,1,92.9%,0.9,0,0,0,0.0,0,0,0,0.1,105.3%,0,0,Category 1,3,6.3%,0,1,0,0,0,1,0,0,0,0,0,TR,NE,No,7
-Eastern,Miami ,Tower and Approach Control,12,MIA,Miami Tower,91,69,1,1,67,73.6%,2.32,30,0,30,59.8%,17.9,3,0,1,2.8,1,0,0,10.4,83.9%,10,25,None,0,30.9%,0,0,0,0,0,0,18,7,5,0,30,TR,SO,Yes,3
-Central,Minneapolis ,Tower,4,MIC,Crystal Tower,11,11,0,0,11,100.0%,1.06,2,0,2,84.0%,1.7,0,0,0,0.0,1,0,0,0.8,99.0%,0,1,Category 1,2,15.4%,0,1,1,0,0,2,0,0,0,0,0,TR,GL,No,7
-Central,Kansas City ,Tower,5,MKC,Kansas City Downtown Tower,15,14,1,0,13,86.7%,0.42,3,0,3,76.2%,2.3,1,0,1,1.8,0,0,0,0.1,113.1%,0,0,Category 2,1,18.8%,0,2,0,0,1,3,0,0,0,0,0,TR,CE,No,7
-Central,Chicago ,Tower and Approach Control,8,MKE,Milwaukee Tower,39,35,0,0,35,89.7%,2.18,4,0,4,85.0%,3.4,0,0,0,0.0,0,0,0,5.2,85.2%,3,7,Category 2,1,10.3%,0,0,0,1,0,1,0,0,3,0,3,TR,GL,No,3
-Central,Chicago ,Tower,4,MKG,Muskegon Tower,9,9,0,0,9,100.0%,1.06,1,0,1,84.0%,0.8,0,0,0,0.0,0,0,0,0.6,102.7%,0,0,Category 1,2,10.0%,0,0,0,0,1,1,0,0,0,0,0,TR,GL,No,7
-Central,Chicago ,Tower and Approach Control,5,MLI,Moline Quad City Tower,20,18,0,0,18,90.0%,1.89,3,0,3,74.1%,2.2,0,0,0,0.0,0,0,0,0.9,96.6%,0,1,Category 2,1,14.3%,0,0,0,0,3,3,0,0,0,0,0,TR,GL,No,3
-Central,Fort Worth,Tower and Approach Control,5,MLU,Monroe Tower,15,9,0,0,9,60.0%,1.65,7,0,7,94.7%,6.6,0,0,0,0.0,0,0,0,0.6,100.3%,0,0,None,0,43.8%,0,5,0,0,1,6,1,0,0,0,1,TR,SW,No,3
-Eastern,New York ,Tower,5,MMU,Morristown Tower,11,10,0,0,10,90.9%,1.48,3,0,3,88.9%,2.7,0,0,0,0.0,1,0,0,0.6,100.7%,0,0,Category 1,1,23.1%,0,1,0,0,2,3,0,0,0,0,0,TR,EA,No,7
-Central,Houston ,Tower and Approach Control,8,MOB,Mobile Tower,22,20,0,0,20,90.9%,1.28,4,0,4,76.5%,3.1,2,0,0,1.5,3,0,0,1.9,89.5%,1,4,Category 2,1,16.7%,0,0,1,0,0,1,2,0,1,0,3,TR,SO,No,3
-Western,Alaska,Tower,6,MRI,Merrill Tower,11,12,0,0,12,109.1%,0.48,0,0,0,100.0%,0.0,0,0,0,0.0,0,0,0,0.3,106.2%,0,0,Category 1,3,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,AL,No,7
-Western,Oakland,Tower,5,MRY,Monterey Tower,9,8,0,0,8,88.9%,0.64,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.1,98.4%,0,1,Category 2,1,11.1%,0,1,0,0,0,1,0,0,0,0,0,TR,WP,No,7
-Central,Chicago ,Tower and Approach Control,7,MSN,Madison Tower,20,21,0,0,21,105.0%,2.19,0,0,0,78.6%,0.0,0,0,0,0.0,0,0,0,2.7,91.6%,0,3,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,GL,No,3
-Central,Minneapolis ,Tower,11,MSP,Minneapolis Tower,36,31,0,0,31,86.1%,1.15,4,0,4,100.0%,4.0,0,0,0,0.0,0,0,0,1.5,93.0%,0,3,Category 2,1,11.4%,0,0,0,0,0,0,1,1,2,0,4,TR,GL,Yes,7
-Central,Houston ,Tower and Approach Control,9,MSY,Moiusantt Tower,36,28,0,1,27,75.0%,1.25,7,0,7,72.2%,5.1,0,0,1,1.0,0,0,0,2.1,86.1%,3,7,None,0,20.6%,0,2,0,2,0,4,0,1,2,0,3,TR,SW,No,3
-Western,Seattle,Tower and Approach Control,6,MWH,Grant County Tower,15,12,0,0,12,80.0%,2.61,6,0,6,37.5%,2.3,0,0,0,0.0,0,0,0,0.8,89.6%,1,5,None,0,33.3%,0,1,0,4,0,5,1,0,0,0,1,TR,NM,No,3
-Western,Los Angeles ,Tower,7,MYF,Montgomery Tower,13,11,0,1,10,76.9%,1.05,4,0,4,66.7%,2.7,0,0,1,1.0,0,0,0,0.5,101.7%,0,0,None,0,28.6%,0,0,0,0,1,1,1,0,0,2,3,TR,WP,No,7
-Eastern,Jacksonville ,Tower and Approach Control,8,MYR,Myrtle Beach Tower,22,21,0,0,21,95.5%,1.32,4,0,4,77.3%,3.1,0,0,0,0.0,0,0,0,1.7,101.9%,0,0,Category 1,3,16.0%,0,0,0,1,0,1,3,0,0,0,3,TR,SO,No,3
-Eastern,New York ,Approach Control,12,N90,New York TRACON,226,123,2,0,121,53.5%,1.90,106,0,106,35.6%,37.7,0,0,2,2.0,0,0,0,36.7,54.9%,226,287,None,0,46.7%,0,76,2,3,2,83,17,2,4,0,23,TR,EA,No,9
-Western,Oakland,Approach Control,12,NCT,Northern California TRACON,161,117,0,0,117,72.7%,1.62,35,0,35,69.1%,24.2,6,0,0,4.1,0,0,0,11.8,83.0%,18,40,None,0,23.0%,0,0,0,2,0,2,17,8,7,1,33,TR,WP,No,2
-Central,Houston ,Tower,5,NEW,Lakefront Tower,11,10,0,2,8,72.7%,0.57,3,0,3,81.8%,2.5,0,0,2,2.0,0,0,0,0.1,112.0%,0,0,None,0,27.3%,0,2,0,0,1,3,0,0,0,0,0,TR,SW,No,7
-Western,Oakland,Tower,8,OAK,Oakland Tower,24,17,0,0,17,70.8%,1.13,6,0,6,77.3%,4.6,0,0,0,0.0,0,0,0,0.9,86.6%,2,5,None,0,26.1%,0,0,0,0,0,0,1,0,4,1,6,TR,WP,No,7
-Western,Hawaii/Guam,Tower,7,OGG,Kahului Tower,13,12,0,0,12,92.3%,1.17,4,0,4,77.0%,3.1,0,0,0,0.0,1,0,0,0.6,104.0%,0,0,Category 1,1,25.0%,0,2,0,0,2,4,0,0,0,0,0,TR,WP,No,7
-Central,Fort Worth,Tower and Approach Control,8,OKC,Oklahoma City Tower,30,19,0,0,19,63.3%,1.92,15,0,15,51.6%,7.7,0,0,0,0.0,0,0,0,2.5,80.8%,6,12,None,0,44.1%,0,0,0,5,3,8,2,0,5,0,7,TR,SW,No,3
-Central,Minneapolis ,Tower,6,OMA,Omaha Tower,15,13,0,0,13,86.7%,1.00,2,0,2,93.3%,1.9,0,0,0,0.0,0,0,0,0.4,96.7%,0,1,Category 2,1,13.3%,0,2,0,0,0,2,0,0,0,0,0,TR,CE,No,7
-Western,Los Angeles ,Tower,5,ONT,Ontario Tower,18,13,0,0,13,72.2%,1.01,10,0,10,72.7%,7.3,0,0,0,0.0,0,0,0,0.4,110.3%,0,0,None,0,43.5%,0,7,0,0,2,9,1,0,0,0,1,TR,WP,No,7
-Central,Chicago ,Tower,12,ORD,Chicago O'Hare Tower,68,50,0,0,50,73.5%,1.70,19,1,18,63.6%,11.5,2,0,0,1.3,0,1,0,6.6,81.1%,10,21,None,0,26.5%,0,0,0,0,1,1,9,2,1,6,18,TR,GL,Yes,7
-Eastern,Washington ,Tower and Approach Control,8,ORF,Norfolk Tower,28,22,0,0,22,78.6%,2.02,6,0,6,61.3%,3.7,1,0,0,0.6,1,0,0,3.7,77.3%,6,11,None,0,21.4%,0,0,0,4,1,5,0,0,1,0,1,TR,EA,No,3
+Western,Salt Lake,Tower and Approach Control,5,GTF,Great Falls Tower,17,13,1,0,12,70.6%,2.02,7,0,7,66.7%,4.7,0,0,1,1.0,0,0,0,1.0,97.8%,3,1,None,0,36.8%,0,5,0,0,2,7,0,0,0,0,0,TR,NM,No,3
+Western,Hawaii/Guam,Combined Control Facilities,11,HCF,Honolulu Control Facility,83,76,0,0,76,91.6%,2.90,18,0,18,72.9%,13.1,0,0,0,0.0,2,0,0,14.8,87.2%,22,15,Category 2,2,19.1%,0,3,0,2,1,6,6,2,3,1,12,ER,WP,Yes,6
+Eastern,Washington ,Tower,5,HEF,Manassas Tower,11,8,0,0,8,72.7%,0.62,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,0.7,93.8%,2,1,None,0,27.3%,0,1,1,0,1,3,0,0,0,0,0,TR,EA,No,7
+Western,Seattle,Tower,7,HIO,Hillsboro Tower,17,13,1,1,11,64.7%,0.97,6,0,6,68.2%,4.1,0,0,1,1.0,0,0,0,0.3,92.8%,4,2,None,0,35.3%,0,3,1,0,2,6,0,0,0,0,0,TR,NM,No,7
+Western,Salt Lake,Tower and Approach Control,5,HLN,Helena Tower,10,8,0,0,8,80.0%,1.69,3,0,3,70.3%,2.1,0,0,0,0.0,0,0,0,0.4,97.0%,2,1,None,0,27.3%,0,2,0,0,1,3,0,0,0,0,0,TR,NM,No,4
+Central,Houston ,Tower,8,HOU,Hobby Tower,20,18,0,0,18,90.0%,1.00,4,0,4,91.7%,3.7,0,0,0,0.0,2,0,0,1.2,92.1%,4,2,Category 2,1,18.2%,0,1,0,0,0,1,2,0,1,0,3,TR,SW,No,7
+Eastern,New York ,Tower,7,HPN,Westchester Tower,15,11,0,1,10,66.7%,1.14,6,0,6,76.4%,4.6,1,1,0,1.5,1,0,0,0.7,96.0%,3,1,None,0,37.5%,0,2,1,2,1,6,0,0,0,0,0,TR,EA,No,7
+Eastern,Memphis ,Tower and Approach Control,7,HSV,Huntsville Tower,17,14,0,0,14,82.4%,1.91,6,0,6,70.6%,4.2,0,0,0,0.0,1,0,0,0.5,98.4%,2,1,None,0,30.0%,0,3,0,2,1,6,0,0,0,0,0,TR,SO,No,3
+Central,Indianapolis,Tower and Approach Control,5,HTS,Huntington Tower,20,17,0,0,17,85.0%,1.26,5,0,5,94.4%,4.7,0,0,0,0.0,1,0,0,0.7,100.2%,2,0,None,0,22.7%,0,3,0,0,1,4,0,0,0,1,1,TR,EA,No,3
+Central,Indianapolis,Tower and Approach Control,5,HUF,Terre Haute Tower,17,16,0,0,16,94.1%,2.28,4,0,4,70.6%,2.8,0,0,0,0.0,0,0,0,0.7,106.3%,0,0,Category 1,2,20.0%,0,0,0,0,3,3,1,0,0,0,1,TR,GL,No,3
+Western,Oakland,Tower,6,HWD,Hayward Tower,11,10,0,0,10,90.9%,1.11,3,0,3,100.0%,3.0,0,0,0,0.0,1,0,0,0.5,104.9%,1,0,Category 1,1,23.1%,0,1,1,0,1,3,0,0,0,0,0,TR,WP,No,7
+Central,Houston ,Approach Control,12,I90,Houston TRACON,93,82,4,0,78,83.9%,1.41,15,0,15,84.0%,12.6,3,0,3,5.5,5,0,0,9.0,88.3%,20,13,None,0,16.1%,0,0,0,0,0,0,9,1,0,5,15,TR,SW,No,2
+Eastern,Washington ,Tower,9,IAD,Dulles Tower,30,27,0,1,26,86.7%,1.46,6,0,6,86.4%,5.2,1,0,0,0.9,0,0,0,3.1,96.4%,4,2,Category 2,1,18.8%,0,0,0,1,0,1,2,0,3,0,5,TR,EA,Yes,7
+Central,Houston ,Tower,11,IAH,Houston Intercontinental Tower,34,27,1,0,26,76.5%,0.91,6,0,6,91.7%,5.5,1,0,0,0.9,0,0,0,2.6,87.8%,7,5,None,0,18.8%,0,0,0,0,0,0,6,0,0,0,6,TR,SW,Yes,7
+Central,Kansas City ,Tower and Approach Control,8,ICT,Wichita Tower,30,24,0,0,24,80.0%,2.86,7,0,7,57.7%,4.0,0,0,0,0.0,0,0,0,4.5,78.4%,15,12,None,0,22.6%,0,1,0,1,2,4,3,0,0,0,3,TR,CE,No,3
+Eastern,New York ,Tower,4,ILG,Wilmington Tower,11,11,0,0,11,100.0%,0.72,0,0,0,91.7%,0.0,0,0,0,0.0,0,0,0,0.3,97.1%,2,1,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,EA,No,7
+Eastern,Washington ,Tower and Approach Control,7,ILM,Wilmington Tower,21,16,0,0,16,76.2%,1.41,8,0,8,75.0%,6.0,1,0,0,0.8,1,0,0,0.8,99.7%,2,1,None,0,33.3%,0,6,0,0,1,7,1,0,0,0,1,TR,SO,No,3
+Central,Indianapolis,Tower and Approach Control,8,IND,Indianapolis Tower,42,33,0,0,33,78.6%,1.72,14,0,14,72.7%,10.2,1,1,0,1.5,0,0,0,5.0,94.3%,7,4,None,0,29.8%,0,1,0,2,2,5,1,0,7,1,9,TR,GL,No,3
+Eastern,New York ,Tower,6,ISP,Islip Tower,17,17,0,0,17,100.0%,1.98,6,0,6,77.3%,4.6,0,0,0,0.0,1,0,0,4.1,97.3%,2,1,Category 1,3,26.1%,0,1,0,0,1,2,2,0,0,2,4,TR,EA,No,7
+Western,Hawaii/Guam,Tower and Approach Control,6,ITO,Hilo TRACAB,13,11,0,0,11,84.6%,1.50,3,0,3,85.7%,2.6,0,0,0,0.0,0,0,0,1.1,95.7%,2,1,None,0,21.4%,0,1,0,0,1,2,1,0,0,0,1,TR,WP,No,3
+Eastern,Memphis ,Tower and Approach Control,6,JAN,Jackson Tower,17,14,0,0,14,82.4%,1.96,6,0,6,71.4%,4.3,0,0,0,0.0,0,0,0,1.8,97.2%,3,1,None,0,30.0%,0,3,0,1,2,6,0,0,0,0,0,TR,SO,No,3
+Eastern,Jacksonville ,Tower and Approach Control,9,JAX,Jacksonville Tower,47,35,0,0,35,74.5%,1.89,18,0,18,44.1%,7.9,0,0,0,0.0,1,0,0,3.0,82.8%,26,19,None,0,34.0%,0,0,5,4,2,11,1,5,0,1,7,TR,SO,No,3
+Western,Los Angeles ,Combined Control Facilities,8,JCF,Joshua TRACON,24,16,2,0,14,58.3%,1.57,5,0,5,79.3%,4.0,0,0,1,1.0,0,0,0,1.4,73.4%,10,9,None,0,26.3%,0,0,0,0,4,4,0,0,0,1,1,TR,WP,No,6
+Eastern,New York ,Tower,11,JFK,Kennedy Tower,34,27,0,0,27,79.4%,1.47,9,0,9,72.0%,6.5,1,0,0,0.7,0,0,0,4.7,86.8%,10,7,None,0,25.0%,0,0,0,0,0,0,4,4,0,1,9,TR,EA,Yes,7
+Western,Alaska,Tower,5,JNU,Juneau Tower,13,10,0,0,10,76.9%,0.71,4,0,4,94.4%,3.8,0,0,0,0.0,0,0,0,0.2,104.3%,1,0,None,0,28.6%,0,1,0,0,2,3,1,0,0,0,1,TR,AL,No,7
+Western,Los Angeles ,Approach Control,11,L30,Las Vegas TRACON,39,31,0,0,31,79.5%,1.76,9,0,9,90.9%,8.2,0,0,0,0.0,2,0,0,4.1,84.9%,10,7,None,0,22.5%,0,3,0,0,0,3,5,0,1,0,6,TR,WP,No,2
+Central,Chicago ,Tower,5,LAF,Lafayette Tower,9,8,0,0,8,88.9%,0.89,5,1,4,82.1%,3.3,0,0,0,0.0,1,0,0,0.6,107.9%,0,0,Category 2,1,33.3%,0,0,0,0,4,4,1,0,0,0,1,TR,GL,No,7
+Central,Cleveland ,Tower,4,LAN,Lansing Tower,13,14,0,0,14,107.7%,1.05,2,0,2,83.3%,1.7,0,0,0,0.0,1,0,0,1.2,103.9%,1,0,Category 1,3,12.5%,0,2,0,0,0,2,0,0,0,0,0,TR,GL,No,7
+Western,Los Angeles ,Tower,11,LAS,Las Vegas Tower,36,26,0,0,26,72.2%,0.67,8,0,8,66.7%,5.3,2,0,0,1.3,0,0,0,1.5,86.6%,11,8,None,0,23.5%,0,0,0,0,0,0,4,1,0,3,8,TR,WP,Yes,7
+Western,Los Angeles ,Tower,12,LAX,Los Angeles Tower,49,46,0,0,46,93.9%,1.72,7,0,7,58.3%,4.1,0,0,0,0.0,0,0,0,4.4,93.3%,11,6,Category 1,5,13.2%,0,0,0,0,0,0,0,4,3,0,7,TR,WP,Yes,7
+Central,Fort Worth,Tower and Approach Control,7,LBB,Lubbock Tower,17,15,0,0,15,88.2%,1.27,4,0,4,77.3%,3.1,0,0,0,0.0,1,0,0,0.7,96.2%,3,1,Category 2,1,21.1%,0,0,0,3,1,4,0,0,0,0,0,TR,SW,No,3
+Central,Houston ,Tower and Approach Control,5,LCH,Lake Charles Tower,17,14,0,1,13,76.5%,1.94,7,0,7,75.0%,5.3,0,0,0,0.0,0,0,0,1.2,100.2%,2,0,None,0,35.0%,0,1,1,1,4,7,0,0,0,0,0,TR,SW,No,3
+Central,Indianapolis,Tower and Approach Control,7,LEX,Lexington Tower,24,19,0,0,19,79.2%,1.35,8,0,8,85.7%,6.9,0,0,0,0.0,0,0,0,1.1,103.0%,1,0,None,0,29.6%,0,1,0,6,0,7,1,0,0,0,1,TR,SO,No,3
+Central,Houston ,Tower and Approach Control,5,LFT,Lafayette Tower,22,18,0,0,18,81.8%,1.72,5,0,5,91.3%,4.6,0,0,0,0.0,0,0,0,1.2,97.3%,3,1,None,0,21.7%,0,1,0,0,3,4,0,0,0,1,1,TR,SW,No,3
+Eastern,New York ,Tower,11,LGA,La Guardia Tower,34,31,0,0,31,91.2%,1.47,7,0,7,72.0%,5.0,2,0,0,1.4,0,0,0,5.1,95.3%,6,3,Category 1,3,18.4%,0,0,0,0,0,0,3,3,1,0,7,TR,EA,Yes,7
+Western,Los Angeles ,Tower,8,LGB,Long Beach Tower,22,21,0,0,21,95.5%,0.94,0,0,0,91.7%,0.0,0,0,0,0.0,0,0,0,0.8,91.8%,4,2,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,WP,No,7
+Eastern,Memphis ,Tower and Approach Control,7,LIT,Little Rock Tower,28,24,0,0,24,85.7%,1.51,6,0,6,88.0%,5.3,0,0,0,0.0,2,0,0,1.4,92.3%,5,3,Category 2,1,20.0%,0,5,0,1,0,6,0,0,0,0,0,TR,SW,No,3
+Central,Minneapolis ,Tower,5,LNK,Lincoln Tower,14,12,0,0,12,85.7%,0.90,4,0,4,80.0%,3.2,0,0,0,0.0,0,0,0,0.4,105.9%,1,0,Category 2,1,25.0%,0,0,2,0,2,4,0,0,0,0,0,TR,CE,No,7
+Central,Indianapolis,Tower,5,LOU,Louisville Bowman Tower,11,10,0,0,10,90.9%,0.69,1,0,1,93.8%,0.9,0,0,0,0.0,0,0,0,0.3,97.0%,2,1,Category 1,1,9.1%,0,1,0,0,0,1,0,0,0,0,0,TR,SO,No,7
+Western,Oakland,Tower,6,LVK,Livermore Tower,11,10,0,0,10,90.9%,0.75,1,0,1,93.8%,0.9,1,0,0,0.9,0,0,0,0.5,103.7%,1,0,Category 1,1,9.1%,0,0,0,0,1,1,0,0,0,0,0,TR,WP,No,7
+Eastern,Memphis ,Approach Control,9,M03,Memphis TRACON,28,19,0,0,19,67.9%,1.05,7,0,7,97.7%,6.8,1,0,0,1.0,0,0,0,1.2,91.3%,5,3,None,0,26.9%,0,6,0,0,0,6,1,0,0,0,1,TR,SO,No,2
+Central,Minneapolis ,Approach Control,10,M98,Minneapolis TRACON,55,46,1,0,45,81.8%,2.07,15,0,15,69.0%,10.3,1,0,1,1.7,0,0,0,10.5,84.5%,18,13,None,0,25.0%,0,2,0,1,0,3,6,2,4,0,12,TR,GL,No,2
+Central,Fort Worth,Tower and Approach Control,7,MAF,Midland Tower,22,15,0,0,15,68.2%,2.07,10,0,10,77.8%,7.8,0,0,0,0.0,0,0,0,1.0,98.8%,3,1,None,0,40.0%,0,4,0,2,4,10,0,0,0,0,0,TR,SW,No,3
+Central,Cleveland ,Tower,4,MBS,Saginaw Tower,9,9,0,1,8,88.9%,1.05,4,0,4,83.3%,3.3,0,0,0,0.0,2,0,0,0.3,99.9%,1,1,Category 2,1,33.3%,0,4,0,0,0,4,0,0,0,0,0,TR,GL,No,7
+Central,Kansas City ,Tower and Approach Control,8,MCI,Kansas City International Tower,39,35,0,0,35,89.7%,1.29,4,0,4,89.3%,3.6,1,0,0,0.9,0,0,0,2.5,94.9%,5,3,Category 2,2,10.3%,0,0,0,1,0,1,1,0,1,1,3,TR,CE,No,3
+Eastern,Jacksonville ,Tower,9,MCO,Orlando Tower,22,22,0,0,22,100.0%,0.55,3,0,3,89.3%,2.7,0,0,0,0.0,1,0,0,0.7,104.6%,1,0,Category 1,4,12.0%,0,0,0,0,0,0,3,0,0,0,3,TR,SO,Yes,7
+Eastern,New York ,Tower and Approach Control,7,MDT,Harrisburg International Tower,26,19,0,0,19,73.1%,1.89,11,0,11,69.6%,7.7,0,0,0,0.0,0,0,0,1.6,96.4%,4,2,None,0,36.7%,0,5,0,5,1,11,0,0,0,0,0,TR,EA,No,3
+Central,Chicago ,Tower,8,MDW,Midway Tower,22,19,0,0,19,86.4%,1.34,3,0,3,88.5%,2.7,1,0,0,0.9,1,0,0,0.9,93.9%,4,2,Category 2,1,13.6%,0,0,0,1,0,1,0,0,2,0,2,TR,GL,Yes,7
+Eastern,Memphis ,Tower,8,MEM,Memphis Tower,28,23,1,0,22,78.6%,1.15,2,0,2,87.0%,1.7,3,0,1,3.6,1,0,0,1.5,88.7%,6,4,None,0,8.3%,0,0,0,0,0,0,2,0,0,0,2,TR,SO,Yes,7
+Central,Cleveland ,Tower,5,MFD,Mansfield Tower,10,10,0,0,10,100.0%,0.89,2,0,2,82.1%,1.6,0,0,0,0.0,1,0,0,0.4,102.4%,1,0,Category 1,2,16.7%,0,1,0,0,1,2,0,0,0,0,0,TR,GL,No,7
+Eastern,Atlanta ,Tower and Approach Control,7,MGM,Montgomery Tower,21,11,0,0,11,52.4%,1.50,13,0,13,80.8%,10.5,1,0,0,0.8,0,0,0,1.1,101.1%,2,0,None,0,54.2%,0,8,0,2,0,10,2,0,1,0,3,TR,SO,No,3
+Eastern,Boston ,Tower,4,MHT,Manchester Tower,15,15,0,0,15,100.0%,0.31,1,0,1,92.9%,0.9,0,0,0,0.0,0,0,0,0.1,105.3%,1,0,Category 1,3,6.3%,0,1,0,0,0,1,0,0,0,0,0,TR,NE,No,7
+Eastern,Miami ,Tower and Approach Control,12,MIA,Miami Tower,91,69,1,1,67,73.6%,2.32,30,0,30,59.8%,17.9,3,0,1,2.8,1,1,0,10.4,82.8%,36,27,None,0,30.9%,0,0,0,0,0,0,18,7,5,0,30,TR,SO,Yes,3
+Central,Minneapolis ,Tower,4,MIC,Crystal Tower,11,11,0,0,11,100.0%,1.05,2,0,2,83.3%,1.7,0,0,0,0.0,1,0,0,0.8,98.9%,1,1,Category 1,2,15.4%,0,1,1,0,0,2,0,0,0,0,0,TR,GL,No,7
+Central,Kansas City ,Tower,5,MKC,Kansas City Downtown Tower,15,14,1,0,13,86.7%,0.42,4,0,4,76.2%,3.0,0,0,1,1.0,0,0,0,0.1,113.1%,0,0,Category 2,1,23.5%,0,1,0,0,2,3,1,0,0,0,1,TR,CE,No,7
+Central,Chicago ,Tower and Approach Control,8,MKE,Milwaukee Tower,39,35,0,0,35,89.7%,2.18,4,0,4,85.0%,3.4,0,0,0,0.0,0,0,0,5.2,85.2%,10,7,Category 2,1,10.3%,0,0,0,1,0,1,0,0,2,1,3,TR,GL,No,3
+Central,Chicago ,Tower,4,MKG,Muskegon Tower,9,9,0,0,9,100.0%,1.05,1,0,1,83.3%,0.8,0,0,0,0.0,0,0,0,0.6,102.6%,1,0,Category 1,2,10.0%,0,0,0,0,1,1,0,0,0,0,0,TR,GL,No,7
+Central,Chicago ,Tower and Approach Control,5,MLI,Moline Quad City Tower,20,17,0,0,17,85.0%,1.89,3,0,3,74.1%,2.2,0,0,0,0.0,0,0,0,0.9,91.6%,4,3,None,0,15.0%,0,0,0,0,3,3,0,0,0,0,0,TR,GL,No,3
+Central,Fort Worth,Tower and Approach Control,5,MLU,Monroe Tower,15,9,0,0,9,60.0%,1.65,6,0,6,94.7%,5.7,1,0,0,0.9,0,0,0,0.6,100.3%,1,0,None,0,40.0%,0,5,0,0,1,6,0,0,0,0,0,TR,SW,No,3
+Eastern,New York ,Tower,5,MMU,Morristown Tower,11,11,0,0,11,100.0%,1.48,2,0,2,88.9%,1.8,0,0,0,0.0,1,0,0,0.6,101.7%,1,0,Category 1,2,15.4%,0,1,0,0,1,2,0,0,0,0,0,TR,EA,No,7
+Central,Houston ,Tower and Approach Control,8,MOB,Mobile Tower,22,19,0,0,19,86.4%,1.28,5,0,5,76.5%,3.8,0,0,0,0.0,2,0,0,1.9,86.1%,6,5,Category 2,1,20.8%,0,1,1,0,0,2,2,0,1,0,3,TR,SO,No,3
+Western,Alaska,Tower,6,MRI,Merrill Tower,11,12,0,0,12,109.1%,0.48,0,0,0,100.0%,0.0,0,0,0,0.0,0,0,0,0.3,106.2%,1,0,Category 1,3,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,AL,No,7
+Western,Oakland,Tower,5,MRY,Monterey Tower,9,8,0,0,8,88.9%,0.64,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.1,98.4%,1,1,Category 2,1,11.1%,0,1,0,0,0,1,0,0,0,0,0,TR,WP,No,7
+Central,Chicago ,Tower and Approach Control,7,MSN,Madison Tower,20,20,0,0,20,100.0%,2.19,0,0,0,78.6%,0.0,0,0,0,0.0,0,0,0,2.7,86.6%,6,4,Category 2,1,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,GL,No,3
+Central,Minneapolis ,Tower,11,MSP,Minneapolis Tower,36,32,0,0,32,88.9%,1.15,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,1.5,93.0%,5,3,Category 2,2,8.6%,0,0,0,0,0,0,1,1,1,0,3,TR,GL,Yes,7
+Central,Houston ,Tower and Approach Control,9,MSY,Moiusantt Tower,36,28,0,1,27,75.0%,1.25,7,0,7,72.2%,5.1,0,0,0,0.0,0,0,0,2.1,83.3%,12,9,None,0,20.6%,0,1,0,2,0,3,0,1,3,0,4,TR,SW,No,3
+Western,Seattle,Tower and Approach Control,6,MWH,Grant County Tower,15,12,0,0,12,80.0%,2.61,6,0,6,37.5%,2.3,0,0,0,0.0,0,0,0,0.8,89.6%,7,5,None,0,33.3%,0,1,0,4,0,5,1,0,0,0,1,TR,NM,No,3
+Western,Los Angeles ,Tower,7,MYF,Montgomery Tower,13,11,0,1,10,76.9%,1.05,4,0,4,66.7%,2.7,0,0,1,1.0,0,0,0,0.5,101.7%,1,0,None,0,28.6%,0,0,0,0,1,1,0,0,0,3,3,TR,WP,No,7
+Eastern,Jacksonville ,Tower and Approach Control,8,MYR,Myrtle Beach Tower,22,21,1,0,20,90.9%,1.32,4,0,4,77.3%,3.1,0,0,1,1.0,0,0,0,1.7,101.9%,2,0,Category 1,2,16.7%,0,0,0,1,0,1,3,0,0,0,3,TR,SO,No,3
+Eastern,New York ,Approach Control,12,N90,New York TRACON,226,124,2,0,122,54.0%,1.90,102,0,102,35.6%,36.3,0,0,2,2.0,0,1,0,36.7,54.2%,331,291,None,0,45.5%,0,75,1,3,3,82,16,1,2,1,20,TR,EA,No,9
+Western,Oakland,Approach Control,12,NCT,Northern California TRACON,161,119,0,0,119,73.9%,1.62,33,0,33,69.1%,22.8,6,0,0,4.1,0,0,0,11.8,83.4%,54,39,None,0,21.7%,0,0,0,2,0,2,17,8,6,0,31,TR,WP,No,2
+Central,Houston ,Tower,5,NEW,Lakefront Tower,11,10,0,2,8,72.7%,0.57,3,0,3,81.8%,2.5,0,0,2,2.0,0,0,0,0.1,112.0%,0,0,None,0,27.3%,0,1,0,0,2,3,0,0,0,0,0,TR,SW,No,7
+Western,Oakland,Tower,8,OAK,Oakland Tower,24,18,0,0,18,75.0%,1.13,6,0,6,77.3%,4.6,0,0,0,0.0,0,0,0,0.9,90.7%,5,3,None,0,25.0%,0,0,0,0,0,0,1,0,4,1,6,TR,WP,No,7
+Western,Hawaii/Guam,Tower,7,OGG,Kahului Tower,13,12,0,0,12,92.3%,1.14,3,0,3,76.4%,2.3,0,0,0,0.0,1,0,0,0.6,98.0%,2,1,Category 1,1,20.0%,0,0,0,0,3,3,0,0,0,0,0,TR,WP,No,7
+Central,Fort Worth,Tower and Approach Control,8,OKC,Oklahoma City Tower,30,20,0,0,20,66.7%,1.92,14,0,14,51.6%,7.2,0,1,0,0.5,0,0,0,2.5,84.1%,13,10,None,0,41.2%,0,0,0,5,2,7,1,0,5,1,7,TR,SW,No,3
+Central,Minneapolis ,Tower,6,OMA,Omaha Tower,15,13,0,0,13,86.7%,1.00,2,0,2,93.3%,1.9,0,0,0,0.0,0,0,0,0.4,96.7%,2,1,Category 2,1,13.3%,0,2,0,0,0,2,0,0,0,0,0,TR,CE,No,7
+Western,Los Angeles ,Tower,5,ONT,Ontario Tower,18,13,0,0,13,72.2%,1.01,10,0,10,72.7%,7.3,0,0,0,0.0,0,0,0,0.4,110.3%,0,0,None,0,43.5%,0,7,0,0,2,9,0,0,0,1,1,TR,WP,No,7
+Central,Chicago ,Tower,12,ORD,Chicago O'Hare Tower,68,52,0,0,52,76.5%,1.70,14,1,13,63.6%,8.3,2,0,0,1.3,0,0,0,6.6,80.8%,28,21,None,0,20.0%,0,0,0,0,0,0,2,5,4,3,14,TR,GL,Yes,7
+Eastern,Washington ,Tower and Approach Control,8,ORF,Norfolk Tower,28,22,0,0,22,78.6%,2.02,6,0,6,61.3%,3.7,0,0,0,0.0,1,0,0,3.7,75.1%,15,12,None,0,21.4%,0,0,0,4,1,5,0,0,1,0,1,TR,EA,No,3
 Eastern,Jacksonville ,Tower,6,ORL,Orlando Executive Tower,11,12,1,0,11,100.0%,0.61,1,0,1,93.8%,0.9,0,0,1,1.0,0,0,0,0.3,114.7%,0,0,Category 1,2,8.3%,0,0,0,0,0,0,1,0,0,0,1,TR,SO,No,7
-Eastern,Jacksonville ,Approach Control,9,P31,Pensacola TRACON,36,31,0,0,31,86.1%,1.51,6,0,6,89.5%,5.4,0,0,0,0.0,0,0,0,1.9,95.6%,0,2,Category 2,1,16.2%,0,0,0,0,1,1,3,0,1,1,5,TR,SO,No,2
-Central,Albuquerque ,Approach Control,11,P50,Phoenix TRACON,60,49,1,0,48,80.0%,1.29,13,0,13,88.9%,11.6,0,1,1,1.9,0,0,0,3.8,96.2%,0,3,None,0,21.3%,0,1,0,4,0,5,5,1,1,1,8,TR,WP,No,2
-Western,Seattle,Approach Control,9,P80,Portland TRACON,26,22,0,0,22,84.6%,1.53,5,0,5,65.5%,3.3,2,0,0,1.3,0,0,0,2.4,93.2%,0,3,None,0,18.5%,0,1,0,0,0,1,3,0,0,1,4,TR,NM,No,2
-Western,Seattle,Tower,6,PAE,Paine Tower,11,12,0,0,12,109.1%,0.83,0,0,0,100.0%,0.0,0,0,0,0.0,0,0,0,0.3,106.1%,0,0,Category 1,3,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,NM,No,7
-Western,Oakland,Tower,6,PAO,Palo Alto Tower,11,9,0,0,9,81.8%,1.02,3,0,3,76.2%,2.3,0,0,0,0.0,0,0,0,0.3,99.8%,0,1,None,0,25.0%,0,1,0,0,2,3,0,0,0,0,0,TR,WP,No,7
-Eastern,Miami ,Tower and Approach Control,9,PBI,West Palm Beach Tower,54,41,1,0,40,74.1%,2.01,23,0,23,74.3%,17.1,0,0,1,1.0,0,0,0,3.9,100.4%,0,0,None,0,36.5%,0,0,3,2,0,5,4,13,0,1,18,TR,SO,No,3
-Eastern,Washington ,Approach Control,12,PCT,Potomac TRACON,174,152,2,2,148,85.1%,1.51,15,0,15,87.5%,13.1,8,0,4,11.0,1,1,0,12.5,90.6%,0,19,Category 2,1,9.2%,0,0,0,0,0,0,11,2,1,1,15,TR,EA,No,2
+Eastern,Jacksonville ,Approach Control,9,P31,Pensacola TRACON,36,31,0,0,31,86.1%,1.51,6,0,6,89.5%,5.4,0,0,0,0.0,0,0,0,1.9,95.6%,5,2,Category 2,1,16.2%,0,0,0,0,1,1,3,0,1,1,5,TR,SO,No,2
+Central,Albuquerque ,Approach Control,11,P50,Phoenix TRACON,60,50,1,0,49,81.7%,1.29,11,0,11,88.9%,9.8,0,1,1,1.9,0,0,0,3.8,94.9%,8,4,None,0,18.3%,0,1,0,4,0,5,4,1,1,0,6,TR,WP,No,2
+Western,Seattle,Approach Control,9,P80,Portland TRACON,26,22,0,0,22,84.6%,1.53,6,0,6,65.5%,3.9,1,0,0,0.7,0,0,0,2.4,93.2%,6,3,None,0,21.4%,0,2,0,0,0,2,2,0,1,1,4,TR,NM,No,2
+Western,Seattle,Tower,6,PAE,Paine Tower,11,12,1,0,11,100.0%,0.83,0,0,0,100.0%,0.0,0,0,1,1.0,0,0,0,0.3,106.1%,1,0,Category 1,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,NM,No,7
+Western,Oakland,Tower,6,PAO,Palo Alto Tower,11,9,0,0,9,81.8%,1.02,3,0,3,76.2%,2.3,0,0,0,0.0,0,0,0,0.3,99.8%,1,1,None,0,25.0%,0,1,0,0,2,3,0,0,0,0,0,TR,WP,No,7
+Eastern,Miami ,Tower and Approach Control,9,PBI,West Palm Beach Tower,54,41,1,0,40,74.1%,2.01,22,0,22,74.3%,16.3,0,0,1,1.0,0,0,0,3.9,99.0%,6,1,None,0,35.5%,0,0,3,2,0,5,4,8,3,2,17,TR,SO,No,3
+Eastern,Washington ,Approach Control,12,PCT,Potomac TRACON,174,152,1,2,149,85.6%,1.51,14,0,14,87.5%,12.3,8,0,3,10.0,1,0,0,12.5,90.7%,31,19,Category 2,2,8.6%,0,0,0,0,0,0,9,2,1,2,14,TR,EA,No,2
 Eastern,Atlanta ,Tower,7,PDK,DeKalb-Peachtree Tower,15,13,0,0,13,86.7%,0.95,7,0,7,91.7%,6.4,0,0,0,0.0,1,0,0,1.3,114.3%,0,0,Category 2,1,35.0%,0,4,0,0,1,5,2,0,0,0,2,TR,SO,No,7
-Western,Seattle,Tower,8,PDX,Portland Tower,26,27,0,0,27,103.8%,1.08,1,0,1,81.0%,0.8,0,0,0,0.0,0,0,0,1.5,101.1%,0,0,Category 1,5,3.6%,0,0,0,0,0,0,1,0,0,0,1,TR,NM,No,7
+Western,Seattle,Tower,8,PDX,Portland Tower,26,27,0,0,27,103.8%,1.08,1,0,1,81.0%,0.8,0,0,0,0.0,0,0,0,1.5,101.1%,2,0,Category 1,5,3.6%,0,0,0,0,0,0,1,0,0,0,1,TR,NM,No,7
 Eastern,Washington ,Tower,5,PHF,Patrick Henry Tower,11,10,0,0,10,90.9%,0.63,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,0.3,115.8%,0,0,Category 1,1,23.1%,0,0,0,0,2,2,1,0,0,0,1,TR,EA,No,7
-Eastern,New York ,Tower and Approach Control,11,PHL,Philadelphia Tower,72,59,0,0,59,81.9%,2.30,18,0,18,66.7%,12.0,0,0,0,0.0,0,0,0,10.7,83.7%,8,18,None,0,23.4%,0,0,0,1,0,1,9,3,4,1,17,TR,EA,Yes,3
-Central,Albuquerque ,Tower,10,PHX,Phoenix Tower,28,27,1,0,26,92.9%,0.70,2,0,2,100.0%,2.0,0,0,1,1.0,0,0,0,1.7,97.4%,0,1,Category 1,3,7.1%,0,0,0,0,0,0,2,0,0,0,2,TR,WP,Yes,7
-Central,Chicago ,Tower and Approach Control,5,PIA,Peoria Tower,22,15,0,0,15,68.2%,2.23,10,0,10,83.3%,8.3,0,0,0,0.0,0,0,0,1.7,98.3%,0,1,None,0,40.0%,0,4,0,0,5,9,0,0,0,1,1,TR,GL,No,3
-Eastern,Miami ,Tower,7,PIE,St. Petersburg Tower,11,9,0,0,9,81.8%,1.17,6,0,6,77.0%,4.6,0,1,0,0.8,1,0,0,1.0,112.4%,0,0,None,0,40.0%,0,2,0,1,2,5,1,0,0,0,1,TR,SO,No,7
-Central,Cleveland ,Tower and Approach Control,9,PIT,Pittsburgh Tower,36,31,0,0,31,86.1%,1.77,13,0,13,59.3%,7.7,0,0,0,0.0,0,0,0,5.8,91.3%,0,6,Category 2,1,29.5%,0,1,0,1,0,2,5,3,3,0,11,TR,EA,No,3
+Eastern,New York ,Tower and Approach Control,11,PHL,Philadelphia Tower,72,60,0,0,60,83.3%,2.30,17,0,17,66.7%,11.3,0,0,0,0.0,0,0,0,10.7,84.2%,24,18,None,0,22.1%,0,0,0,1,0,1,9,3,4,0,16,TR,EA,Yes,3
+Central,Albuquerque ,Tower,10,PHX,Phoenix Tower,28,27,0,0,27,96.4%,0.70,2,0,2,100.0%,2.0,0,0,0,0.0,0,0,0,1.7,97.4%,3,1,Category 1,4,6.9%,0,0,0,0,0,0,2,0,0,0,2,TR,WP,Yes,7
+Central,Chicago ,Tower and Approach Control,5,PIA,Peoria Tower,22,15,0,0,15,68.2%,2.23,10,0,10,83.3%,8.3,0,0,0,0.0,0,0,0,1.7,98.3%,3,1,None,0,40.0%,0,4,0,0,5,9,0,0,0,1,1,TR,GL,No,3
+Eastern,Miami ,Tower,7,PIE,St. Petersburg Tower,11,9,0,0,9,81.8%,1.14,6,0,6,76.4%,4.6,0,1,0,0.8,1,0,0,1.0,112.0%,0,0,None,0,40.0%,0,2,0,1,2,5,1,0,0,0,1,TR,SO,No,7
+Central,Cleveland ,Tower and Approach Control,9,PIT,Pittsburgh Tower,36,31,0,0,31,86.1%,1.77,13,0,13,59.3%,7.7,0,0,0,0.0,0,0,0,5.8,91.3%,10,6,Category 2,1,29.5%,0,1,0,1,0,2,5,3,3,0,11,TR,GL,No,3
 Eastern,New York ,Tower,5,PNE,Northeast Philadelphia Tower,11,9,0,0,9,81.8%,0.80,4,0,4,88.2%,3.5,0,0,0,0.0,0,0,0,0.3,111.0%,0,0,None,0,30.8%,0,0,1,0,2,3,1,0,0,0,1,TR,EA,No,7
-Eastern,Jacksonville ,Tower,6,PNS,Pensacola Tower,11,12,0,0,12,109.1%,0.65,1,0,1,100.0%,1.0,0,0,0,0.0,2,0,0,0.2,97.8%,0,1,Category 1,2,7.7%,0,1,0,0,0,1,0,0,0,0,0,TR,SO,No,7
+Eastern,Jacksonville ,Tower,6,PNS,Pensacola Tower,11,12,0,0,12,109.1%,0.65,1,0,1,100.0%,1.0,0,1,0,1.0,2,0,0,0.2,106.9%,0,0,Category 1,3,7.7%,0,1,0,0,0,1,0,0,0,0,0,TR,SO,No,7
 Western,Los Angeles ,Tower,5,POC,Brackett Tower,11,11,0,0,11,100.0%,0.55,2,0,2,93.3%,1.9,0,0,0,0.0,0,0,0,0.4,113.0%,0,0,Category 1,2,15.4%,0,1,0,0,0,1,1,0,0,0,1,TR,WP,No,7
 Eastern,New York ,Tower,4,POU,Poughkeepsie Tower,10,10,0,0,10,100.0%,0.96,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,1.1,119.2%,0,0,Category 1,2,23.1%,0,0,1,0,1,2,1,0,0,0,1,TR,EA,No,7
-Central,Albuquerque ,Tower,7,PRC,Prescott Tower,15,13,0,0,13,86.7%,1.14,3,0,3,80.0%,2.4,0,0,0,0.0,0,0,0,0.5,99.4%,0,1,Category 2,1,18.8%,0,1,0,0,1,2,1,0,0,0,1,TR,WP,No,7
-Western,Seattle,Tower and Approach Control,6,PSC,Pasco Tower,20,19,0,0,19,95.0%,1.04,2,0,2,100.0%,2.0,0,0,0,0.0,0,0,0,0.7,101.5%,0,0,Category 1,2,9.5%,0,0,0,1,0,1,1,0,0,0,1,TR,NM,No,3
-Western,Los Angeles ,Tower,5,PSP,Palm Springs Tower,11,11,0,0,11,100.0%,1.34,2,0,2,92.9%,1.9,0,0,0,0.0,1,0,0,0.8,100.7%,0,0,Category 1,2,15.4%,0,2,0,0,0,2,0,0,0,0,0,TR,WP,No,7
-Central,Cleveland ,Tower,6,PTK,Pontiac Tower,11,9,0,0,9,81.8%,0.92,4,0,4,79.4%,3.2,0,0,0,0.0,0,0,0,1.0,101.6%,0,0,None,0,30.8%,0,1,0,0,1,2,1,0,0,1,2,TR,GL,No,7
-Western,Denver,Tower,8,PUB,Pueblo Tower,15,10,0,0,10,66.7%,0.66,2,0,2,89.5%,1.8,1,0,0,0.9,0,0,0,0.2,83.0%,2,3,None,0,16.7%,0,1,0,0,1,2,0,0,0,0,0,TR,NM,No,7
-Eastern,Boston ,Tower and Approach Control,7,PVD,Providence Tower,30,22,0,0,22,73.3%,1.53,12,0,12,61.9%,7.4,0,0,0,0.0,0,0,0,1.4,93.5%,0,4,None,0,35.3%,0,3,0,5,1,9,1,0,1,1,3,TR,NE,No,3
-Central,Chicago ,Tower,5,PWK,Palwaukee Tower,11,10,0,0,10,90.9%,0.93,2,0,2,100.0%,2.0,0,0,0,0.0,0,0,0,0.6,103.4%,0,0,Category 1,1,16.7%,0,1,0,0,0,1,1,0,0,0,1,TR,GL,No,7
-Eastern,Boston ,Tower and Approach Control,6,PWM,Portland Tower,22,17,0,0,17,77.3%,1.32,7,0,7,75.0%,5.3,0,0,0,0.0,0,0,0,0.5,99.0%,0,1,None,0,29.2%,0,0,0,2,5,7,0,0,0,0,0,TR,NE,No,3
-Central,Minneapolis ,Approach Control,8,R90,Omaha TRACON,20,18,0,0,18,90.0%,1.04,5,0,5,100.0%,5.0,0,0,0,0.0,1,0,0,2.1,99.3%,0,1,Category 2,1,21.7%,0,0,0,1,0,1,4,0,0,0,4,TR,CE,No,2
-Eastern,New York ,Tower and Approach Control,5,RDG,Reading TRACAB,17,11,0,0,11,64.7%,2.16,10,0,10,76.9%,7.7,0,0,0,0.0,0,0,0,0.9,104.5%,0,0,None,0,47.6%,0,9,0,0,0,9,1,0,0,0,1,TR,EA,No,3
-Eastern,Washington ,Tower and Approach Control,9,RDU,Raleigh-Durham Tower,43,36,0,1,35,81.4%,1.44,9,0,9,91.4%,8.2,0,0,1,1.0,0,0,0,2.3,97.5%,0,2,None,0,20.5%,0,0,2,0,0,2,2,2,2,1,7,TR,SO,No,3
-Central,Chicago ,Tower and Approach Control,6,RFD,Rockford Tower,22,20,0,0,20,90.9%,1.22,4,0,4,100.0%,4.0,0,0,0,0.0,0,0,0,0.6,106.2%,0,0,Category 1,2,16.7%,0,3,0,1,0,4,0,0,0,0,0,TR,GL,No,3
-Western,Oakland,Tower,7,RHV,Reid-Hillview Tower,13,10,0,0,10,76.9%,0.60,3,0,3,95.5%,2.9,0,0,0,0.0,0,0,0,0.2,97.6%,0,1,None,0,23.1%,0,1,0,0,2,3,0,0,0,0,0,TR,WP,No,7
-Eastern,Washington ,Tower,6,RIC,Richmond Tower,15,13,0,0,13,86.7%,1.20,4,0,4,86.7%,3.5,0,0,0,0.0,1,0,0,0.8,98.0%,0,1,Category 2,1,23.5%,0,3,0,0,1,4,0,0,0,0,0,TR,EA,No,7
-Western,Oakland,Tower,5,RNO,Reno Tower,15,13,0,0,13,86.7%,0.62,4,0,4,50.0%,2.0,1,0,0,0.5,1,0,0,0.3,94.8%,0,2,Category 2,1,23.5%,0,3,0,0,1,4,0,0,0,0,0,TR,WP,No,7
-Eastern,Washington ,Tower and Approach Control,6,ROA,Roanoke Tower,24,20,0,0,20,83.3%,1.88,5,0,5,94.4%,4.7,0,0,0,0.0,0,0,0,1.7,96.1%,0,1,None,0,20.0%,0,3,0,0,2,5,0,0,0,0,0,TR,EA,No,3
-Central,Cleveland ,Tower and Approach Control,6,ROC,Rochester Tower,26,17,0,0,17,65.4%,1.77,12,0,12,78.9%,9.5,0,0,0,0.0,0,0,0,1.6,95.8%,0,2,None,0,41.4%,0,4,0,6,0,10,1,0,1,0,2,TR,EA,No,3
-Central,Albuquerque ,Tower and Approach Control,5,ROW,Roswell Tower,15,11,0,0,11,73.3%,2.17,6,0,6,73.7%,4.4,0,0,0,0.0,0,0,0,1.0,96.3%,0,1,None,0,35.3%,0,2,0,0,4,6,0,0,0,0,0,TR,SW,No,3
-Central,Minneapolis ,Tower and Approach Control,5,RST,Rochester Municipal TRACAB,13,10,0,1,9,69.2%,1.33,4,0,4,75.0%,3.0,0,0,1,1.0,0,0,0,0.7,94.4%,0,1,None,0,30.8%,0,2,0,0,1,3,0,0,0,1,1,TR,GL,No,3
-Eastern,Miami ,Tower and Approach Control,8,RSW,Fort Myers Tower,30,25,0,0,25,83.3%,1.81,7,0,7,69.0%,4.8,0,1,0,0.7,0,0,0,2.2,94.5%,0,3,None,0,21.9%,0,0,0,1,0,1,5,0,1,0,6,TR,SO,No,3
-Central,Kansas City ,Tower,7,RVS,Riverside Tower,16,13,0,0,13,81.3%,1.17,6,0,6,77.0%,4.6,1,0,0,0.8,0,1,0,1.4,100.1%,0,0,None,0,31.6%,0,4,0,0,2,6,0,0,0,0,0,TR,SW,No,7
-Western,Seattle,Approach Control,10,S46,Seattle TRACON,43,36,0,0,36,83.7%,1.29,9,0,9,87.5%,7.9,0,0,0,0.0,1,0,0,2.3,94.5%,0,3,None,0,20.0%,0,4,0,0,0,4,2,2,0,1,5,TR,NM,No,2
-Western,Salt Lake,Approach Control,10,S56,Salt Lake City TRACON,45,34,0,0,34,75.6%,1.47,13,0,13,79.2%,10.3,0,0,0,0.0,0,0,0,2.8,92.1%,0,5,None,0,27.7%,0,5,0,4,0,9,2,0,2,0,4,TR,NM,No,2
-Western,Los Angeles ,Tower,8,SAN,San Diego Tower,26,23,0,0,23,88.5%,0.68,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.5,90.4%,0,3,Category 2,1,4.2%,0,0,0,0,0,0,1,0,0,0,1,TR,WP,Yes,7
-Central,Houston ,Tower and Approach Control,9,SAT,San Antonio Tower,45,37,0,0,37,82.2%,1.98,7,0,7,78.9%,5.5,3,0,0,2.4,0,0,0,4.3,90.2%,1,6,None,0,15.9%,0,0,2,2,0,4,2,0,1,0,3,TR,SW,No,3
-Eastern,Jacksonville ,Tower and Approach Control,8,SAV,Savannah Tower,23,18,0,0,18,78.3%,1.35,5,0,5,79.2%,4.0,0,0,0,0.0,0,0,0,2.2,85.8%,2,5,None,0,21.7%,0,1,0,1,1,3,2,0,0,0,2,TR,SO,No,3
-Western,Los Angeles ,Tower and Approach Control,7,SBA,Santa Barbara Tower,28,20,0,0,20,71.4%,1.88,8,0,8,88.0%,7.0,0,0,0,0.0,0,0,0,1.7,90.4%,0,4,None,0,28.6%,0,4,0,3,1,8,0,0,0,0,0,TR,WP,No,3
-Central,Chicago ,Tower and Approach Control,7,SBN,South Bend Tower,26,19,0,1,18,69.2%,2.04,11,0,11,73.9%,8.1,0,0,1,1.0,0,0,0,2.0,96.6%,0,2,None,0,37.9%,0,0,0,11,0,11,0,0,0,0,0,TR,GL,No,3
-Western,Oakland,Tower,5,SCK,Stockton Tower,11,11,0,1,10,90.9%,0.71,2,0,2,87.5%,1.8,0,0,1,1.0,0,1,0,0.6,101.4%,0,0,Category 1,1,16.7%,0,1,0,0,0,1,0,0,0,1,1,TR,WP,No,7
-Western,Los Angeles ,Approach Control,12,SCT,Southern California TRACON,233,191,8,1,182,78.1%,1.68,24,0,24,72.2%,17.3,9,1,8,15.2,0,0,0,19.2,83.8%,21,53,None,0,11.7%,0,0,0,0,0,0,15,3,6,0,24,TR,WP,No,9
-Central,Indianapolis,Tower and Approach Control,8,SDF,Standiford Tower,47,38,0,1,37,78.7%,2.07,8,0,8,70.4%,5.6,1,0,0,0.7,0,0,0,4.3,83.1%,5,12,None,0,17.8%,0,2,0,1,0,3,2,1,2,0,5,TR,SO,No,3
-Central,Albuquerque ,Tower,6,SDL,Scottsdale Tower,11,9,0,0,9,81.8%,0.39,3,0,3,70.8%,2.1,0,0,0,0.0,0,0,0,0.2,99.7%,0,1,None,0,25.0%,0,0,0,0,0,0,2,0,0,1,3,TR,WP,No,7
-Western,Seattle,Tower,10,SEA,Seattle Tower,29,26,0,0,26,89.7%,0.51,0,0,0,89.5%,0.0,0,0,0,0.0,0,0,0,0.3,88.5%,1,4,Category 2,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,NM,Yes,7
-Western,Los Angeles ,Tower,7,SEE,Gillespie Tower,15,13,0,0,13,86.7%,1.17,5,0,5,77.0%,3.8,0,0,0,0.0,0,0,0,0.4,109.9%,0,0,Category 2,1,27.8%,0,4,0,0,0,4,1,0,0,0,1,TR,WP,No,7
-Eastern,Jacksonville ,Tower,9,SFB,Sanford Tower,17,15,0,0,15,88.2%,0.76,2,0,2,84.6%,1.7,1,0,0,0.8,1,0,0,0.7,93.1%,0,2,Category 2,1,11.8%,0,0,0,1,0,1,1,0,0,0,1,TR,SO,No,7
-Western,Oakland,Tower,10,SFO,San Francisco Tower,30,22,0,0,22,73.3%,1.02,5,0,5,67.7%,3.4,4,0,0,2.7,0,0,0,1.7,88.1%,1,6,None,0,18.5%,0,0,0,0,0,0,4,0,1,0,5,TR,WP,Yes,7
-Central,Kansas City ,Tower and Approach Control,7,SGF,Springfield Tower,29,23,0,0,23,79.3%,1.17,8,0,8,82.1%,6.6,0,0,0,0.0,1,0,0,0.4,97.0%,0,2,None,0,25.8%,0,6,0,1,0,7,1,0,0,0,1,TR,CE,No,3
-Central,Fort Worth,Tower and Approach Control,6,SHV,Shreveport Tower,26,16,0,0,16,61.5%,1.91,11,0,11,85.7%,9.4,0,0,0,0.0,1,0,0,0.9,90.4%,0,3,None,0,40.7%,0,0,0,10,1,11,0,0,0,0,0,TR,SW,No,3
-Western,Oakland,Tower,7,SJC,San Jose Tower,15,13,0,0,13,86.7%,0.77,4,0,4,84.6%,3.4,0,0,0,0.0,1,0,0,0.5,99.6%,0,1,Category 2,1,23.5%,0,2,0,0,2,4,0,0,0,0,0,TR,WP,No,7
-Eastern,Miami ,Tower,7,SJU,San Juan Tower,17,14,0,0,14,82.4%,1.02,3,0,3,87.5%,2.6,0,0,0,0.0,0,0,0,0.3,95.8%,0,1,None,0,17.6%,0,3,0,0,0,3,0,0,0,0,0,TR,SO,No,7
-Western,Salt Lake,Tower,10,SLC,Salt Lake City Tower,32,26,0,0,26,81.3%,0.91,4,0,4,87.5%,3.5,2,0,0,1.8,0,0,0,1.1,94.3%,0,3,None,0,13.3%,0,0,0,0,0,0,2,0,2,0,4,TR,NM,Yes,7
-Western,Oakland,Tower,6,SMF,Sacramento Tower,15,12,0,0,12,80.0%,0.45,6,0,6,82.4%,4.9,1,1,0,1.6,2,0,0,0.2,109.3%,0,0,None,0,33.3%,0,1,0,0,4,5,1,0,0,0,1,TR,WP,No,7
+Central,Albuquerque ,Tower,7,PRC,Prescott Tower,15,14,0,0,14,93.3%,1.14,2,0,2,80.0%,1.6,0,0,0,0.0,1,0,0,0.5,94.1%,3,2,Category 1,2,12.5%,0,1,0,0,0,1,1,0,0,0,1,TR,WP,No,7
+Western,Seattle,Tower and Approach Control,6,PSC,Pasco Tower,20,19,0,0,19,95.0%,1.04,2,0,2,100.0%,2.0,0,0,0,0.0,0,0,0,0.7,101.5%,1,0,Category 1,2,9.5%,0,0,0,1,0,1,1,0,0,0,1,TR,NM,No,3
+Western,Los Angeles ,Tower,5,PSP,Palm Springs Tower,11,11,0,0,11,100.0%,1.34,2,0,2,92.9%,1.9,0,0,0,0.0,1,0,0,0.8,100.7%,1,0,Category 1,2,15.4%,0,2,0,0,0,2,0,0,0,0,0,TR,WP,No,7
+Central,Cleveland ,Tower,6,PTK,Pontiac Tower,11,9,0,0,9,81.8%,0.94,4,0,4,79.8%,3.2,0,0,0,0.0,0,0,0,1.0,101.7%,1,0,None,0,30.8%,0,0,0,0,2,2,1,0,0,1,2,TR,GL,No,7
+Western,Denver,Tower,8,PUB,Pueblo Tower,15,10,0,0,10,66.7%,0.66,2,0,2,89.5%,1.8,1,0,0,0.9,0,0,0,0.2,83.0%,4,3,None,0,16.7%,0,1,0,0,1,2,0,0,0,0,0,TR,NM,No,7
+Eastern,Boston ,Tower and Approach Control,7,PVD,Providence Tower,30,22,0,0,22,73.3%,1.53,12,0,12,61.9%,7.4,0,0,0,0.0,0,0,0,1.4,93.5%,7,4,None,0,35.3%,0,3,0,4,2,9,1,0,1,1,3,TR,NE,No,3
+Central,Chicago ,Tower,5,PWK,Palwaukee Tower,11,10,0,0,10,90.9%,0.93,2,0,2,100.0%,2.0,0,0,0,0.0,0,0,0,0.6,103.4%,1,0,Category 1,1,16.7%,0,1,0,0,0,1,1,0,0,0,1,TR,GL,No,7
+Eastern,Boston ,Tower and Approach Control,6,PWM,Portland Tower,22,17,0,0,17,77.3%,1.32,7,0,7,75.0%,5.3,0,0,0,0.0,0,0,0,0.5,99.0%,3,1,None,0,29.2%,0,0,0,1,6,7,0,0,0,0,0,TR,NE,No,3
+Central,Minneapolis ,Approach Control,8,R90,Omaha TRACON,20,17,0,0,17,85.0%,1.04,5,0,5,100.0%,5.0,0,0,0,0.0,0,0,0,2.1,99.3%,2,1,None,0,22.7%,0,0,0,1,0,1,4,0,0,0,4,TR,CE,No,2
+Eastern,New York ,Tower and Approach Control,5,RDG,Reading TRACAB,17,11,0,0,11,64.7%,2.16,10,0,10,76.9%,7.7,0,0,0,0.0,0,0,0,0.9,104.5%,1,0,None,0,47.6%,0,7,0,0,2,9,1,0,0,0,1,TR,EA,No,3
+Eastern,Washington ,Tower and Approach Control,9,RDU,Raleigh-Durham Tower,43,36,0,1,35,81.4%,1.44,9,0,9,91.4%,8.2,0,0,1,1.0,0,0,0,2.3,97.5%,5,2,None,0,20.5%,0,0,2,0,0,2,2,2,2,1,7,TR,SO,No,3
+Central,Chicago ,Tower and Approach Control,6,RFD,Rockford Tower,22,20,0,0,20,90.9%,1.22,3,0,3,100.0%,3.0,0,0,0,0.0,0,0,0,0.6,101.7%,2,0,Category 1,2,13.0%,0,2,0,1,0,3,0,0,0,0,0,TR,GL,No,3
+Western,Oakland,Tower,7,RHV,Reid-Hillview Tower,13,10,0,0,10,76.9%,0.60,3,0,3,95.5%,2.9,0,0,0,0.0,0,0,0,0.2,97.6%,2,1,None,0,23.1%,0,1,0,0,2,3,0,0,0,0,0,TR,WP,No,7
+Eastern,Washington ,Tower,6,RIC,Richmond Tower,15,13,0,0,13,86.7%,1.20,4,0,4,86.7%,3.5,0,0,0,0.0,1,0,0,0.8,98.0%,2,1,Category 2,1,23.5%,0,2,0,0,2,4,0,0,0,0,0,TR,EA,No,7
+Western,Oakland,Tower,5,RNO,Reno Tower,15,13,0,0,13,86.7%,0.62,4,0,4,50.0%,2.0,1,0,0,0.5,1,0,0,0.3,94.8%,4,2,Category 2,1,23.5%,0,3,0,0,1,4,0,0,0,0,0,TR,WP,No,7
+Eastern,Washington ,Tower and Approach Control,6,ROA,Roanoke Tower,24,21,0,0,21,87.5%,1.88,4,0,4,94.4%,3.8,0,0,0,0.0,0,0,0,1.7,96.3%,3,1,Category 2,1,16.0%,0,3,0,0,1,4,0,0,0,0,0,TR,EA,No,3
+Central,Cleveland ,Tower and Approach Control,6,ROC,Rochester Tower,26,19,0,0,19,73.1%,1.77,10,0,10,78.9%,7.9,0,0,0,0.0,0,0,0,1.6,97.4%,3,1,None,0,34.5%,0,4,0,4,0,8,1,0,1,0,2,TR,EA,No,3
+Central,Albuquerque ,Tower and Approach Control,5,ROW,Roswell Tower,15,10,0,0,10,66.7%,2.17,5,0,5,73.7%,3.7,0,0,0,0.0,0,0,0,1.0,84.7%,5,4,None,0,33.3%,0,2,0,0,3,5,0,0,0,0,0,TR,SW,No,3
+Central,Minneapolis ,Tower and Approach Control,5,RST,Rochester Municipal TRACAB,13,11,0,1,10,76.9%,1.33,3,0,3,75.0%,2.3,0,0,1,1.0,0,0,0,0.7,96.3%,2,1,None,0,23.1%,0,2,0,0,1,3,0,0,0,0,0,TR,GL,No,3
+Eastern,Miami ,Tower and Approach Control,8,RSW,Fort Myers Tower,30,25,0,0,25,83.3%,1.81,7,0,7,69.0%,4.8,0,1,0,0.7,0,0,0,2.2,94.5%,6,3,None,0,21.9%,0,0,0,1,0,1,5,0,1,0,6,TR,SO,No,3
+Central,Kansas City ,Tower,7,RVS,Riverside Tower,16,13,0,0,13,81.3%,1.14,7,0,7,76.4%,5.3,0,0,0,0.0,0,1,0,1.4,99.8%,2,1,None,0,35.0%,0,4,0,0,3,7,0,0,0,0,0,TR,SW,No,7
+Western,Seattle,Approach Control,10,S46,Seattle TRACON,43,35,1,0,34,79.1%,1.29,9,0,9,87.5%,7.9,0,0,1,1.0,0,0,0,2.3,94.5%,6,3,None,0,20.9%,0,4,0,0,0,4,2,2,0,1,5,TR,NM,No,2
+Western,Salt Lake,Approach Control,10,S56,Salt Lake City TRACON,45,34,0,0,34,75.6%,1.47,13,0,13,79.2%,10.3,0,0,0,0.0,0,0,0,2.8,92.1%,9,5,None,0,27.7%,0,5,0,4,0,9,2,0,2,0,4,TR,NM,No,2
+Western,Los Angeles ,Tower,8,SAN,San Diego Tower,26,23,0,0,23,88.5%,0.68,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.5,90.4%,5,3,Category 2,1,4.2%,0,0,0,0,0,0,1,0,0,0,1,TR,WP,Yes,7
+Central,Houston ,Tower and Approach Control,9,SAT,San Antonio Tower,45,37,0,0,37,82.2%,1.98,7,0,7,78.9%,5.5,3,0,0,2.4,0,0,0,4.3,90.2%,10,6,None,0,15.9%,0,0,3,1,0,4,2,0,1,0,3,TR,SW,No,3
+Eastern,Jacksonville ,Tower and Approach Control,8,SAV,Savannah Tower,23,18,0,0,18,78.3%,1.35,5,0,5,79.2%,4.0,0,0,0,0.0,0,0,0,2.2,85.8%,6,5,None,0,21.7%,0,1,0,1,1,3,2,0,0,0,2,TR,SO,No,3
+Western,Los Angeles ,Tower and Approach Control,7,SBA,Santa Barbara Tower,28,21,0,0,21,75.0%,1.88,7,0,7,88.0%,6.2,0,0,0,0.0,0,0,0,1.7,90.8%,5,3,None,0,25.0%,0,4,0,3,0,7,0,0,0,0,0,TR,WP,No,3
+Central,Chicago ,Tower and Approach Control,7,SBN,South Bend Tower,26,19,0,1,18,69.2%,2.04,10,0,10,73.9%,7.4,0,0,1,1.0,0,0,0,2.0,93.7%,5,3,None,0,35.7%,0,0,0,10,0,10,0,0,0,0,0,TR,GL,No,3
+Western,Oakland,Tower,5,SCK,Stockton Tower,11,12,0,1,11,100.0%,0.71,1,0,1,87.5%,0.9,0,0,1,1.0,0,1,0,0.6,102.5%,1,0,Category 1,2,8.3%,0,0,0,0,0,0,0,0,0,1,1,TR,WP,No,7
+Western,Los Angeles ,Approach Control,12,SCT,Southern California TRACON,233,188,5,1,182,78.1%,1.68,25,0,25,72.2%,18.0,9,1,5,12.2,1,1,0,19.2,82.0%,79,59,None,0,12.1%,0,0,0,0,0,0,15,3,7,0,25,TR,WP,No,9
+Central,Indianapolis,Tower and Approach Control,8,SDF,Standiford Tower,47,38,0,1,37,78.7%,2.07,8,0,8,70.4%,5.6,1,0,0,0.7,0,0,0,4.3,83.1%,16,12,None,0,17.8%,0,2,0,1,0,3,2,1,2,0,5,TR,SO,No,3
+Central,Albuquerque ,Tower,6,SDL,Scottsdale Tower,11,9,0,0,9,81.8%,0.39,3,0,3,70.8%,2.1,0,0,0,0.0,0,0,0,0.2,99.7%,2,1,None,0,25.0%,0,0,0,0,0,0,1,0,0,2,3,TR,WP,No,7
+Western,Seattle,Tower,10,SEA,Seattle Tower,29,26,0,0,26,89.7%,0.51,0,0,0,89.5%,0.0,1,0,0,0.9,0,0,0,0.3,91.6%,5,3,Category 2,2,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,NM,Yes,7
+Western,Los Angeles ,Tower,7,SEE,Gillespie Tower,15,14,0,0,14,93.3%,1.14,4,0,4,76.4%,3.1,0,0,0,0.0,0,0,0,0.4,111.3%,0,0,Category 1,2,22.2%,0,3,0,0,0,3,1,0,0,0,1,TR,WP,No,7
+Eastern,Jacksonville ,Tower,9,SFB,Sanford Tower,17,15,0,0,15,88.2%,0.76,3,0,3,84.6%,2.5,1,0,0,0.8,1,0,0,0.7,98.1%,2,1,Category 2,1,16.7%,0,0,0,1,0,1,2,0,0,0,2,TR,SO,No,7
+Western,Oakland,Tower,10,SFO,San Francisco Tower,30,22,0,0,22,73.3%,1.02,5,0,5,67.7%,3.4,4,1,0,3.4,0,0,0,1.7,90.3%,8,5,None,0,18.5%,0,0,0,0,0,0,4,0,1,0,5,TR,WP,Yes,7
+Central,Kansas City ,Tower and Approach Control,7,SGF,Springfield Tower,29,23,0,0,23,79.3%,1.17,8,0,8,82.1%,6.6,0,0,0,0.0,1,0,0,0.4,97.0%,4,2,None,0,25.8%,0,6,0,1,0,7,1,0,0,0,1,TR,CE,No,3
+Central,Fort Worth,Tower and Approach Control,6,SHV,Shreveport Tower,26,16,0,0,16,61.5%,1.91,13,0,13,85.7%,11.1,0,0,0,0.0,1,0,0,0.9,97.0%,3,1,None,0,44.8%,0,2,0,8,3,13,0,0,0,0,0,TR,SW,No,3
+Western,Oakland,Tower,7,SJC,San Jose Tower,15,13,0,0,13,86.7%,0.77,4,0,4,84.6%,3.4,0,0,0,0.0,1,0,0,0.5,99.6%,2,1,Category 2,1,23.5%,0,2,0,0,2,4,0,0,0,0,0,TR,WP,No,7
+Eastern,Miami ,Tower,7,SJU,San Juan Tower,17,14,0,0,14,82.4%,1.02,3,0,3,87.5%,2.6,0,0,0,0.0,0,0,0,0.3,95.8%,3,1,None,0,17.6%,0,3,0,0,0,3,0,0,0,0,0,TR,SO,No,7
+Western,Salt Lake,Tower,10,SLC,Salt Lake City Tower,32,27,0,0,27,84.4%,0.91,3,0,3,87.5%,2.6,2,0,0,1.8,0,0,0,1.1,94.7%,5,2,None,0,10.0%,0,0,0,0,0,0,1,1,1,0,3,TR,NM,Yes,7
+Western,Oakland,Tower,6,SMF,Sacramento Tower,15,14,0,0,14,93.3%,0.45,5,0,5,82.4%,4.1,0,2,0,1.6,2,0,0,0.2,117.2%,0,0,Category 1,2,26.3%,0,2,0,0,3,5,0,0,0,0,0,TR,WP,No,7
 Western,Los Angeles ,Tower,5,SMO,Santa Monica Tower,15,10,0,0,10,66.7%,0.96,8,0,8,81.8%,6.5,1,0,0,0.8,1,0,0,0.3,107.3%,0,0,None,0,44.4%,0,6,0,0,1,7,1,0,0,0,1,TR,WP,No,7
-Western,Los Angeles ,Tower,8,SNA,John Wayne Tower,22,16,0,0,16,72.7%,1.63,6,0,6,70.6%,4.2,0,0,0,0.0,0,0,0,1.8,83.7%,3,6,None,0,27.3%,0,0,0,2,0,2,0,0,3,1,4,TR,WP,No,7
+Western,Los Angeles ,Tower,8,SNA,John Wayne Tower,22,16,0,0,16,72.7%,1.63,6,0,6,70.6%,4.2,0,0,0,0.0,0,0,0,1.8,83.7%,8,6,None,0,27.3%,0,0,0,2,0,2,0,0,3,1,4,TR,WP,No,7
 Central,Kansas City ,Tower and Approach Control,5,SPI,Springfield Tower,13,13,0,0,13,100.0%,1.58,3,0,3,84.6%,2.5,0,0,0,0.0,1,0,0,0.4,108.6%,0,0,Category 1,2,18.8%,0,3,0,0,0,3,0,0,0,0,0,TR,GL,No,3
-Eastern,Miami ,Tower,6,SRQ,Sarasota Tower,13,11,0,0,11,84.6%,0.50,3,0,3,95.0%,2.9,0,0,0,0.0,0,0,0,0.4,103.7%,0,0,None,0,21.4%,0,1,0,0,2,3,0,0,0,0,0,TR,SO,No,7
-Central,Kansas City ,Tower,8,STL,St. Louis Tower,22,15,0,0,15,68.2%,0.72,4,0,4,62.5%,2.5,1,0,0,0.6,0,0,0,1.0,77.8%,5,8,None,0,21.1%,0,1,0,0,0,1,1,0,2,0,3,TR,CE,No,7
-Central,Minneapolis ,Tower,4,STP,St. Paul Tower,11,10,0,0,10,90.9%,1.06,3,0,3,84.0%,2.5,0,0,0,0.0,0,0,0,0.4,110.0%,0,0,Category 1,1,23.1%,0,1,0,0,2,3,0,0,0,0,0,TR,GL,No,7
-Western,Oakland,Tower,5,STS,Sonoma Tower,9,7,0,0,7,77.8%,0.88,3,0,3,75.0%,2.3,0,0,0,0.0,0,0,0,0.6,95.9%,0,1,None,0,30.0%,0,2,0,0,1,3,0,0,0,0,0,TR,WP,No,7
-Eastern,Miami ,Tower,4,STT,St. Thomas Tower,11,10,0,0,10,90.9%,0.45,4,0,4,93.8%,3.8,0,0,0,0.0,2,1,0,0.3,94.8%,0,1,Category 1,1,28.6%,0,0,0,1,3,4,0,0,0,0,0,TR,SO,No,7
-Central,Kansas City ,Tower,5,SUS,Spirit Tower,11,7,0,0,7,63.6%,0.63,4,0,4,100.0%,4.0,0,0,0,0.0,0,1,0,0.5,86.0%,1,2,None,0,36.4%,0,0,0,0,3,3,1,0,0,0,1,TR,CE,No,7
-Central,Minneapolis ,Tower and Approach Control,5,SUX,Sioux Gateway Tower,15,11,0,0,11,73.3%,1.81,4,0,4,88.2%,3.5,0,0,0,0.0,0,0,0,0.5,93.7%,0,2,None,0,26.7%,0,1,0,0,3,4,0,0,0,0,0,TR,CE,No,3
-Eastern,Boston ,Tower and Approach Control,6,SYR,Syracuse Tower,22,18,0,0,18,81.8%,1.95,7,0,7,83.3%,5.8,1,0,0,0.8,0,0,0,1.5,105.2%,0,0,None,0,28.0%,0,4,0,3,0,7,0,0,0,0,0,TR,NE,No,3
-Central,Kansas City ,Approach Control,9,T75,St. Louis TRACON,26,24,0,0,24,92.3%,1.39,6,0,6,73.1%,4.4,0,0,0,0.0,0,0,0,2.6,99.2%,0,1,Category 1,2,20.0%,0,4,0,1,0,5,1,0,0,0,1,TR,CE,No,2
-Eastern,New York ,Tower,9,TEB,Teterboro Tower,20,14,0,0,14,70.0%,1.67,5,0,5,94.7%,4.7,0,0,0,0.0,0,0,0,2.0,83.8%,2,4,None,0,26.3%,0,0,0,0,0,0,0,0,0,5,5,TR,EA,No,7
-Eastern,Jacksonville ,Tower and Approach Control,7,TLH,Tallahassee Tower,17,13,0,0,13,76.5%,1.50,6,0,6,68.2%,4.1,0,0,0,0.0,0,0,0,0.6,97.2%,0,1,None,0,31.6%,0,0,0,3,0,3,1,0,2,0,3,TR,SO,No,3
-Eastern,Miami ,Tower,7,TMB,Tamiami Tower,17,14,0,0,14,82.4%,0.78,4,0,4,100.0%,4.0,0,0,0,0.0,0,0,0,1.0,100.0%,0,0,None,0,22.2%,0,4,0,0,0,4,0,0,0,0,0,TR,SO,No,7
-Western,Los Angeles ,Tower,5,TOA,Torrance Tower,11,10,0,0,10,90.9%,0.73,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.2,98.2%,0,1,Category 1,1,9.1%,0,1,0,0,0,1,0,0,0,0,0,TR,WP,No,7
-Central,Cleveland ,Tower and Approach Control,6,TOL,Toledo Tower,24,23,0,0,23,95.8%,1.94,4,0,4,76.9%,3.1,0,0,0,0.0,0,0,0,1.7,101.6%,0,0,Category 1,3,14.8%,0,1,0,2,0,3,1,0,0,0,1,TR,GL,No,3
-Eastern,Miami ,Tower and Approach Control,10,TPA,Tampa Tower,53,42,1,0,41,77.4%,1.72,15,0,15,72.1%,10.8,0,0,1,1.0,0,0,0,4.7,90.7%,0,7,None,0,26.8%,0,0,3,1,1,5,6,1,2,1,10,TR,SO,Yes,3
-Eastern,Atlanta ,Tower and Approach Control,5,TRI,Tri-Cities Tower,17,11,0,0,11,64.7%,2.27,10,0,10,52.9%,5.3,0,0,0,0.0,0,0,0,1.8,85.2%,2,5,None,0,47.6%,0,6,0,2,1,9,1,0,0,0,1,TR,SO,No,3
-Central,Kansas City ,Tower and Approach Control,8,TUL,Tulsa Tower,30,21,0,0,21,70.0%,1.71,11,0,11,75.0%,8.3,0,0,0,0.0,0,0,0,3.0,87.6%,2,5,None,0,34.4%,0,1,0,4,0,5,2,0,4,0,6,TR,CE,No,3
-Central,Albuquerque ,Tower,6,TUS,Tucson Tower,17,9,0,0,9,52.9%,1.15,12,0,12,69.6%,8.3,0,0,0,0.0,0,0,0,0.7,97.8%,0,1,None,0,57.1%,0,9,0,0,1,10,2,0,0,0,2,TR,WP,No,7
-Central,Minneapolis ,Tower,5,TVC,Traverse City Tower,9,9,0,0,9,100.0%,0.66,2,0,2,91.7%,1.8,0,0,0,0.0,1,0,0,1.0,98.1%,0,1,Category 1,2,18.2%,0,1,0,0,1,2,0,0,0,0,0,TR,GL,No,7
-Western,Salt Lake,Tower and Approach Control,5,TWF,Twin Falls Tower,9,9,0,0,9,100.0%,1.64,2,0,2,100.0%,2.0,0,0,0,0.0,0,0,0,0.6,115.4%,0,0,Category 1,2,18.2%,0,0,0,0,1,1,1,0,0,0,1,TR,NM,No,4
-Eastern,Atlanta ,Tower and Approach Control,7,TYS,Knoxville Tower,28,23,0,0,23,82.1%,2.23,12,0,12,72.7%,8.7,0,0,0,0.0,0,0,0,3.9,99.5%,0,1,None,0,34.3%,0,4,0,7,0,11,1,0,0,0,1,TR,SO,No,3
-Central,Albuquerque ,Approach Control,8,U90,Tucson TRACON,17,16,0,0,16,94.1%,1.53,5,0,5,64.2%,3.2,0,0,0,0.0,0,0,0,0.7,108.7%,0,0,Category 1,2,23.8%,0,1,0,1,2,4,0,0,1,0,1,TR,WP,No,2
-Western,Los Angeles ,Tower,7,VGT,North Las Vegas Tower,11,10,0,0,10,90.9%,0.56,1,0,1,92.9%,0.9,0,0,0,0.0,0,0,0,0.2,97.6%,0,1,Category 1,1,9.1%,0,1,0,0,0,1,0,0,0,0,0,TR,WP,No,7
-Western,Los Angeles ,Tower,7,VNY,Van Nuys Tower,24,18,0,0,18,75.0%,1.75,8,0,8,73.7%,5.9,0,0,0,0.0,0,0,0,1.3,94.0%,0,2,None,0,30.8%,0,2,0,0,1,3,3,0,0,2,5,TR,WP,No,7
-Eastern,Miami ,Tower,7,VRB,Vero Beach Tower,11,12,0,0,12,109.1%,0.89,0,0,0,100.0%,0.0,0,0,0,0.0,0,0,0,0.5,104.9%,0,0,Category 1,3,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,SO,No,7
-Eastern,Boston ,Approach Control,8,Y90,Yankee TRACON,22,17,0,1,16,72.7%,2.06,9,0,9,40.9%,3.7,0,0,1,1.0,0,0,0,1.9,85.4%,3,8,None,0,36.0%,0,7,0,0,0,7,2,0,0,0,2,TR,NE,No,2
-Central,Cleveland ,Tower,4,YIP,Willow Run Tower,15,16,0,0,16,106.7%,0.40,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.3,111.6%,0,0,Category 1,4,5.9%,0,0,0,0,1,1,0,0,0,0,0,TR,GL,No,7
-Central,Cleveland ,Tower and Approach Control,5,YNG,Youngstown Tower,19,14,0,0,14,73.7%,1.33,8,0,8,94.4%,7.6,0,0,0,0.0,0,0,0,1.1,107.7%,0,0,None,0,36.4%,0,2,0,0,6,8,0,0,0,0,0,TR,GL,No,3
-Central,Albuquerque ,Enroute Centers,10,ZAB,Albuquerque ARTCC,200,153,1,1,151,75.5%,2.48,58,0,58,79.6%,46.2,1,0,1,1.8,0,1,0,17.7,90.1%,1,25,None,0,27.8%,0,26,6,14,12,58,0,0,0,0,0,ER,SW,No,8
-Western,Alaska,Enroute Centers,10,ZAN,Anchorage ARTCC,98,82,0,1,81,82.7%,2.67,32,0,32,84.9%,27.2,0,0,0,0.0,1,0,0,12.5,96.6%,0,4,None,0,28.3%,0,21,1,7,2,31,0,0,0,1,1,ER,AL,No,8
-Central,Chicago ,Enroute Centers,12,ZAU,Chicago ARTCC,321,272,0,1,271,84.4%,2.58,79,0,79,79.4%,62.7,1,1,1,2.6,0,0,0,43.5,91.2%,0,36,None,0,22.6%,0,20,10,17,19,66,4,3,3,3,13,ER,GL,No,8
-Eastern,Boston ,Enroute Centers,11,ZBW,Boston ARTCC,203,174,2,0,172,84.7%,2.61,46,0,46,81.7%,37.6,0,0,2,2.0,0,0,0,27.5,90.7%,0,24,None,0,21.1%,0,14,7,9,6,36,7,0,2,1,10,ER,NE,No,8
-Eastern,Washington ,Enroute Centers,12,ZDC,Washington ARTCC,305,251,7,1,243,79.7%,2.65,86,0,86,66.4%,57.1,2,1,1,3.0,0,0,0,31.1,89.2%,6,50,None,0,26.1%,0,14,11,30,18,73,13,0,0,0,13,ER,EA,No,8
-Western,Denver,Enroute Centers,10,ZDV,Denver ARTCC,258,217,3,0,214,82.9%,1.89,37,0,37,85.4%,31.6,3,0,3,5.6,0,0,0,17.8,90.5%,0,29,None,0,14.7%,0,9,2,15,3,29,2,0,3,3,8,ER,NM,No,8
-Central,Fort Worth,Enroute Centers,12,ZFW,Fort Worth ARTCC,290,247,6,4,237,81.7%,2.38,68,0,68,77.0%,52.4,0,0,9,9.0,0,0,0,37.9,89.8%,2,39,None,0,22.3%,0,17,8,9,23,57,4,1,2,4,11,ER,SW,No,8
-Central,Houston ,Enroute Centers,11,ZHU,Houston ARTCC,277,254,11,2,241,87.0%,2.20,53,0,53,78.8%,41.7,0,0,11,11.0,6,0,0,35.5,91.1%,0,32,Category 2,6,18.0%,0,22,5,12,7,46,3,1,2,1,7,ER,SW,No,8
-Central,Indianapolis,Enroute Centers,12,ZID,Indianapolis ARTCC,296,229,0,1,228,77.0%,2.33,88,0,88,81.4%,71.6,6,0,1,5.9,0,0,0,39.9,89.7%,3,38,None,0,27.8%,0,42,9,17,5,73,7,2,6,0,15,ER,GL,No,8
-Eastern,Jacksonville ,Enroute Centers,11,ZJX,Jacksonville ARTCC,241,210,2,0,208,86.3%,1.98,37,0,37,92.7%,34.3,0,0,2,2.0,2,0,0,20.6,92.0%,0,21,Category 2,4,15.1%,0,14,4,11,1,30,2,0,0,5,7,ER,SO,No,8
-Central,Kansas City ,Enroute Centers,11,ZKC,Kansas City ARTCC,232,197,0,1,196,84.5%,2.34,54,0,54,78.9%,42.6,0,0,0,0.0,0,1,0,26.7,90.9%,0,27,None,0,21.6%,0,11,7,9,16,43,7,1,1,2,11,ER,CE,No,8
-Western,Los Angeles ,Enroute Centers,12,ZLA,Los Angeles ARTCC,245,199,3,0,196,80.0%,2.60,65,0,65,72.0%,46.8,1,0,3,3.7,0,0,0,27.4,89.5%,3,36,None,0,24.9%,1,25,9,10,6,51,13,0,1,0,14,ER,WP,No,8
-Western,Salt Lake,Enroute Centers,10,ZLC,Salt Lake City ARTCC,150,130,1,0,129,86.0%,2.13,21,1,20,87.9%,17.6,5,0,1,5.4,3,0,0,10.1,92.6%,0,13,Category 2,2,13.4%,0,6,2,2,8,18,2,0,1,0,3,ER,NM,No,8
-Eastern,Miami ,Enroute Centers,11,ZMA,Miami ARTCC,267,225,3,0,222,83.1%,2.72,56,0,56,76.9%,43.0,2,0,3,4.5,1,0,0,33.3,88.1%,8,42,None,0,20.1%,0,20,3,16,6,45,2,0,7,2,11,ER,SO,No,8
-Eastern,Memphis ,Enroute Centers,12,ZME,Memphis ARTCC,264,202,2,0,200,75.8%,2.59,82,0,82,77.8%,63.8,0,0,2,2.0,0,0,0,31.8,88.6%,6,39,None,0,29.1%,1,42,1,29,4,77,3,0,2,0,5,ER,SO,No,8
-Central,Minneapolis ,Enroute Centers,11,ZMP,Minneapolis ARTCC,256,227,4,2,221,86.3%,2.43,62,0,62,65.6%,40.7,4,0,5,7.6,6,0,0,36.3,88.7%,7,45,Category 2,4,21.9%,0,35,6,8,7,56,6,0,0,0,6,ER,GL,No,8
-Eastern,New York ,Enroute Centers,12,ZNY,New York ARTCC,296,209,3,0,206,69.6%,3.11,102,0,102,22.9%,23.3,0,0,3,3.0,0,1,0,71.1,54.2%,468,593,None,0,33.1%,0,14,1,61,16,92,9,0,1,0,10,ER,EA,No,8
-Western,Oakland,Enroute Centers,11,ZOA,Oakland ARTCC,207,162,1,0,161,77.8%,2.84,89,0,89,55.9%,49.7,0,0,1,1.0,0,1,0,27.4,88.5%,7,43,None,0,35.6%,0,53,7,12,11,83,3,0,3,0,6,ER,WP,No,8
-Central,Cleveland ,Enroute Centers,12,ZOB,Cleveland ARTCC,313,245,0,1,244,78.0%,1.99,80,0,80,81.6%,65.3,5,0,0,4.1,0,0,0,32.8,89.6%,3,40,None,0,24.7%,0,33,4,19,8,64,7,5,3,1,16,ER,GL,No,8
-Western,Seattle,Enroute Centers,10,ZSE,Seattle ARTCC,165,135,0,1,134,81.2%,2.24,43,1,42,74.4%,31.2,0,0,1,1.0,1,0,0,18.1,89.2%,3,25,None,0,23.9%,0,8,14,10,0,32,5,3,2,1,11,ER,NM,No,8
-Eastern,Miami ,Combined Control Facilities,9,ZSU,San Juan,62,32,0,0,32,51.6%,2.43,39,0,39,65.0%,25.4,1,1,0,1.3,0,0,0,4.7,86.9%,4,13,None,0,54.9%,0,13,11,12,3,39,0,0,0,0,0,ER,SO,No,6
-Eastern,Atlanta ,Enroute Centers,12,ZTL,Atlanta ARTCC,349,276,0,1,275,78.8%,2.79,92,0,92,68.4%,62.9,0,0,1,1.0,0,0,0,41.1,85.3%,26,75,None,0,25.1%,0,22,13,4,8,47,6,18,15,6,45,ER,SO,No,8
-Western,Hawaii/Guam,Combined Control Facilities,8,ZUA,Guam,17,14,0,2,12,70.6%,0.81,5,0,5,95.5%,4.8,0,0,0,0.0,0,0,0,0.4,96.2%,0,1,None,0,29.4%,0,1,2,0,0,3,1,1,0,0,2,ER,WP,No,6
-,,,,National,,13012,10614,90,50,10474,80.5%,1.42,3289,8,3281,81.0%,2404,141,18,105,226,132,16,1,1202,90.3%,1067,2526,None,240,23.9%,2,1065,184,564,436,2251,543,153,221,121,1038,,,,
-,,,,Updated,4/28/2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eastern,Miami ,Tower,6,SRQ,Sarasota Tower,13,12,0,0,12,92.3%,0.50,2,0,2,95.0%,1.9,0,0,0,0.0,0,0,0,0.4,104.1%,1,0,Category 1,1,14.3%,0,0,0,0,2,2,0,0,0,0,0,TR,SO,No,7
+Central,Kansas City ,Tower,8,STL,St. Louis Tower,22,16,0,0,16,72.7%,0.72,3,0,3,62.5%,1.9,1,0,0,0.6,0,0,0,1.0,79.5%,10,8,None,0,15.8%,0,0,0,1,0,1,0,0,2,0,2,TR,CE,No,7
+Central,Minneapolis ,Tower,4,STP,St. Paul Tower,11,10,0,0,10,90.9%,1.05,3,0,3,83.3%,2.5,0,0,0,0.0,0,0,0,0.4,109.8%,0,0,Category 1,1,23.1%,0,1,0,0,2,3,0,0,0,0,0,TR,GL,No,7
+Western,Oakland,Tower,5,STS,Sonoma Tower,9,7,0,0,7,77.8%,0.88,3,0,3,75.0%,2.3,0,0,0,0.0,0,0,0,0.6,95.9%,2,1,None,0,30.0%,0,2,0,0,1,3,0,0,0,0,0,TR,WP,No,7
+Eastern,Miami ,Tower,4,STT,St. Thomas Tower,11,10,0,0,10,90.9%,0.45,4,0,4,93.8%,3.8,0,0,0,0.0,2,1,0,0.3,94.8%,2,1,Category 1,1,28.6%,0,0,0,0,4,4,0,0,0,0,0,TR,SO,No,7
+Central,Kansas City ,Tower,5,SUS,Spirit Tower,11,7,0,0,7,63.6%,0.63,5,0,5,100.0%,5.0,0,0,0,0.0,0,1,0,0.5,95.1%,2,1,None,0,41.7%,0,1,0,0,3,4,1,0,0,0,1,TR,CE,No,7
+Central,Minneapolis ,Tower and Approach Control,5,SUX,Sioux Gateway Tower,15,11,0,0,11,73.3%,1.81,4,0,4,88.2%,3.5,0,0,0,0.0,0,0,0,0.5,93.7%,3,2,None,0,26.7%,0,1,0,0,3,4,0,0,0,0,0,TR,CE,No,3
+Eastern,Boston ,Tower and Approach Control,6,SYR,Syracuse Tower,22,18,0,0,18,81.8%,1.95,8,0,8,83.3%,6.7,0,0,0,0.0,0,1,0,1.5,100.6%,2,0,None,0,30.8%,0,5,0,3,0,8,0,0,0,0,0,TR,NE,No,3
+Central,Kansas City ,Approach Control,9,T75,St. Louis TRACON,26,24,0,0,24,92.3%,1.39,7,0,7,72.7%,5.1,0,0,0,0.0,0,0,0,2.6,101.9%,2,0,Category 1,2,22.6%,0,4,0,1,0,5,2,0,0,0,2,TR,CE,No,2
+Eastern,New York ,Tower,9,TEB,Teterboro Tower,20,14,0,0,14,70.0%,1.67,5,0,5,94.7%,4.7,0,0,0,0.0,0,0,0,2.0,83.8%,5,4,None,0,26.3%,0,0,0,0,0,0,0,0,0,5,5,TR,EA,No,7
+Eastern,Jacksonville ,Tower and Approach Control,7,TLH,Tallahassee Tower,17,13,0,0,13,76.5%,1.50,5,0,5,68.2%,3.4,0,0,0,0.0,0,0,0,0.6,93.2%,4,2,None,0,27.8%,0,0,0,2,0,2,1,0,2,0,3,TR,SO,No,3
+Eastern,Miami ,Tower,7,TMB,Tamiami Tower,17,14,0,0,14,82.4%,0.78,4,0,4,100.0%,4.0,0,0,0,0.0,0,0,0,1.0,100.0%,2,0,None,0,22.2%,0,4,0,0,0,4,0,0,0,0,0,TR,SO,No,7
+Western,Los Angeles ,Tower,5,TOA,Torrance Tower,11,10,0,0,10,90.9%,0.73,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.2,98.2%,1,1,Category 1,1,9.1%,0,1,0,0,0,1,0,0,0,0,0,TR,WP,No,7
+Central,Cleveland ,Tower and Approach Control,6,TOL,Toledo Tower,24,23,0,0,23,95.8%,1.94,4,0,4,76.9%,3.1,0,0,0,0.0,0,0,0,1.7,101.6%,2,0,Category 1,3,14.8%,0,0,0,3,0,3,1,0,0,0,1,TR,GL,No,3
+Eastern,Miami ,Tower and Approach Control,10,TPA,Tampa Tower,53,43,1,0,42,79.2%,1.72,14,0,14,72.1%,10.1,0,0,1,1.0,0,0,0,4.7,91.2%,12,7,None,0,25.0%,0,0,3,1,1,5,5,2,2,0,9,TR,SO,Yes,3
+Eastern,Atlanta ,Tower and Approach Control,5,TRI,Tri-Cities Tower,17,11,0,0,11,64.7%,2.27,11,0,11,52.9%,5.8,0,0,0,0.0,0,0,0,1.8,88.3%,6,4,None,0,50.0%,0,8,0,1,1,10,1,0,0,0,1,TR,SO,No,3
+Central,Kansas City ,Tower and Approach Control,8,TUL,Tulsa Tower,30,22,0,0,22,73.3%,1.71,10,0,10,75.0%,7.5,0,0,0,0.0,0,0,0,3.0,88.4%,8,5,None,0,31.3%,0,1,0,4,0,5,2,0,3,0,5,TR,CE,No,3
+Central,Albuquerque ,Tower,6,TUS,Tucson Tower,17,9,0,0,9,52.9%,1.15,12,0,12,69.6%,8.3,0,0,0,0.0,0,0,0,0.7,97.8%,3,1,None,0,57.1%,0,9,0,0,1,10,2,0,0,0,2,TR,WP,No,7
+Central,Minneapolis ,Tower,5,TVC,Traverse City Tower,9,9,0,0,9,100.0%,0.66,2,0,2,91.7%,1.8,0,0,0,0.0,1,0,0,1.0,98.1%,1,1,Category 1,2,18.2%,0,1,0,0,1,2,0,0,0,0,0,TR,GL,No,7
+Western,Salt Lake,Tower and Approach Control,5,TWF,Twin Falls Tower,9,10,1,0,9,100.0%,1.64,1,0,1,100.0%,1.0,0,0,1,1.0,0,0,0,0.6,115.4%,0,0,Category 1,2,10.0%,0,0,0,0,0,0,1,0,0,0,1,TR,NM,No,4
+Eastern,Atlanta ,Tower and Approach Control,7,TYS,Knoxville Tower,28,24,0,0,24,85.7%,2.23,11,0,11,72.7%,8.0,0,0,0,0.0,0,1,0,3.9,96.9%,4,2,Category 2,1,31.4%,0,4,0,6,0,10,1,0,0,0,1,TR,SO,No,3
+Central,Albuquerque ,Approach Control,8,U90,Tucson TRACON,17,15,0,0,15,88.2%,1.53,5,0,5,64.2%,3.2,0,0,0,0.0,0,0,0,0.7,102.8%,1,0,Category 2,1,25.0%,0,1,0,1,2,4,0,0,1,0,1,TR,WP,No,2
+Western,Los Angeles ,Tower,7,VGT,North Las Vegas Tower,11,10,0,0,10,90.9%,0.56,1,0,1,92.9%,0.9,0,0,0,0.0,0,0,0,0.2,97.6%,2,1,Category 1,1,9.1%,0,1,0,0,0,1,0,0,0,0,0,TR,WP,No,7
+Western,Los Angeles ,Tower,7,VNY,Van Nuys Tower,24,18,0,0,18,75.0%,1.75,8,0,8,73.7%,5.9,0,0,0,0.0,0,0,0,1.3,94.0%,4,2,None,0,30.8%,0,2,0,0,1,3,3,0,0,2,5,TR,WP,No,7
+Eastern,Miami ,Tower,7,VRB,Vero Beach Tower,11,12,0,0,12,109.1%,0.89,0,0,0,100.0%,0.0,0,0,0,0.0,0,0,0,0.5,104.9%,1,0,Category 1,3,0.0%,0,0,0,0,0,0,0,0,0,0,0,TR,SO,No,7
+Eastern,Boston ,Approach Control,8,Y90,Yankee TRACON,22,17,0,1,16,72.7%,2.06,9,0,9,40.9%,3.7,0,0,1,1.0,0,1,0,1.9,80.8%,14,11,None,0,36.0%,0,7,0,0,0,7,2,0,0,0,2,TR,NE,No,2
+Central,Cleveland ,Tower,4,YIP,Willow Run Tower,15,15,0,0,15,100.0%,0.40,1,0,1,100.0%,1.0,0,0,0,0.0,0,0,0,0.3,104.9%,1,0,Category 1,3,6.3%,0,0,0,0,1,1,0,0,0,0,0,TR,GL,No,7
+Central,Cleveland ,Tower and Approach Control,5,YNG,Youngstown Tower,19,15,0,0,15,78.9%,1.33,7,0,7,94.4%,6.6,0,0,0,0.0,0,0,0,1.1,108.0%,0,0,None,0,31.8%,0,2,0,0,5,7,0,0,0,0,0,TR,GL,No,3
+Central,Albuquerque ,Enroute Centers,10,ZAB,Albuquerque ARTCC,200,154,1,1,152,76.0%,2.50,58,0,58,80.6%,46.8,1,0,1,1.8,0,1,0,17.7,90.9%,38,23,None,0,27.6%,0,28,6,12,12,58,0,0,0,0,0,ER,SW,No,8
+Western,Alaska,Enroute Centers,10,ZAN,Anchorage ARTCC,98,82,0,1,81,82.7%,2.67,30,0,30,84.9%,25.5,0,0,0,0.0,1,0,0,12.5,94.9%,14,6,None,0,27.0%,0,21,1,5,3,30,0,0,0,0,0,ER,AL,No,8
+Central,Chicago ,Enroute Centers,12,ZAU,Chicago ARTCC,321,273,0,1,272,84.7%,2.58,80,0,80,79.4%,63.5,1,0,1,1.8,0,0,0,43.5,91.5%,60,35,None,0,22.7%,0,20,11,17,18,66,5,3,3,3,14,ER,GL,No,8
+Eastern,Boston ,Enroute Centers,11,ZBW,Boston ARTCC,203,175,2,0,173,85.2%,2.63,45,0,45,83.1%,37.4,0,0,2,2.0,0,0,0,27.5,91.1%,38,22,Category 2,1,20.6%,0,14,6,10,5,35,7,0,2,1,10,ER,NE,No,8
+Eastern,Washington ,Enroute Centers,12,ZDC,Washington ARTCC,305,251,6,2,243,79.7%,2.65,88,0,88,66.4%,58.4,2,0,1,2.3,0,0,0,31.1,89.4%,78,49,None,0,26.6%,0,15,11,30,18,74,14,0,0,0,14,ER,EA,No,8
+Western,Denver,Enroute Centers,10,ZDV,Denver ARTCC,258,217,3,0,214,82.9%,1.89,37,0,37,85.4%,31.6,3,0,3,5.6,1,0,0,17.8,90.1%,49,30,None,0,14.7%,0,9,2,15,3,29,2,0,3,3,8,ER,NM,No,8
+Central,Fort Worth,Enroute Centers,12,ZFW,Fort Worth ARTCC,290,250,6,4,240,82.8%,2.38,66,0,66,77.0%,50.8,0,0,9,9.0,0,0,0,37.9,90.3%,60,37,None,0,21.6%,0,17,9,7,22,55,4,1,2,4,11,ER,SW,No,8
+Central,Houston ,Enroute Centers,11,ZHU,Houston ARTCC,277,255,11,2,242,87.4%,2.20,52,0,52,78.8%,41.0,0,0,11,11.0,6,0,0,35.5,91.1%,54,32,Category 2,7,17.7%,0,22,5,12,7,46,2,1,2,1,6,ER,SW,No,8
+Central,Indianapolis,Enroute Centers,12,ZID,Indianapolis ARTCC,296,225,0,1,224,75.7%,2.33,89,0,89,81.4%,72.4,5,0,0,4.1,0,0,0,39.9,88.0%,67,44,None,0,28.4%,0,44,7,18,5,74,7,2,6,0,15,ER,GL,No,8
+Eastern,Jacksonville ,Enroute Centers,11,ZJX,Jacksonville ARTCC,241,210,2,0,208,86.3%,1.98,37,0,37,92.7%,34.3,0,1,2,2.9,2,0,0,20.6,92.4%,37,20,Category 2,4,15.1%,0,14,4,11,1,30,2,0,0,5,7,ER,SO,No,8
+Central,Kansas City ,Enroute Centers,11,ZKC,Kansas City ARTCC,232,204,0,1,203,87.5%,2.38,46,0,46,80.7%,37.1,0,0,0,0.0,0,1,0,26.7,91.6%,43,25,Category 2,6,18.5%,0,12,4,10,11,37,6,1,1,1,9,ER,CE,No,8
+Western,Los Angeles ,Enroute Centers,12,ZLA,Los Angeles ARTCC,245,200,3,0,197,80.4%,2.62,64,0,64,72.7%,46.5,1,0,3,3.7,0,0,0,27.4,89.7%,56,35,None,0,24.5%,1,25,9,9,6,50,13,0,1,0,14,ER,WP,No,8
+Western,Salt Lake,Enroute Centers,10,ZLC,Salt Lake City ARTCC,150,131,1,0,130,86.7%,2.13,20,1,19,87.9%,16.7,5,0,1,5.4,3,0,0,10.1,92.6%,24,13,Category 2,3,12.8%,0,6,2,2,7,17,2,0,1,0,3,ER,NM,No,8
+Eastern,Miami ,Enroute Centers,11,ZMA,Miami ARTCC,267,222,1,0,221,82.8%,2.72,59,0,59,76.9%,45.3,2,0,1,2.5,0,0,0,33.3,88.2%,63,41,None,0,21.1%,0,23,3,16,6,48,2,0,7,2,11,ER,SO,No,8
+Eastern,Memphis ,Enroute Centers,12,ZME,Memphis ARTCC,264,201,2,0,199,75.4%,2.59,83,0,83,77.8%,64.6,0,0,2,2.0,0,2,0,31.8,87.8%,63,42,None,0,29.4%,2,42,1,28,5,78,3,0,2,0,5,ER,SO,No,8
+Central,Minneapolis ,Enroute Centers,11,ZMP,Minneapolis ARTCC,256,226,3,1,222,86.7%,2.45,60,0,60,66.1%,39.7,4,0,3,5.6,6,0,0,36.3,87.9%,72,47,Category 2,5,21.3%,0,35,5,8,6,54,6,0,0,0,6,ER,GL,No,8
+Eastern,New York ,Enroute Centers,12,ZNY,New York ARTCC,296,207,3,0,204,68.9%,3.16,103,0,103,23.5%,24.2,0,0,3,3.0,0,0,0,71.1,54.1%,657,579,None,0,33.6%,1,15,1,61,15,93,9,0,1,0,10,ER,EA,No,8
+Western,Oakland,Enroute Centers,11,ZOA,Oakland ARTCC,207,162,1,0,161,77.8%,2.84,90,0,90,55.9%,50.3,0,0,1,1.0,0,0,0,27.4,89.3%,63,40,None,0,35.9%,1,54,7,10,12,84,3,0,3,0,6,ER,WP,No,8
+Central,Cleveland ,Enroute Centers,12,ZOB,Cleveland ARTCC,313,248,0,1,247,78.9%,1.99,79,0,79,81.6%,64.4,5,0,0,4.1,0,0,0,32.8,90.3%,62,38,None,0,24.2%,0,35,2,19,8,64,7,5,3,0,15,ER,GL,No,8
+Western,Seattle,Enroute Centers,10,ZSE,Seattle ARTCC,165,135,0,1,134,81.2%,2.24,45,1,44,74.4%,32.7,0,0,1,1.0,1,0,0,18.1,90.1%,36,23,None,0,24.7%,0,9,11,13,0,33,6,2,3,1,12,ER,NM,No,8
+Eastern,Miami ,Combined Control Facilities,9,ZSU,San Juan,62,32,0,0,32,51.6%,2.43,40,0,40,65.0%,26.0,1,1,0,1.3,0,0,0,4.7,88.0%,18,12,None,0,55.6%,0,16,11,11,2,40,0,0,0,0,0,ER,SO,No,6
+Eastern,Atlanta ,Enroute Centers,12,ZTL,Atlanta ARTCC,349,278,0,1,277,79.4%,2.81,95,0,95,69.5%,66.0,0,0,1,1.0,0,0,0,41.1,86.8%,98,67,None,0,25.5%,1,26,13,4,7,51,6,18,14,6,44,ER,SO,No,8
+Western,Hawaii/Guam,Combined Control Facilities,8,ZUA,Guam,17,13,0,2,11,64.7%,0.81,6,0,6,95.5%,5.7,0,0,0,0.0,0,0,0,0.4,96.0%,2,1,None,0,35.3%,0,1,1,1,0,3,1,1,0,1,3,ER,WP,No,6
+,,,,National,,13012,10650,87,53,10510,83.3%,1.43,3248,9,3239,81.0%,2378,125,25,97,212.3,127,22,1,1202,90.3%,3624,2512,None,255,23.6%,6,1075,171,546,439,2237,512,153,221,125,1011,,,,
+,,,,Updated,5/26/2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
