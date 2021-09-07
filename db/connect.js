@@ -5,11 +5,7 @@ const facilitydataSchema = require('./facilitydataSchema');
 const pptdataSchema = require('./pptdataSchema');
 // const devDb = 'mongodb://192.168.0.123:27017/p65';
 
-mongoose.connect(uri, {
-  useNewUrlParser: true,
-  useCreateIndex: true,
-  useUnifiedTopology: true,
-});
+mongoose.connect(uri, {});
 
 const db = mongoose.connection;
 

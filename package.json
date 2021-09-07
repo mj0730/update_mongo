@@ -1,14 +1,14 @@
 {
   "name": "mongo-data-build",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Update data for pointsixtyfive databases",
   "author": "MJ",
   "license": "ISC",
   "main": "index.js",
   "dependencies": {
-    "@pointsixtyfive/paycharts": "^1.1.4",
+    "@pointsixtyfive/paycharts": "^1.1.5",
     "csv-parser": "^3.0.0",
-    "mongoose": "^5.13.6"
+    "mongoose": "^6.0.5"
   },
   "devDependencies": {
     "eslint": "^7.32.0"
