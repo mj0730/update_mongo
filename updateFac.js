@@ -1,7 +1,10 @@
-const { Fac } = require('./db/connect.js');
+import { Fac } from './db/connect.js';
+// import facData from './json/facilityData.json';
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
 const facData = require('./json/facilityData.json');
 
-(async function writeFacToDb() {
+export default async function writeFacToDb() {
   try {
     await Fac.bulkWrite(
       facData.map((doc) => ({
@@ -13,7 +16,9 @@ const facData = require('./json/facilityData.json');
       }))
     );
     console.log('** FacInfo write complete **');
+    return 0;
   } catch (error) {
     console.error(error);
+    return 1;
   }
-})();
+}

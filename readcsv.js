@@ -1,7 +1,10 @@
-const fs = require('fs');
-const path = require('path');
-const csv = require('csv-parser');
+//https://nodejs.org/api/esm.html#no-__filename-or-__dirname
 
+import fs from 'fs';
+import path from 'path';
+import csv from 'csv-parser';
+
+const __dirname = path.resolve();
 const FILES = fs.readdirSync(path.join(__dirname, 'csv'), (err, files) => {
   if (err) console.error(`ERROR: ${err}`);
   return files;

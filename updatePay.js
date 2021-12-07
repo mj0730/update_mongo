@@ -1,7 +1,12 @@
+// import facilityInfo from '@pointsixtyfive/paycharts/facility_info.js';
+import { Pay } from './db/connect.js';
+// import facilityData from './json/facilityData.json';
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
 const facilityInfo = require('@pointsixtyfive/paycharts/facility_info.js');
-const { completePayTable } = facilityInfo;
-const { Pay } = require('./db/connect.js');
 const facilityData = require('./json/facilityData.json');
+
+const { completePayTable } = facilityInfo;
 
 function createFacilityList(data, key) {
   const storage = [];
@@ -13,9 +18,9 @@ function createFacilityList(data, key) {
   return storage;
 }
 
-const facilityList = createFacilityList(facilityData, 'facId');
+export const facilityList = createFacilityList(facilityData, 'facId');
 
-(async function writePayToDb(list) {
+export default async function writePayToDb(list) {
   const docs = [];
 
   for (let i = 0, len = list.length; i < len; i++) {
@@ -80,7 +85,9 @@ const facilityList = createFacilityList(facilityData, 'facId');
       }))
     );
     console.log('** Pay write complete **');
+    return 0;
   } catch (error) {
     console.error(error);
+    return 1;
   }
-})(facilityList);
+}

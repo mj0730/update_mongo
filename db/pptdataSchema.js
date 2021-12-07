@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const pptdataSchema = new mongoose.Schema(
   {
@@ -52,4 +52,4 @@ const pptdataSchema = new mongoose.Schema(
   { collection: 'pptdata', timestamps: true }
 );
 
-module.exports = pptdataSchema;
+export default pptdataSchema;

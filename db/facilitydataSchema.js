@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const facilitydataSchema = new mongoose.Schema(
   {
@@ -23,4 +23,4 @@ const facilitydataSchema = new mongoose.Schema(
   { collection: 'facilitydata', timestamps: true }
 );
 
-module.exports = facilitydataSchema;
+export default facilitydataSchema;

@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const paySchema = new mongoose.Schema(
   {
@@ -41,4 +41,4 @@ const paySchema = new mongoose.Schema(
   { collection: 'pay', timestamps: true }
 );
 
-module.exports = paySchema;
+export default paySchema;
