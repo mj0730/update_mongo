@@ -6,7 +6,7 @@
   "license": "ISC",
   "main": "index.js",
   "dependencies": {
-    "@pointsixtyfive/paycharts": "^1.1.10",
+    "@pointsixtyfive/paycharts": "^1.1.11",
     "csv-parser": "^3.0.0",
     "mongoose": "^6.1.6"
   },
