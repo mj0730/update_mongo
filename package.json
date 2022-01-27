@@ -6,9 +6,9 @@
   "license": "ISC",
   "main": "index.js",
   "dependencies": {
-    "@pointsixtyfive/paycharts": "^1.1.11",
+    "@pointsixtyfive/paycharts": "^1.1.12",
     "csv-parser": "^3.0.0",
-    "mongoose": "^6.1.6"
+    "mongoose": "^6.1.8"
   },
   "devDependencies": {
     "eslint": "^7.32.0"
