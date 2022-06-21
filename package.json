@@ -6,12 +6,12 @@
   "license": "ISC",
   "main": "index.js",
   "dependencies": {
-    "@pointsixtyfive/paycharts": "^1.1.12",
+    "@pointsixtyfive/paycharts": "^1.1.14",
     "csv-parser": "^3.0.0",
-    "mongoose": "^6.3.8"
+    "mongoose": "^6.4.0"
   },
   "devDependencies": {
-    "eslint": "^8.17.0"
+    "eslint": "^8.18.0"
   },
   "scripts": {
     "all": "node readcsv.js && node update.js",
