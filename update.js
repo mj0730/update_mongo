@@ -1,3 +1,3 @@
 require('./updateFac');
 require('./updatePay');
-require('./updatePpt');
+// require('./updatePpt'); handled by web interface now
