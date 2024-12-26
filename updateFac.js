@@ -1,7 +1,7 @@
 const { Fac } = require('./db/connect.js');
 const facData = require('./json/facilityData.json');
 
-(async function writeFacToDb() {
+async function writeFacToDb() {
   try {
     await Fac.bulkWrite(
       facData.map((doc) => ({
@@ -16,4 +16,6 @@ const facData = require('./json/facilityData.json');
   } catch (error) {
     console.error(error);
   }
-})();
+}
+
+module.exports = writeFacToDb;

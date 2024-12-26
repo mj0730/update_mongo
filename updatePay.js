@@ -4,18 +4,12 @@ const { Pay } = require('./db/connect.js');
 const facilityData = require('./json/facilityData.json');
 
 function createFacilityList(data, key) {
-  const storage = [];
-
-  for (let i = 0; i < data.length; i++) {
-    storage.push(data[i][key]);
-  }
-
-  return storage;
+  return data.map((item) => item[key]);
 }
 
 const facilityList = createFacilityList(facilityData, 'facId');
 
-(async function writePayToDb(list) {
+async function writePayToDb(list) {
   const docs = [];
 
   for (let i = 0, len = list.length; i < len; i++) {
@@ -28,7 +22,7 @@ const facilityList = createFacilityList(facilityData, 'facId');
 
     let [DIFCPCMAX, DIFCPC, DIFD3, DIFD2, DIFD1, DIFAG] = [null, null, null, null, null, null];
 
-    if (facData.differentialType != 'none') {
+    if (facData.differentialType !== 'none') {
       [DIFCPCMAX, DIFCPC, DIFD3, DIFD2, DIFD1, DIFAG] = facData.differentialAmount;
     }
     const differentialPercentage = facData.differentialPercentage;
@@ -81,6 +75,8 @@ const facilityList = createFacilityList(facilityData, 'facId');
     );
     console.log('** Pay write complete **');
   } catch (error) {
-    console.error(error);
+    console.error(`Error writing pay data to DB for facility list: ${list}. Error: ${error.message}`, error);
   }
-})(facilityList);
+}
+
+module.exports = { writePayToDb, facilityList };

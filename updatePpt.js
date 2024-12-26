@@ -1,7 +1,7 @@
 const { Ppt } = require('./db/connect.js');
 const pptData = require('./json/ppt.json');
 
-(async function writePptToDb() {
+async function writePptToDb() {
   try {
     await Ppt.bulkWrite(
       pptData.map((doc) => ({
@@ -16,4 +16,6 @@ const pptData = require('./json/ppt.json');
   } catch (error) {
     console.error(error);
   }
-})();
+}
+
+module.exports = writePptToDb;

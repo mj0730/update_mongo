@@ -5,17 +5,17 @@
   "author": "MJ",
   "license": "ISC",
   "main": "index.js",
-  "dependencies": {
-    "@pointsixtyfive/paycharts": "^1.23.12",
-    "csv-parser": "^3.0.0",
-    "mongoose": "^8.0.3"
-  },
-  "devDependencies": {
-    "eslint": "^8.51.0"
-  },
   "scripts": {
     "all": "node readcsv.js && node update.js",
     "update": "node update.js",
     "json": "node readcsv.js"
+  },
+  "dependencies": {
+    "@pointsixtyfive/paycharts": "^1.24.11",
+    "csv-parser": "^3.0.0",
+    "mongoose": "^8.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
   }
 }
